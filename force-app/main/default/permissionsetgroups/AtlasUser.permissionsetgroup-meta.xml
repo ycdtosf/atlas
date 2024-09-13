@@ -4,7 +4,5 @@
     <label>Atlas User</label>
     <permissionSets>ClassesCountryData</permissionSets>
     <permissionSets>ClassesFlowCallout</permissionSets>
-    <permissionSets>ClassesStateData</permissionSets>
-    <permissionSets>ExtCredNoAuthenticationNamedPrincipal</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>
