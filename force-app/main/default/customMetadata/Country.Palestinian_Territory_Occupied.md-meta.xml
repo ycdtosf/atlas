@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Palestinian Territory Occupied</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">PS</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">PSE</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bethlehem&quot;,&quot;code&quot;:&quot;BTH&quot;},{&quot;name&quot;:&quot;Deir El Balah&quot;,&quot;code&quot;:&quot;DEB&quot;},{&quot;name&quot;:&quot;Gaza&quot;,&quot;code&quot;:&quot;GZA&quot;},{&quot;name&quot;:&quot;Hebron&quot;,&quot;code&quot;:&quot;HBN&quot;},{&quot;name&quot;:&quot;Jenin&quot;,&quot;code&quot;:&quot;JEN&quot;},{&quot;name&quot;:&quot;Jericho and Al Aghwar&quot;,&quot;code&quot;:&quot;JRH&quot;},{&quot;name&quot;:&quot;Jerusalem&quot;,&quot;code&quot;:&quot;JEM&quot;},{&quot;name&quot;:&quot;Khan Yunis&quot;,&quot;code&quot;:&quot;KYS&quot;},{&quot;name&quot;:&quot;Nablus&quot;,&quot;code&quot;:&quot;NBS&quot;},{&quot;name&quot;:&quot;North Gaza&quot;,&quot;code&quot;:&quot;NGZ&quot;},{&quot;name&quot;:&quot;Qalqilya&quot;,&quot;code&quot;:&quot;QQA&quot;},{&quot;name&quot;:&quot;Rafah&quot;,&quot;code&quot;:&quot;RFH&quot;},{&quot;name&quot;:&quot;Ramallah&quot;,&quot;code&quot;:&quot;RBH&quot;},{&quot;name&quot;:&quot;Salfit&quot;,&quot;code&quot;:&quot;SLT&quot;},{&quot;name&quot;:&quot;Tubas&quot;,&quot;code&quot;:&quot;TBS&quot;},{&quot;name&quot;:&quot;Tulkarm&quot;,&quot;code&quot;:&quot;TKM&quot;}]</value>
+    </values>
+</CustomMetadata>

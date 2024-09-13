@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Mauritius</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MU</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MUS</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Agalega Islands&quot;,&quot;code&quot;:&quot;AG&quot;},{&quot;name&quot;:&quot;Black River&quot;,&quot;code&quot;:&quot;BL&quot;},{&quot;name&quot;:&quot;Flacq&quot;,&quot;code&quot;:&quot;FL&quot;},{&quot;name&quot;:&quot;Grand Port&quot;,&quot;code&quot;:&quot;GP&quot;},{&quot;name&quot;:&quot;Moka&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Pamplemousses&quot;,&quot;code&quot;:&quot;PA&quot;},{&quot;name&quot;:&quot;Plaines Wilhems&quot;,&quot;code&quot;:&quot;PW&quot;},{&quot;name&quot;:&quot;Port Louis&quot;,&quot;code&quot;:&quot;PL&quot;},{&quot;name&quot;:&quot;Rivière du Rempart&quot;,&quot;code&quot;:&quot;RR&quot;},{&quot;name&quot;:&quot;Rodrigues Island&quot;,&quot;code&quot;:&quot;RO&quot;},{&quot;name&quot;:&quot;Saint Brandon Islands&quot;,&quot;code&quot;:&quot;CC&quot;},{&quot;name&quot;:&quot;Savanne&quot;,&quot;code&quot;:&quot;SA&quot;}]</value>
+    </values>
+</CustomMetadata>

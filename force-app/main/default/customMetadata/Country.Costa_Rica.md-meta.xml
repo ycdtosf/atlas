@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Costa Rica</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CR</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CRI</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Alajuela Province&quot;,&quot;code&quot;:&quot;A&quot;},{&quot;name&quot;:&quot;Guanacaste Province&quot;,&quot;code&quot;:&quot;G&quot;},{&quot;name&quot;:&quot;Heredia Province&quot;,&quot;code&quot;:&quot;H&quot;},{&quot;name&quot;:&quot;Limón Province&quot;,&quot;code&quot;:&quot;L&quot;},{&quot;name&quot;:&quot;Provincia de Cartago&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Puntarenas Province&quot;,&quot;code&quot;:&quot;P&quot;},{&quot;name&quot;:&quot;San José Province&quot;,&quot;code&quot;:&quot;SJ&quot;}]</value>
+    </values>
+</CustomMetadata>

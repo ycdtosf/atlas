@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Mongolia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MN</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MNG</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Arkhangai Province&quot;,&quot;code&quot;:&quot;073&quot;},{&quot;name&quot;:&quot;Bayan-Ölgii Province&quot;,&quot;code&quot;:&quot;071&quot;},{&quot;name&quot;:&quot;Bayankhongor Province&quot;,&quot;code&quot;:&quot;069&quot;},{&quot;name&quot;:&quot;Bulgan Province&quot;,&quot;code&quot;:&quot;067&quot;},{&quot;name&quot;:&quot;Darkhan-Uul Province&quot;,&quot;code&quot;:&quot;037&quot;},{&quot;name&quot;:&quot;Dornod Province&quot;,&quot;code&quot;:&quot;061&quot;},{&quot;name&quot;:&quot;Dornogovi Province&quot;,&quot;code&quot;:&quot;063&quot;},{&quot;name&quot;:&quot;Dundgovi Province&quot;,&quot;code&quot;:&quot;059&quot;},{&quot;name&quot;:&quot;Govi-Altai Province&quot;,&quot;code&quot;:&quot;065&quot;},{&quot;name&quot;:&quot;Govisümber Province&quot;,&quot;code&quot;:&quot;064&quot;},{&quot;name&quot;:&quot;Khentii Province&quot;,&quot;code&quot;:&quot;039&quot;},{&quot;name&quot;:&quot;Khovd Province&quot;,&quot;code&quot;:&quot;043&quot;},{&quot;name&quot;:&quot;Khövsgöl Province&quot;,&quot;code&quot;:&quot;041&quot;},{&quot;name&quot;:&quot;Ömnögovi Province&quot;,&quot;code&quot;:&quot;053&quot;},{&quot;name&quot;:&quot;Orkhon Province&quot;,&quot;code&quot;:&quot;035&quot;},{&quot;name&quot;:&quot;Övörkhangai Province&quot;,&quot;code&quot;:&quot;055&quot;},{&quot;name&quot;:&quot;Selenge Province&quot;,&quot;code&quot;:&quot;049&quot;},{&quot;name&quot;:&quot;Sükhbaatar Province&quot;,&quot;code&quot;:&quot;051&quot;},{&quot;name&quot;:&quot;Töv Province&quot;,&quot;code&quot;:&quot;047&quot;},{&quot;name&quot;:&quot;Uvs Province&quot;,&quot;code&quot;:&quot;046&quot;},{&quot;name&quot;:&quot;Zavkhan Province&quot;,&quot;code&quot;:&quot;057&quot;}]</value>
+    </values>
+</CustomMetadata>

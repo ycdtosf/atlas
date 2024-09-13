@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Ethiopia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">ET</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">ETH</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Addis Ababa&quot;,&quot;code&quot;:&quot;AA&quot;},{&quot;name&quot;:&quot;Afar Region&quot;,&quot;code&quot;:&quot;AF&quot;},{&quot;name&quot;:&quot;Amhara Region&quot;,&quot;code&quot;:&quot;AM&quot;},{&quot;name&quot;:&quot;Benishangul-Gumuz Region&quot;,&quot;code&quot;:&quot;BE&quot;},{&quot;name&quot;:&quot;Dire Dawa&quot;,&quot;code&quot;:&quot;DD&quot;},{&quot;name&quot;:&quot;Gambela Region&quot;,&quot;code&quot;:&quot;GA&quot;},{&quot;name&quot;:&quot;Harari Region&quot;,&quot;code&quot;:&quot;HA&quot;},{&quot;name&quot;:&quot;Oromia Region&quot;,&quot;code&quot;:&quot;OR&quot;},{&quot;name&quot;:&quot;Somali Region&quot;,&quot;code&quot;:&quot;SO&quot;},{&quot;name&quot;:&quot;Southern Nations, Nationalities, and Peoples&apos; Region&quot;,&quot;code&quot;:&quot;SN&quot;},{&quot;name&quot;:&quot;Tigray Region&quot;,&quot;code&quot;:&quot;TI&quot;}]</value>
+    </values>
+</CustomMetadata>

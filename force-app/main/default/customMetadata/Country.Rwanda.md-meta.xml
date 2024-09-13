@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Rwanda</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">RW</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">RWA</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Eastern Province&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Kigali district&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Northern Province&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Southern Province&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Western Province&quot;,&quot;code&quot;:&quot;04&quot;}]</value>
+    </values>
+</CustomMetadata>

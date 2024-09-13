@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Indonesia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">ID</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">IDN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Aceh&quot;,&quot;code&quot;:&quot;AC&quot;},{&quot;name&quot;:&quot;Bali&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Banten&quot;,&quot;code&quot;:&quot;BT&quot;},{&quot;name&quot;:&quot;Bengkulu&quot;,&quot;code&quot;:&quot;BE&quot;},{&quot;name&quot;:&quot;DI Yogyakarta&quot;,&quot;code&quot;:&quot;YO&quot;},{&quot;name&quot;:&quot;DKI Jakarta&quot;,&quot;code&quot;:&quot;JK&quot;},{&quot;name&quot;:&quot;Gorontalo&quot;,&quot;code&quot;:&quot;GO&quot;},{&quot;name&quot;:&quot;Jambi&quot;,&quot;code&quot;:&quot;JA&quot;},{&quot;name&quot;:&quot;Jawa Barat&quot;,&quot;code&quot;:&quot;JB&quot;},{&quot;name&quot;:&quot;Jawa Tengah&quot;,&quot;code&quot;:&quot;JT&quot;},{&quot;name&quot;:&quot;Jawa Timur&quot;,&quot;code&quot;:&quot;JI&quot;},{&quot;name&quot;:&quot;Kalimantan Barat&quot;,&quot;code&quot;:&quot;KB&quot;},{&quot;name&quot;:&quot;Kalimantan Selatan&quot;,&quot;code&quot;:&quot;KS&quot;},{&quot;name&quot;:&quot;Kalimantan Tengah&quot;,&quot;code&quot;:&quot;KT&quot;},{&quot;name&quot;:&quot;Kalimantan Timur&quot;,&quot;code&quot;:&quot;KI&quot;},{&quot;name&quot;:&quot;Kalimantan Utara&quot;,&quot;code&quot;:&quot;KU&quot;},{&quot;name&quot;:&quot;Kepulauan Bangka Belitung&quot;,&quot;code&quot;:&quot;BB&quot;},{&quot;name&quot;:&quot;Kepulauan Riau&quot;,&quot;code&quot;:&quot;KR&quot;},{&quot;name&quot;:&quot;Lampung&quot;,&quot;code&quot;:&quot;LA&quot;},{&quot;name&quot;:&quot;Maluku&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Maluku Utara&quot;,&quot;code&quot;:&quot;MU&quot;},{&quot;name&quot;:&quot;Nusa Tenggara Barat&quot;,&quot;code&quot;:&quot;NB&quot;},{&quot;name&quot;:&quot;Nusa Tenggara Timur&quot;,&quot;code&quot;:&quot;NT&quot;},{&quot;name&quot;:&quot;Papua&quot;,&quot;code&quot;:&quot;PA&quot;},{&quot;name&quot;:&quot;Papua Barat&quot;,&quot;code&quot;:&quot;PB&quot;},{&quot;name&quot;:&quot;Riau&quot;,&quot;code&quot;:&quot;RI&quot;},{&quot;name&quot;:&quot;Sulawesi Barat&quot;,&quot;code&quot;:&quot;SR&quot;},{&quot;name&quot;:&quot;Sulawesi Selatan&quot;,&quot;code&quot;:&quot;SN&quot;},{&quot;name&quot;:&quot;Sulawesi Tengah&quot;,&quot;code&quot;:&quot;ST&quot;},{&quot;name&quot;:&quot;Sulawesi Tenggara&quot;,&quot;code&quot;:&quot;SG&quot;},{&quot;name&quot;:&quot;Sulawesi Utara&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Sumatera Barat&quot;,&quot;code&quot;:&quot;SB&quot;},{&quot;name&quot;:&quot;Sumatera Selatan&quot;,&quot;code&quot;:&quot;SS&quot;},{&quot;name&quot;:&quot;Sumatera Utara&quot;,&quot;code&quot;:&quot;SU&quot;}]</value>
+    </values>
+</CustomMetadata>

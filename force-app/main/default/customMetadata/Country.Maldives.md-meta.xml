@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Maldives</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MV</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MDV</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Addu Atoll&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Alif Alif Atoll&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Alif Dhaal Atoll&quot;,&quot;code&quot;:&quot;00&quot;},{&quot;name&quot;:&quot;Central Province&quot;,&quot;code&quot;:&quot;CE&quot;},{&quot;name&quot;:&quot;Dhaalu Atoll&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Faafu Atoll&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Gaafu Alif Atoll&quot;,&quot;code&quot;:&quot;27&quot;},{&quot;name&quot;:&quot;Gaafu Dhaalu Atoll&quot;,&quot;code&quot;:&quot;28&quot;},{&quot;name&quot;:&quot;Gnaviyani Atoll&quot;,&quot;code&quot;:&quot;29&quot;},{&quot;name&quot;:&quot;Haa Alif Atoll&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Haa Dhaalu Atoll&quot;,&quot;code&quot;:&quot;23&quot;},{&quot;name&quot;:&quot;Kaafu Atoll&quot;,&quot;code&quot;:&quot;26&quot;},{&quot;name&quot;:&quot;Laamu Atoll&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Lhaviyani Atoll&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Malé&quot;,&quot;code&quot;:&quot;MLE&quot;},{&quot;name&quot;:&quot;Meemu Atoll&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Noonu Atoll&quot;,&quot;code&quot;:&quot;25&quot;},{&quot;name&quot;:&quot;North Central Province&quot;,&quot;code&quot;:&quot;NC&quot;},{&quot;name&quot;:&quot;North Province&quot;,&quot;code&quot;:&quot;NO&quot;},{&quot;name&quot;:&quot;Raa Atoll&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Shaviyani Atoll&quot;,&quot;code&quot;:&quot;24&quot;},{&quot;name&quot;:&quot;South Central Province&quot;,&quot;code&quot;:&quot;SC&quot;},{&quot;name&quot;:&quot;South Province&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Thaa Atoll&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Upper South Province&quot;,&quot;code&quot;:&quot;US&quot;},{&quot;name&quot;:&quot;Vaavu Atoll&quot;,&quot;code&quot;:&quot;04&quot;}]</value>
+    </values>
+</CustomMetadata>

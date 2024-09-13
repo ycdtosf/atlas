@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Cambodia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">KH</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">KHM</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Banteay Meanchey&quot;,&quot;code&quot;:&quot;1&quot;},{&quot;name&quot;:&quot;Battambang&quot;,&quot;code&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;Kampong Cham&quot;,&quot;code&quot;:&quot;3&quot;},{&quot;name&quot;:&quot;Kampong Chhnang&quot;,&quot;code&quot;:&quot;4&quot;},{&quot;name&quot;:&quot;Kampong Speu&quot;,&quot;code&quot;:&quot;5&quot;},{&quot;name&quot;:&quot;Kampong Thom&quot;,&quot;code&quot;:&quot;6&quot;},{&quot;name&quot;:&quot;Kampot&quot;,&quot;code&quot;:&quot;7&quot;},{&quot;name&quot;:&quot;Kandal&quot;,&quot;code&quot;:&quot;8&quot;},{&quot;name&quot;:&quot;Kep&quot;,&quot;code&quot;:&quot;23&quot;},{&quot;name&quot;:&quot;Koh Kong&quot;,&quot;code&quot;:&quot;9&quot;},{&quot;name&quot;:&quot;Kratie&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Mondulkiri&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Oddar Meanchey&quot;,&quot;code&quot;:&quot;22&quot;},{&quot;name&quot;:&quot;Pailin&quot;,&quot;code&quot;:&quot;24&quot;},{&quot;name&quot;:&quot;Phnom Penh&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Preah Vihear&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Prey Veng&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Pursat&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Ratanakiri&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Siem Reap&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Sihanoukville&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Stung Treng&quot;,&quot;code&quot;:&quot;19&quot;},{&quot;name&quot;:&quot;Svay Rieng&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;Takeo&quot;,&quot;code&quot;:&quot;21&quot;}]</value>
+    </values>
+</CustomMetadata>

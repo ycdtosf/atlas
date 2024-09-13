@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Trinidad and Tobago</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">TT</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">TTO</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Arima&quot;,&quot;code&quot;:&quot;ARI&quot;},{&quot;name&quot;:&quot;Chaguanas&quot;,&quot;code&quot;:&quot;CHA&quot;},{&quot;name&quot;:&quot;Couva-Tabaquite-Talparo Regional Corporation&quot;,&quot;code&quot;:&quot;CTT&quot;},{&quot;name&quot;:&quot;Diego Martin Regional Corporation&quot;,&quot;code&quot;:&quot;DMN&quot;},{&quot;name&quot;:&quot;Eastern Tobago&quot;,&quot;code&quot;:&quot;ETO&quot;},{&quot;name&quot;:&quot;Penal-Debe Regional Corporation&quot;,&quot;code&quot;:&quot;PED&quot;},{&quot;name&quot;:&quot;Point Fortin&quot;,&quot;code&quot;:&quot;PTF&quot;},{&quot;name&quot;:&quot;Port of Spain&quot;,&quot;code&quot;:&quot;POS&quot;},{&quot;name&quot;:&quot;Princes Town Regional Corporation&quot;,&quot;code&quot;:&quot;PRT&quot;},{&quot;name&quot;:&quot;Rio Claro-Mayaro Regional Corporation&quot;,&quot;code&quot;:&quot;MRC&quot;},{&quot;name&quot;:&quot;San Fernando&quot;,&quot;code&quot;:&quot;SFO&quot;},{&quot;name&quot;:&quot;San Juan-Laventille Regional Corporation&quot;,&quot;code&quot;:&quot;SJL&quot;},{&quot;name&quot;:&quot;Sangre Grande Regional Corporation&quot;,&quot;code&quot;:&quot;SGE&quot;},{&quot;name&quot;:&quot;Siparia Regional Corporation&quot;,&quot;code&quot;:&quot;SIP&quot;},{&quot;name&quot;:&quot;Tunapuna-Piarco Regional Corporation&quot;,&quot;code&quot;:&quot;TUP&quot;},{&quot;name&quot;:&quot;Western Tobago&quot;,&quot;code&quot;:&quot;WTO&quot;}]</value>
+    </values>
+</CustomMetadata>

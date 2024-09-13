@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Yemen</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">YE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">YEM</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;&apos;Adan&quot;,&quot;code&quot;:&quot;AD&quot;},{&quot;name&quot;:&quot;&apos;Amran&quot;,&quot;code&quot;:&quot;AM&quot;},{&quot;name&quot;:&quot;Abyan&quot;,&quot;code&quot;:&quot;AB&quot;},{&quot;name&quot;:&quot;Al Bayda&apos;&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Al Hudaydah&quot;,&quot;code&quot;:&quot;HU&quot;},{&quot;name&quot;:&quot;Al Jawf&quot;,&quot;code&quot;:&quot;JA&quot;},{&quot;name&quot;:&quot;Al Mahrah&quot;,&quot;code&quot;:&quot;MR&quot;},{&quot;name&quot;:&quot;Al Mahwit&quot;,&quot;code&quot;:&quot;MW&quot;},{&quot;name&quot;:&quot;Amanat Al Asimah&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Dhamar&quot;,&quot;code&quot;:&quot;DH&quot;},{&quot;name&quot;:&quot;Hadhramaut&quot;,&quot;code&quot;:&quot;HD&quot;},{&quot;name&quot;:&quot;Hajjah&quot;,&quot;code&quot;:&quot;HJ&quot;},{&quot;name&quot;:&quot;Ibb&quot;,&quot;code&quot;:&quot;IB&quot;},{&quot;name&quot;:&quot;Lahij&quot;,&quot;code&quot;:&quot;LA&quot;},{&quot;name&quot;:&quot;Ma&apos;rib&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Raymah&quot;,&quot;code&quot;:&quot;RA&quot;},{&quot;name&quot;:&quot;Saada&quot;,&quot;code&quot;:&quot;SD&quot;},{&quot;name&quot;:&quot;Sana&apos;a&quot;,&quot;code&quot;:&quot;SN&quot;},{&quot;name&quot;:&quot;Shabwah&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Socotra&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Ta&apos;izz&quot;,&quot;code&quot;:&quot;TA&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Burundi</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BI</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BDI</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bubanza Province&quot;,&quot;code&quot;:&quot;BB&quot;},{&quot;name&quot;:&quot;Bujumbura Mairie Province&quot;,&quot;code&quot;:&quot;BM&quot;},{&quot;name&quot;:&quot;Bujumbura Rural Province&quot;,&quot;code&quot;:&quot;BL&quot;},{&quot;name&quot;:&quot;Bururi Province&quot;,&quot;code&quot;:&quot;BR&quot;},{&quot;name&quot;:&quot;Cankuzo Province&quot;,&quot;code&quot;:&quot;CA&quot;},{&quot;name&quot;:&quot;Cibitoke Province&quot;,&quot;code&quot;:&quot;CI&quot;},{&quot;name&quot;:&quot;Gitega Province&quot;,&quot;code&quot;:&quot;GI&quot;},{&quot;name&quot;:&quot;Karuzi Province&quot;,&quot;code&quot;:&quot;KR&quot;},{&quot;name&quot;:&quot;Kayanza Province&quot;,&quot;code&quot;:&quot;KY&quot;},{&quot;name&quot;:&quot;Kirundo Province&quot;,&quot;code&quot;:&quot;KI&quot;},{&quot;name&quot;:&quot;Makamba Province&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Muramvya Province&quot;,&quot;code&quot;:&quot;MU&quot;},{&quot;name&quot;:&quot;Muyinga Province&quot;,&quot;code&quot;:&quot;MY&quot;},{&quot;name&quot;:&quot;Mwaro Province&quot;,&quot;code&quot;:&quot;MW&quot;},{&quot;name&quot;:&quot;Ngozi Province&quot;,&quot;code&quot;:&quot;NG&quot;},{&quot;name&quot;:&quot;Rumonge Province&quot;,&quot;code&quot;:&quot;RM&quot;},{&quot;name&quot;:&quot;Rutana Province&quot;,&quot;code&quot;:&quot;RT&quot;},{&quot;name&quot;:&quot;Ruyigi Province&quot;,&quot;code&quot;:&quot;RY&quot;}]</value>
+    </values>
+</CustomMetadata>

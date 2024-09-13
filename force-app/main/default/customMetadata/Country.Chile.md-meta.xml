@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Chile</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CL</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CHL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Aisén del General Carlos Ibañez del Campo&quot;,&quot;code&quot;:&quot;AI&quot;},{&quot;name&quot;:&quot;Antofagasta&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Arica y Parinacota&quot;,&quot;code&quot;:&quot;AP&quot;},{&quot;name&quot;:&quot;Atacama&quot;,&quot;code&quot;:&quot;AT&quot;},{&quot;name&quot;:&quot;Biobío&quot;,&quot;code&quot;:&quot;BI&quot;},{&quot;name&quot;:&quot;Coquimbo&quot;,&quot;code&quot;:&quot;CO&quot;},{&quot;name&quot;:&quot;La Araucanía&quot;,&quot;code&quot;:&quot;AR&quot;},{&quot;name&quot;:&quot;Libertador General Bernardo O&apos;Higgins&quot;,&quot;code&quot;:&quot;LI&quot;},{&quot;name&quot;:&quot;Los Lagos&quot;,&quot;code&quot;:&quot;LL&quot;},{&quot;name&quot;:&quot;Los Ríos&quot;,&quot;code&quot;:&quot;LR&quot;},{&quot;name&quot;:&quot;Magallanes y de la Antártica Chilena&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Maule&quot;,&quot;code&quot;:&quot;ML&quot;},{&quot;name&quot;:&quot;Ñuble&quot;,&quot;code&quot;:&quot;NB&quot;},{&quot;name&quot;:&quot;Región Metropolitana de Santiago&quot;,&quot;code&quot;:&quot;RM&quot;},{&quot;name&quot;:&quot;Tarapacá&quot;,&quot;code&quot;:&quot;TA&quot;},{&quot;name&quot;:&quot;Valparaíso&quot;,&quot;code&quot;:&quot;VS&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Moldova</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MD</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MDA</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Anenii Noi District&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Bălți Municipality&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Basarabeasca District&quot;,&quot;code&quot;:&quot;BS&quot;},{&quot;name&quot;:&quot;Bender Municipality&quot;,&quot;code&quot;:&quot;BD&quot;},{&quot;name&quot;:&quot;Briceni District&quot;,&quot;code&quot;:&quot;BR&quot;},{&quot;name&quot;:&quot;Cahul District&quot;,&quot;code&quot;:&quot;CA&quot;},{&quot;name&quot;:&quot;Călărași District&quot;,&quot;code&quot;:&quot;CL&quot;},{&quot;name&quot;:&quot;Cantemir District&quot;,&quot;code&quot;:&quot;CT&quot;},{&quot;name&quot;:&quot;Căușeni District&quot;,&quot;code&quot;:&quot;CS&quot;},{&quot;name&quot;:&quot;Chișinău Municipality&quot;,&quot;code&quot;:&quot;CU&quot;},{&quot;name&quot;:&quot;Cimișlia District&quot;,&quot;code&quot;:&quot;CM&quot;},{&quot;name&quot;:&quot;Criuleni District&quot;,&quot;code&quot;:&quot;CR&quot;},{&quot;name&quot;:&quot;Dondușeni District&quot;,&quot;code&quot;:&quot;DO&quot;},{&quot;name&quot;:&quot;Drochia District&quot;,&quot;code&quot;:&quot;DR&quot;},{&quot;name&quot;:&quot;Dubăsari District&quot;,&quot;code&quot;:&quot;DU&quot;},{&quot;name&quot;:&quot;Edineț District&quot;,&quot;code&quot;:&quot;ED&quot;},{&quot;name&quot;:&quot;Fălești District&quot;,&quot;code&quot;:&quot;FA&quot;},{&quot;name&quot;:&quot;Florești District&quot;,&quot;code&quot;:&quot;FL&quot;},{&quot;name&quot;:&quot;Gagauzia&quot;,&quot;code&quot;:&quot;GA&quot;},{&quot;name&quot;:&quot;Glodeni District&quot;,&quot;code&quot;:&quot;GL&quot;},{&quot;name&quot;:&quot;Hîncești District&quot;,&quot;code&quot;:&quot;HI&quot;},{&quot;name&quot;:&quot;Ialoveni District&quot;,&quot;code&quot;:&quot;IA&quot;},{&quot;name&quot;:&quot;Nisporeni District&quot;,&quot;code&quot;:&quot;NI&quot;},{&quot;name&quot;:&quot;Ocnița District&quot;,&quot;code&quot;:&quot;OC&quot;},{&quot;name&quot;:&quot;Orhei District&quot;,&quot;code&quot;:&quot;OR&quot;},{&quot;name&quot;:&quot;Rezina District&quot;,&quot;code&quot;:&quot;RE&quot;},{&quot;name&quot;:&quot;Rîșcani District&quot;,&quot;code&quot;:&quot;RI&quot;},{&quot;name&quot;:&quot;Sîngerei District&quot;,&quot;code&quot;:&quot;SI&quot;},{&quot;name&quot;:&quot;Șoldănești District&quot;,&quot;code&quot;:&quot;SD&quot;},{&quot;name&quot;:&quot;Soroca District&quot;,&quot;code&quot;:&quot;SO&quot;},{&quot;name&quot;:&quot;Ștefan Vodă District&quot;,&quot;code&quot;:&quot;SV&quot;},{&quot;name&quot;:&quot;Strășeni District&quot;,&quot;code&quot;:&quot;ST&quot;},{&quot;name&quot;:&quot;Taraclia District&quot;,&quot;code&quot;:&quot;TA&quot;},{&quot;name&quot;:&quot;Telenești District&quot;,&quot;code&quot;:&quot;TE&quot;},{&quot;name&quot;:&quot;Transnistria autonomous territorial unit&quot;,&quot;code&quot;:&quot;SN&quot;},{&quot;name&quot;:&quot;Ungheni District&quot;,&quot;code&quot;:&quot;UN&quot;}]</value>
+    </values>
+</CustomMetadata>

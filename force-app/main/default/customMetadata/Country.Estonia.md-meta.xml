@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Estonia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">EE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">EST</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Harju County&quot;,&quot;code&quot;:&quot;37&quot;},{&quot;name&quot;:&quot;Hiiu County&quot;,&quot;code&quot;:&quot;39&quot;},{&quot;name&quot;:&quot;Ida-Viru County&quot;,&quot;code&quot;:&quot;44&quot;},{&quot;name&quot;:&quot;Järva County&quot;,&quot;code&quot;:&quot;51&quot;},{&quot;name&quot;:&quot;Jõgeva County&quot;,&quot;code&quot;:&quot;49&quot;},{&quot;name&quot;:&quot;Lääne County&quot;,&quot;code&quot;:&quot;57&quot;},{&quot;name&quot;:&quot;Lääne-Viru County&quot;,&quot;code&quot;:&quot;59&quot;},{&quot;name&quot;:&quot;Pärnu County&quot;,&quot;code&quot;:&quot;67&quot;},{&quot;name&quot;:&quot;Põlva County&quot;,&quot;code&quot;:&quot;65&quot;},{&quot;name&quot;:&quot;Rapla County&quot;,&quot;code&quot;:&quot;70&quot;},{&quot;name&quot;:&quot;Saare County&quot;,&quot;code&quot;:&quot;74&quot;},{&quot;name&quot;:&quot;Tartu County&quot;,&quot;code&quot;:&quot;78&quot;},{&quot;name&quot;:&quot;Valga County&quot;,&quot;code&quot;:&quot;82&quot;},{&quot;name&quot;:&quot;Viljandi County&quot;,&quot;code&quot;:&quot;84&quot;},{&quot;name&quot;:&quot;Võru County&quot;,&quot;code&quot;:&quot;86&quot;}]</value>
+    </values>
+</CustomMetadata>

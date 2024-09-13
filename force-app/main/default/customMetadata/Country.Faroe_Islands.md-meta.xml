@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Faroe Islands</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">FO</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">FRO</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Eysturoy&quot;,&quot;code&quot;:&quot;EY&quot;},{&quot;name&quot;:&quot;Northern Isles&quot;,&quot;code&quot;:&quot;NO&quot;},{&quot;name&quot;:&quot;Sandoy&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Streymoy&quot;,&quot;code&quot;:&quot;ST&quot;},{&quot;name&quot;:&quot;Suðuroy&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Vágar&quot;,&quot;code&quot;:&quot;VA&quot;}]</value>
+    </values>
+</CustomMetadata>

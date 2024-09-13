@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Benin</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BJ</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BEN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Alibori Department&quot;,&quot;code&quot;:&quot;AL&quot;},{&quot;name&quot;:&quot;Atakora Department&quot;,&quot;code&quot;:&quot;AK&quot;},{&quot;name&quot;:&quot;Atlantique Department&quot;,&quot;code&quot;:&quot;AQ&quot;},{&quot;name&quot;:&quot;Borgou Department&quot;,&quot;code&quot;:&quot;BO&quot;},{&quot;name&quot;:&quot;Collines Department&quot;,&quot;code&quot;:&quot;CO&quot;},{&quot;name&quot;:&quot;Donga Department&quot;,&quot;code&quot;:&quot;DO&quot;},{&quot;name&quot;:&quot;Kouffo Department&quot;,&quot;code&quot;:&quot;KO&quot;},{&quot;name&quot;:&quot;Littoral Department&quot;,&quot;code&quot;:&quot;LI&quot;},{&quot;name&quot;:&quot;Mono Department&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Ouémé Department&quot;,&quot;code&quot;:&quot;OU&quot;},{&quot;name&quot;:&quot;Plateau Department&quot;,&quot;code&quot;:&quot;PL&quot;},{&quot;name&quot;:&quot;Zou Department&quot;,&quot;code&quot;:&quot;ZO&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionCalls>
+        <name>Get_Countries</name>
+        <label>Get Countries</label>
+        <locationX>176</locationX>
+        <locationY>134</locationY>
+        <actionName>GetCountries.Get Countries</actionName>
+        <actionType>externalService</actionType>
+        <connector>
+            <targetReference>Transform_Countries</targetReference>
+        </connector>
+        <flowTransactionModel>CurrentTransaction</flowTransactionModel>
+        <nameSegment>GetCountries.Get Countries</nameSegment>
+        <storeOutputAutomatically>true</storeOutputAutomatically>
+        <versionSegment>1</versionSegment>
+    </actionCalls>
+    <apiVersion>61.0</apiVersion>
+    <assignments>
+        <name>Set_Output</name>
+        <label>Set Output</label>
+        <locationX>176</locationX>
+        <locationY>350</locationY>
+        <assignmentItems>
+            <assignToReference>countryData</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <elementReference>Transform_Countries</elementReference>
+            </value>
+        </assignmentItems>
+    </assignments>
+    <environments>Default</environments>
+    <interviewLabel>Get Countries {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Get Countries</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>AUTO_LAYOUT_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>AutoLaunchedFlow</processType>
+    <runInMode>DefaultMode</runInMode>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Get_Countries</targetReference>
+        </connector>
+    </start>
+    <status>Active</status>
+    <transforms>
+        <name>Transform_Countries</name>
+        <label>Transform Countries</label>
+        <locationX>176</locationX>
+        <locationY>242</locationY>
+        <apexClass>CountryData</apexClass>
+        <connector>
+            <targetReference>Set_Output</targetReference>
+        </connector>
+        <dataType>Apex</dataType>
+        <isCollection>true</isCollection>
+        <scale>0</scale>
+        <transformValues>
+            <transformValueActions>
+                <outputFieldApiName>iso2</outputFieldApiName>
+                <transformType>Map</transformType>
+                <value>
+                    <elementReference>Get_Countries.2XX.data[$EachItem].Iso2</elementReference>
+                </value>
+            </transformValueActions>
+            <transformValueActions>
+                <outputFieldApiName>iso3</outputFieldApiName>
+                <transformType>Map</transformType>
+                <value>
+                    <elementReference>Get_Countries.2XX.data[$EachItem].Iso3</elementReference>
+                </value>
+            </transformValueActions>
+            <transformValueActions>
+                <outputFieldApiName>name</outputFieldApiName>
+                <transformType>Map</transformType>
+                <value>
+                    <elementReference>Get_Countries.2XX.data[$EachItem].name</elementReference>
+                </value>
+            </transformValueActions>
+        </transformValues>
+    </transforms>
+    <variables>
+        <name>countryData</name>
+        <apexClass>CountryData</apexClass>
+        <dataType>Apex</dataType>
+        <isCollection>true</isCollection>
+        <isInput>false</isInput>
+        <isOutput>true</isOutput>
+    </variables>
+</Flow>

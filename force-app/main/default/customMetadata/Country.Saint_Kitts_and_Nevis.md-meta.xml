@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Saint Kitts and Nevis</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">KN</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">KNA</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Christ Church Nichola Town Parish&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Nevis&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Saint Anne Sandy Point Parish&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Saint George Gingerland Parish&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Saint James Windward Parish&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Saint John Capisterre Parish&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Saint John Figtree Parish&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Saint Kitts&quot;,&quot;code&quot;:&quot;K&quot;},{&quot;name&quot;:&quot;Saint Mary Cayon Parish&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Saint Paul Capisterre Parish&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Saint Paul Charlestown Parish&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Saint Peter Basseterre Parish&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Saint Thomas Lowland Parish&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Saint Thomas Middle Island Parish&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Trinity Palmetto Point Parish&quot;,&quot;code&quot;:&quot;15&quot;}]</value>
+    </values>
+</CustomMetadata>

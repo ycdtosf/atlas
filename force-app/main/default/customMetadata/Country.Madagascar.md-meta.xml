@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Madagascar</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MG</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MDG</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Antananarivo Province&quot;,&quot;code&quot;:&quot;T&quot;},{&quot;name&quot;:&quot;Antsiranana Province&quot;,&quot;code&quot;:&quot;D&quot;},{&quot;name&quot;:&quot;Fianarantsoa Province&quot;,&quot;code&quot;:&quot;F&quot;},{&quot;name&quot;:&quot;Mahajanga Province&quot;,&quot;code&quot;:&quot;M&quot;},{&quot;name&quot;:&quot;Toamasina Province&quot;,&quot;code&quot;:&quot;A&quot;},{&quot;name&quot;:&quot;Toliara Province&quot;,&quot;code&quot;:&quot;U&quot;}]</value>
+    </values>
+</CustomMetadata>

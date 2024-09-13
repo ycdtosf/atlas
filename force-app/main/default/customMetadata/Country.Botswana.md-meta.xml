@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Botswana</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BW</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BWA</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Central District&quot;,&quot;code&quot;:&quot;CE&quot;},{&quot;name&quot;:&quot;Ghanzi District&quot;,&quot;code&quot;:&quot;GH&quot;},{&quot;name&quot;:&quot;Kgalagadi District&quot;,&quot;code&quot;:&quot;KG&quot;},{&quot;name&quot;:&quot;Kgatleng District&quot;,&quot;code&quot;:&quot;KL&quot;},{&quot;name&quot;:&quot;Kweneng District&quot;,&quot;code&quot;:&quot;KW&quot;},{&quot;name&quot;:&quot;Ngamiland&quot;,&quot;code&quot;:&quot;NG&quot;},{&quot;name&quot;:&quot;North-East District&quot;,&quot;code&quot;:&quot;NE&quot;},{&quot;name&quot;:&quot;North-West District&quot;,&quot;code&quot;:&quot;NW&quot;},{&quot;name&quot;:&quot;South-East District&quot;,&quot;code&quot;:&quot;SE&quot;},{&quot;name&quot;:&quot;Southern District&quot;,&quot;code&quot;:&quot;SO&quot;}]</value>
+    </values>
+</CustomMetadata>

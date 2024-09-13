@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Iceland</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">IS</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">ISL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Capital Region&quot;,&quot;code&quot;:&quot;1&quot;},{&quot;name&quot;:&quot;Eastern Region&quot;,&quot;code&quot;:&quot;7&quot;},{&quot;name&quot;:&quot;Northeastern Region&quot;,&quot;code&quot;:&quot;6&quot;},{&quot;name&quot;:&quot;Northwestern Region&quot;,&quot;code&quot;:&quot;5&quot;},{&quot;name&quot;:&quot;Southern Peninsula Region&quot;,&quot;code&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;Southern Region&quot;,&quot;code&quot;:&quot;8&quot;},{&quot;name&quot;:&quot;Western Region&quot;,&quot;code&quot;:&quot;3&quot;},{&quot;name&quot;:&quot;Westfjords&quot;,&quot;code&quot;:&quot;4&quot;}]</value>
+    </values>
+</CustomMetadata>

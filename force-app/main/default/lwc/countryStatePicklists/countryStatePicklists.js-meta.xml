@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>61.0</apiVersion>
+    <isExposed>true</isExposed>
+    <targets>
+        <target>lightning__FlowScreen</target>
+        <target>lightning__AppPage</target>
+    </targets>
+    <targetConfigs>
+        <targetConfig targets="lightning__FlowScreen">
+            <property label="Layout" name="layout" type="String" description="'One Column' or 'Two Columns'" role="inputOnly" />
+            <property label="Selected Country" name="selectedCountry" type="String" />
+            <property label="Selected Country ISO2" name="selectedCountryIso2" type="String" role="outputOnly" />
+            <property label="Selected Country ISO3" name="selectedCountryIso3" type="String" role="outputOnly" />
+            <property label="Selected State" name="selectedState" type="String" />
+            <property label="Selected State Code" name="selectedStateCode" type="String" role="outputOnly" />
+            <property label="Country Picklist Label" name="countryPicklistLabel" type="String" role="inputOnly" />
+            <property label="Country Picklist Required?" name="isCountryPicklistRequired" type="Boolean" role="inputOnly" />
+            <property label="State Picklist Label" name="statePicklistLabel" type="String" role="inputOnly" />
+            <property label="State Picklist Required?" name="isStatePicklistRequired" type="Boolean" role="inputOnly" />
+            <property label="Country Label Format" name="countryLabelFormat" type="String" description="Options = 'Name', 'ISO2', or 'ISO3'" role="inputOnly" />
+            <property label="Country Value Format" name="countryValueFormat" type="String" description="Options = 'Name', 'ISO2', or 'ISO3'" role="inputOnly" />
+            <property label="State Label Format" name="stateLabelFormat" type="String" description="Options = 'Name' or 'State Code'" role="inputOnly" />
+            <property label="State Value Format" name="stateValueFormat" type="String" description="Options = 'Name' or 'State Code'" role="inputOnly" />
+        </targetConfig>
+        <targetConfig targets="lightning__AppPage">
+            <property label="Layout" name="layout" type="String" datasource="One Column, Two Columns" />
+            <property label="Selected Country" name="selectedCountry" type="String" />
+            <property label="Selected State" name="selectedState" type="String" />
+            <property label="Country Picklist Label" name="countryPicklistLabel" type="String" />
+            <property label="Country Picklist Required?" name="isCountryPicklistRequired" type="Boolean" />
+            <property label="State Picklist Label" name="statePicklistLabel" type="String" />
+            <property label="State Picklist Required?" name="isStatePicklistRequired" type="Boolean" />
+            <property label="Country Label Format" name="countryLabelFormat" type="String" datasource="Name, ISO2, ISO3" />
+            <property label="Country Value Format" name="countryValueFormat" type="String" datasource="Name, ISO2, ISO3" />
+            <property label="State Label Format" name="stateLabelFormat" type="String" datasource="Name, State Code" />
+            <property label="State Value Format" name="stateValueFormat" type="String" datasource="Name, State Code" />
+        </targetConfig>
+    </targetConfigs>
+</LightningComponentBundle>

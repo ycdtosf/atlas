@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Taiwan</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">TW</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">TWN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Changhua&quot;,&quot;code&quot;:&quot;CHA&quot;},{&quot;name&quot;:&quot;Chiayi&quot;,&quot;code&quot;:&quot;CYI&quot;},{&quot;name&quot;:&quot;Chiayi&quot;,&quot;code&quot;:&quot;CYQ&quot;},{&quot;name&quot;:&quot;Hsinchu&quot;,&quot;code&quot;:&quot;HSQ&quot;},{&quot;name&quot;:&quot;Hsinchu&quot;,&quot;code&quot;:&quot;HSZ&quot;},{&quot;name&quot;:&quot;Hualien&quot;,&quot;code&quot;:&quot;HUA&quot;},{&quot;name&quot;:&quot;Kaohsiung&quot;,&quot;code&quot;:&quot;KHH&quot;},{&quot;name&quot;:&quot;Keelung&quot;,&quot;code&quot;:&quot;KEE&quot;},{&quot;name&quot;:&quot;Kinmen&quot;,&quot;code&quot;:&quot;KIN&quot;},{&quot;name&quot;:&quot;Lienchiang&quot;,&quot;code&quot;:&quot;LIE&quot;},{&quot;name&quot;:&quot;Miaoli&quot;,&quot;code&quot;:&quot;MIA&quot;},{&quot;name&quot;:&quot;Nantou&quot;,&quot;code&quot;:&quot;NAN&quot;},{&quot;name&quot;:&quot;New Taipei&quot;,&quot;code&quot;:&quot;NWT&quot;},{&quot;name&quot;:&quot;Penghu&quot;,&quot;code&quot;:&quot;PEN&quot;},{&quot;name&quot;:&quot;Pingtung&quot;,&quot;code&quot;:&quot;PIF&quot;},{&quot;name&quot;:&quot;Taichung&quot;,&quot;code&quot;:&quot;TXG&quot;},{&quot;name&quot;:&quot;Tainan&quot;,&quot;code&quot;:&quot;TNN&quot;},{&quot;name&quot;:&quot;Taipei&quot;,&quot;code&quot;:&quot;TPE&quot;},{&quot;name&quot;:&quot;Taitung&quot;,&quot;code&quot;:&quot;TTT&quot;},{&quot;name&quot;:&quot;Taoyuan&quot;,&quot;code&quot;:&quot;TAO&quot;},{&quot;name&quot;:&quot;Yilan&quot;,&quot;code&quot;:&quot;ILA&quot;},{&quot;name&quot;:&quot;Yunlin&quot;,&quot;code&quot;:&quot;YUN&quot;}]</value>
+    </values>
+</CustomMetadata>

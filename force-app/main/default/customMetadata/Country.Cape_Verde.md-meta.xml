@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Cape Verde</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CV</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CPV</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Barlavento Islands&quot;,&quot;code&quot;:&quot;B&quot;},{&quot;name&quot;:&quot;Boa Vista&quot;,&quot;code&quot;:&quot;BV&quot;},{&quot;name&quot;:&quot;Brava&quot;,&quot;code&quot;:&quot;BR&quot;},{&quot;name&quot;:&quot;Maio Municipality&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Mosteiros&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Paul&quot;,&quot;code&quot;:&quot;PA&quot;},{&quot;name&quot;:&quot;Porto Novo&quot;,&quot;code&quot;:&quot;PN&quot;},{&quot;name&quot;:&quot;Praia&quot;,&quot;code&quot;:&quot;PR&quot;},{&quot;name&quot;:&quot;Ribeira Brava Municipality&quot;,&quot;code&quot;:&quot;RB&quot;},{&quot;name&quot;:&quot;Ribeira Grande&quot;,&quot;code&quot;:&quot;RG&quot;},{&quot;name&quot;:&quot;Ribeira Grande de Santiago&quot;,&quot;code&quot;:&quot;RS&quot;},{&quot;name&quot;:&quot;Sal&quot;,&quot;code&quot;:&quot;SL&quot;},{&quot;name&quot;:&quot;Santa Catarina&quot;,&quot;code&quot;:&quot;CA&quot;},{&quot;name&quot;:&quot;Santa Catarina do Fogo&quot;,&quot;code&quot;:&quot;CF&quot;},{&quot;name&quot;:&quot;Santa Cruz&quot;,&quot;code&quot;:&quot;CR&quot;},{&quot;name&quot;:&quot;São Domingos&quot;,&quot;code&quot;:&quot;SD&quot;},{&quot;name&quot;:&quot;São Filipe&quot;,&quot;code&quot;:&quot;SF&quot;},{&quot;name&quot;:&quot;São Lourenço dos Órgãos&quot;,&quot;code&quot;:&quot;SO&quot;},{&quot;name&quot;:&quot;São Miguel&quot;,&quot;code&quot;:&quot;SM&quot;},{&quot;name&quot;:&quot;São Vicente&quot;,&quot;code&quot;:&quot;SV&quot;},{&quot;name&quot;:&quot;Sotavento Islands&quot;,&quot;code&quot;:&quot;S&quot;},{&quot;name&quot;:&quot;Tarrafal&quot;,&quot;code&quot;:&quot;TA&quot;},{&quot;name&quot;:&quot;Tarrafal de São Nicolau&quot;,&quot;code&quot;:&quot;TS&quot;}]</value>
+    </values>
+</CustomMetadata>

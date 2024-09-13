@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Zimbabwe</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">ZW</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">ZWE</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bulawayo Province&quot;,&quot;code&quot;:&quot;BU&quot;},{&quot;name&quot;:&quot;Harare Province&quot;,&quot;code&quot;:&quot;HA&quot;},{&quot;name&quot;:&quot;Manicaland&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Mashonaland Central Province&quot;,&quot;code&quot;:&quot;MC&quot;},{&quot;name&quot;:&quot;Mashonaland East Province&quot;,&quot;code&quot;:&quot;ME&quot;},{&quot;name&quot;:&quot;Mashonaland West Province&quot;,&quot;code&quot;:&quot;MW&quot;},{&quot;name&quot;:&quot;Masvingo Province&quot;,&quot;code&quot;:&quot;MV&quot;},{&quot;name&quot;:&quot;Matabeleland North Province&quot;,&quot;code&quot;:&quot;MN&quot;},{&quot;name&quot;:&quot;Matabeleland South Province&quot;,&quot;code&quot;:&quot;MS&quot;},{&quot;name&quot;:&quot;Midlands Province&quot;,&quot;code&quot;:&quot;MI&quot;}]</value>
+    </values>
+</CustomMetadata>

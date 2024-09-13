@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Togo</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">TG</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">TGO</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Centrale Region&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Kara Region&quot;,&quot;code&quot;:&quot;K&quot;},{&quot;name&quot;:&quot;Maritime&quot;,&quot;code&quot;:&quot;M&quot;},{&quot;name&quot;:&quot;Plateaux Region&quot;,&quot;code&quot;:&quot;P&quot;},{&quot;name&quot;:&quot;Savanes Region&quot;,&quot;code&quot;:&quot;S&quot;}]</value>
+    </values>
+</CustomMetadata>

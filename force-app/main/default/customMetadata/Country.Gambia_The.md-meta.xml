@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Gambia The</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">GM</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">GMB</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Banjul&quot;,&quot;code&quot;:&quot;B&quot;},{&quot;name&quot;:&quot;Central River Division&quot;,&quot;code&quot;:&quot;M&quot;},{&quot;name&quot;:&quot;Lower River Division&quot;,&quot;code&quot;:&quot;L&quot;},{&quot;name&quot;:&quot;North Bank Division&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Upper River Division&quot;,&quot;code&quot;:&quot;U&quot;},{&quot;name&quot;:&quot;West Coast Division&quot;,&quot;code&quot;:&quot;W&quot;}]</value>
+    </values>
+</CustomMetadata>

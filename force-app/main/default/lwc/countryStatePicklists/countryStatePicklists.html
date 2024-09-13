@@ -1,0 +1,26 @@
+<template>
+    <div class="slds-grid slds-wrap slds-gutters">
+        <div class={columnCssClasses}>
+            <lightning-combobox
+                placeholder={countryPicklistPlaceholder}
+                label={countryPicklistLabel}
+                value={selectedCountry}
+                options={countryOptions}
+                onchange={onCountrySelected}
+                required={isCountryPicklistRequired}
+                disabled={isCountryPicklistDisabled}
+            ></lightning-combobox>
+        </div>
+        <div class={columnCssClasses}>
+            <lightning-combobox
+                placeholder={statePicklistPlaceholder}
+                label={statePicklistLabel}
+                value={selectedState}
+                options={stateOptions}
+                onchange={onStateSelected}
+                required={isStatePicklistRequired}
+                disabled={isStatePicklistDisabled}
+            ></lightning-combobox>
+        </div>
+    </div>
+</template>

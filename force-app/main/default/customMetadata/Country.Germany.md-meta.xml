@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Germany</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">DE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">DEU</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Baden-Württemberg&quot;,&quot;code&quot;:&quot;BW&quot;},{&quot;name&quot;:&quot;Bavaria&quot;,&quot;code&quot;:&quot;BY&quot;},{&quot;name&quot;:&quot;Berlin&quot;,&quot;code&quot;:&quot;BE&quot;},{&quot;name&quot;:&quot;Brandenburg&quot;,&quot;code&quot;:&quot;BB&quot;},{&quot;name&quot;:&quot;Bremen&quot;,&quot;code&quot;:&quot;HB&quot;},{&quot;name&quot;:&quot;Hamburg&quot;,&quot;code&quot;:&quot;HH&quot;},{&quot;name&quot;:&quot;Hesse&quot;,&quot;code&quot;:&quot;HE&quot;},{&quot;name&quot;:&quot;Lower Saxony&quot;,&quot;code&quot;:&quot;NI&quot;},{&quot;name&quot;:&quot;Mecklenburg-Vorpommern&quot;,&quot;code&quot;:&quot;MV&quot;},{&quot;name&quot;:&quot;North Rhine-Westphalia&quot;,&quot;code&quot;:&quot;NW&quot;},{&quot;name&quot;:&quot;Rhineland-Palatinate&quot;,&quot;code&quot;:&quot;RP&quot;},{&quot;name&quot;:&quot;Saarland&quot;,&quot;code&quot;:&quot;SL&quot;},{&quot;name&quot;:&quot;Saxony&quot;,&quot;code&quot;:&quot;SN&quot;},{&quot;name&quot;:&quot;Saxony-Anhalt&quot;,&quot;code&quot;:&quot;ST&quot;},{&quot;name&quot;:&quot;Schleswig-Holstein&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Thuringia&quot;,&quot;code&quot;:&quot;TH&quot;}]</value>
+    </values>
+</CustomMetadata>

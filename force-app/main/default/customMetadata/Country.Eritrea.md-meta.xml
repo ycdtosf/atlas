@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Eritrea</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">ER</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">ERI</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Anseba Region&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Debub Region&quot;,&quot;code&quot;:&quot;DU&quot;},{&quot;name&quot;:&quot;Gash-Barka Region&quot;,&quot;code&quot;:&quot;GB&quot;},{&quot;name&quot;:&quot;Maekel Region&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Northern Red Sea Region&quot;,&quot;code&quot;:&quot;SK&quot;},{&quot;name&quot;:&quot;Southern Red Sea Region&quot;,&quot;code&quot;:&quot;DK&quot;}]</value>
+    </values>
+</CustomMetadata>

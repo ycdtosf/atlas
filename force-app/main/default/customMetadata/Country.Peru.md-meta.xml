@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Peru</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">PE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">PER</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Amazonas&quot;,&quot;code&quot;:&quot;AMA&quot;},{&quot;name&quot;:&quot;Áncash&quot;,&quot;code&quot;:&quot;ANC&quot;},{&quot;name&quot;:&quot;Apurímac&quot;,&quot;code&quot;:&quot;APU&quot;},{&quot;name&quot;:&quot;Arequipa&quot;,&quot;code&quot;:&quot;ARE&quot;},{&quot;name&quot;:&quot;Ayacucho&quot;,&quot;code&quot;:&quot;AYA&quot;},{&quot;name&quot;:&quot;Cajamarca&quot;,&quot;code&quot;:&quot;CAJ&quot;},{&quot;name&quot;:&quot;Callao&quot;,&quot;code&quot;:&quot;CAL&quot;},{&quot;name&quot;:&quot;Cusco&quot;,&quot;code&quot;:&quot;CUS&quot;},{&quot;name&quot;:&quot;Huancavelica&quot;,&quot;code&quot;:&quot;HUV&quot;},{&quot;name&quot;:&quot;Huanuco&quot;,&quot;code&quot;:&quot;HUC&quot;},{&quot;name&quot;:&quot;Ica&quot;,&quot;code&quot;:&quot;ICA&quot;},{&quot;name&quot;:&quot;Junín&quot;,&quot;code&quot;:&quot;JUN&quot;},{&quot;name&quot;:&quot;La Libertad&quot;,&quot;code&quot;:&quot;LAL&quot;},{&quot;name&quot;:&quot;Lambayeque&quot;,&quot;code&quot;:&quot;LAM&quot;},{&quot;name&quot;:&quot;Lima&quot;,&quot;code&quot;:&quot;LIM&quot;},{&quot;name&quot;:&quot;Loreto&quot;,&quot;code&quot;:&quot;LOR&quot;},{&quot;name&quot;:&quot;Madre de Dios&quot;,&quot;code&quot;:&quot;MDD&quot;},{&quot;name&quot;:&quot;Moquegua&quot;,&quot;code&quot;:&quot;MOQ&quot;},{&quot;name&quot;:&quot;Pasco&quot;,&quot;code&quot;:&quot;PAS&quot;},{&quot;name&quot;:&quot;Piura&quot;,&quot;code&quot;:&quot;PIU&quot;},{&quot;name&quot;:&quot;Puno&quot;,&quot;code&quot;:&quot;PUN&quot;},{&quot;name&quot;:&quot;San Martín&quot;,&quot;code&quot;:&quot;SAM&quot;},{&quot;name&quot;:&quot;Tacna&quot;,&quot;code&quot;:&quot;TAC&quot;},{&quot;name&quot;:&quot;Tumbes&quot;,&quot;code&quot;:&quot;TUM&quot;},{&quot;name&quot;:&quot;Ucayali&quot;,&quot;code&quot;:&quot;UCA&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Bulgaria</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BG</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BGR</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Blagoevgrad Province&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Burgas Province&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Dobrich Province&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Gabrovo Province&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Haskovo Province&quot;,&quot;code&quot;:&quot;26&quot;},{&quot;name&quot;:&quot;Kardzhali Province&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Kyustendil Province&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Lovech Province&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Montana Province&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Pazardzhik Province&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Pernik Province&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Pleven Province&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Plovdiv Province&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Razgrad Province&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Ruse Province&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Shumen&quot;,&quot;code&quot;:&quot;27&quot;},{&quot;name&quot;:&quot;Silistra Province&quot;,&quot;code&quot;:&quot;19&quot;},{&quot;name&quot;:&quot;Sliven Province&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;Smolyan Province&quot;,&quot;code&quot;:&quot;21&quot;},{&quot;name&quot;:&quot;Sofia City Province&quot;,&quot;code&quot;:&quot;22&quot;},{&quot;name&quot;:&quot;Sofia Province&quot;,&quot;code&quot;:&quot;23&quot;},{&quot;name&quot;:&quot;Stara Zagora Province&quot;,&quot;code&quot;:&quot;24&quot;},{&quot;name&quot;:&quot;Targovishte Province&quot;,&quot;code&quot;:&quot;25&quot;},{&quot;name&quot;:&quot;Varna Province&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Veliko Tarnovo Province&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Vidin Province&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Vratsa Province&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Yambol Province&quot;,&quot;code&quot;:&quot;28&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Netherlands</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">NL</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">NLD</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bonaire&quot;,&quot;code&quot;:&quot;BQ1&quot;},{&quot;name&quot;:&quot;Drenthe&quot;,&quot;code&quot;:&quot;DR&quot;},{&quot;name&quot;:&quot;Flevoland&quot;,&quot;code&quot;:&quot;FL&quot;},{&quot;name&quot;:&quot;Friesland&quot;,&quot;code&quot;:&quot;FR&quot;},{&quot;name&quot;:&quot;Gelderland&quot;,&quot;code&quot;:&quot;GE&quot;},{&quot;name&quot;:&quot;Groningen&quot;,&quot;code&quot;:&quot;GR&quot;},{&quot;name&quot;:&quot;Limburg&quot;,&quot;code&quot;:&quot;LI&quot;},{&quot;name&quot;:&quot;North Brabant&quot;,&quot;code&quot;:&quot;NB&quot;},{&quot;name&quot;:&quot;North Holland&quot;,&quot;code&quot;:&quot;NH&quot;},{&quot;name&quot;:&quot;Overijssel&quot;,&quot;code&quot;:&quot;OV&quot;},{&quot;name&quot;:&quot;Saba&quot;,&quot;code&quot;:&quot;BQ2&quot;},{&quot;name&quot;:&quot;Sint Eustatius&quot;,&quot;code&quot;:&quot;BQ3&quot;},{&quot;name&quot;:&quot;South Holland&quot;,&quot;code&quot;:&quot;ZH&quot;},{&quot;name&quot;:&quot;Utrecht&quot;,&quot;code&quot;:&quot;UT&quot;},{&quot;name&quot;:&quot;Zeeland&quot;,&quot;code&quot;:&quot;ZE&quot;}]</value>
+    </values>
+</CustomMetadata>

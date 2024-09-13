@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Uruguay</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">UY</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">URY</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Artigas&quot;,&quot;code&quot;:&quot;AR&quot;},{&quot;name&quot;:&quot;Canelones&quot;,&quot;code&quot;:&quot;CA&quot;},{&quot;name&quot;:&quot;Cerro Largo&quot;,&quot;code&quot;:&quot;CL&quot;},{&quot;name&quot;:&quot;Colonia&quot;,&quot;code&quot;:&quot;CO&quot;},{&quot;name&quot;:&quot;Durazno&quot;,&quot;code&quot;:&quot;DU&quot;},{&quot;name&quot;:&quot;Flores&quot;,&quot;code&quot;:&quot;FS&quot;},{&quot;name&quot;:&quot;Florida&quot;,&quot;code&quot;:&quot;FD&quot;},{&quot;name&quot;:&quot;Lavalleja&quot;,&quot;code&quot;:&quot;LA&quot;},{&quot;name&quot;:&quot;Maldonado&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Montevideo&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Paysandú&quot;,&quot;code&quot;:&quot;PA&quot;},{&quot;name&quot;:&quot;Río Negro&quot;,&quot;code&quot;:&quot;RN&quot;},{&quot;name&quot;:&quot;Rivera&quot;,&quot;code&quot;:&quot;RV&quot;},{&quot;name&quot;:&quot;Rocha&quot;,&quot;code&quot;:&quot;RO&quot;},{&quot;name&quot;:&quot;Salto&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;San José&quot;,&quot;code&quot;:&quot;SJ&quot;},{&quot;name&quot;:&quot;Soriano&quot;,&quot;code&quot;:&quot;SO&quot;},{&quot;name&quot;:&quot;Tacuarembó&quot;,&quot;code&quot;:&quot;TA&quot;},{&quot;name&quot;:&quot;Treinta y Tres&quot;,&quot;code&quot;:&quot;TT&quot;}]</value>
+    </values>
+</CustomMetadata>

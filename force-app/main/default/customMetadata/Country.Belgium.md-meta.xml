@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Belgium</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BEL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Antwerp&quot;,&quot;code&quot;:&quot;VAN&quot;},{&quot;name&quot;:&quot;Brussels-Capital Region&quot;,&quot;code&quot;:&quot;BRU&quot;},{&quot;name&quot;:&quot;East Flanders&quot;,&quot;code&quot;:&quot;VOV&quot;},{&quot;name&quot;:&quot;Flanders&quot;,&quot;code&quot;:&quot;VLG&quot;},{&quot;name&quot;:&quot;Flemish Brabant&quot;,&quot;code&quot;:&quot;VBR&quot;},{&quot;name&quot;:&quot;Hainaut&quot;,&quot;code&quot;:&quot;WHT&quot;},{&quot;name&quot;:&quot;Liège&quot;,&quot;code&quot;:&quot;WLG&quot;},{&quot;name&quot;:&quot;Limburg&quot;,&quot;code&quot;:&quot;VLI&quot;},{&quot;name&quot;:&quot;Luxembourg&quot;,&quot;code&quot;:&quot;WLX&quot;},{&quot;name&quot;:&quot;Namur&quot;,&quot;code&quot;:&quot;WNA&quot;},{&quot;name&quot;:&quot;Wallonia&quot;,&quot;code&quot;:&quot;WAL&quot;},{&quot;name&quot;:&quot;Walloon Brabant&quot;,&quot;code&quot;:&quot;WBR&quot;},{&quot;name&quot;:&quot;West Flanders&quot;,&quot;code&quot;:&quot;VWV&quot;}]</value>
+    </values>
+</CustomMetadata>

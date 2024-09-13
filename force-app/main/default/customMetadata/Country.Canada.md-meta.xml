@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Canada</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CA</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CAN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Alberta&quot;,&quot;code&quot;:&quot;AB&quot;},{&quot;name&quot;:&quot;British Columbia&quot;,&quot;code&quot;:&quot;BC&quot;},{&quot;name&quot;:&quot;Manitoba&quot;,&quot;code&quot;:&quot;MB&quot;},{&quot;name&quot;:&quot;New Brunswick&quot;,&quot;code&quot;:&quot;NB&quot;},{&quot;name&quot;:&quot;Newfoundland and Labrador&quot;,&quot;code&quot;:&quot;NL&quot;},{&quot;name&quot;:&quot;Northwest Territories&quot;,&quot;code&quot;:&quot;NT&quot;},{&quot;name&quot;:&quot;Nova Scotia&quot;,&quot;code&quot;:&quot;NS&quot;},{&quot;name&quot;:&quot;Nunavut&quot;,&quot;code&quot;:&quot;NU&quot;},{&quot;name&quot;:&quot;Ontario&quot;,&quot;code&quot;:&quot;ON&quot;},{&quot;name&quot;:&quot;Prince Edward Island&quot;,&quot;code&quot;:&quot;PE&quot;},{&quot;name&quot;:&quot;Quebec&quot;,&quot;code&quot;:&quot;QC&quot;},{&quot;name&quot;:&quot;Saskatchewan&quot;,&quot;code&quot;:&quot;SK&quot;},{&quot;name&quot;:&quot;Yukon&quot;,&quot;code&quot;:&quot;YT&quot;}]</value>
+    </values>
+</CustomMetadata>

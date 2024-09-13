@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Cote D&apos;Ivoire (Ivory Coast)</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CI</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CIV</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Abidjan&quot;,&quot;code&quot;:&quot;AB&quot;},{&quot;name&quot;:&quot;Agnéby&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Bafing Region&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Bas-Sassandra District&quot;,&quot;code&quot;:&quot;BS&quot;},{&quot;name&quot;:&quot;Bas-Sassandra Region&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Comoé District&quot;,&quot;code&quot;:&quot;CM&quot;},{&quot;name&quot;:&quot;Denguélé District&quot;,&quot;code&quot;:&quot;DN&quot;},{&quot;name&quot;:&quot;Denguélé Region&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Dix-Huit Montagnes&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Fromager&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Gôh-Djiboua District&quot;,&quot;code&quot;:&quot;GD&quot;},{&quot;name&quot;:&quot;Haut-Sassandra&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Lacs District&quot;,&quot;code&quot;:&quot;LC&quot;},{&quot;name&quot;:&quot;Lacs Region&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Lagunes District&quot;,&quot;code&quot;:&quot;LG&quot;},{&quot;name&quot;:&quot;Lagunes region&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Marahoué Region&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Montagnes District&quot;,&quot;code&quot;:&quot;MG&quot;},{&quot;name&quot;:&quot;Moyen-Cavally&quot;,&quot;code&quot;:&quot;19&quot;},{&quot;name&quot;:&quot;Moyen-Comoé&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;N&apos;zi-Comoé&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Sassandra-Marahoué District&quot;,&quot;code&quot;:&quot;SM&quot;},{&quot;name&quot;:&quot;Savanes Region&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Sud-Bandama&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Sud-Comoé&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Vallée du Bandama District&quot;,&quot;code&quot;:&quot;VB&quot;},{&quot;name&quot;:&quot;Vallée du Bandama Region&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Woroba District&quot;,&quot;code&quot;:&quot;WR&quot;},{&quot;name&quot;:&quot;Worodougou&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Yamoussoukro&quot;,&quot;code&quot;:&quot;YM&quot;},{&quot;name&quot;:&quot;Zanzan Region&quot;,&quot;code&quot;:&quot;ZZ&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Kazakhstan</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">KZ</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">KAZ</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Akmola Region&quot;,&quot;code&quot;:&quot;AKM&quot;},{&quot;name&quot;:&quot;Aktobe Region&quot;,&quot;code&quot;:&quot;AKT&quot;},{&quot;name&quot;:&quot;Almaty&quot;,&quot;code&quot;:&quot;ALA&quot;},{&quot;name&quot;:&quot;Almaty Region&quot;,&quot;code&quot;:&quot;ALM&quot;},{&quot;name&quot;:&quot;Atyrau Region&quot;,&quot;code&quot;:&quot;ATY&quot;},{&quot;name&quot;:&quot;Baikonur&quot;,&quot;code&quot;:&quot;BAY&quot;},{&quot;name&quot;:&quot;East Kazakhstan Region&quot;,&quot;code&quot;:&quot;VOS&quot;},{&quot;name&quot;:&quot;Jambyl Region&quot;,&quot;code&quot;:&quot;ZHA&quot;},{&quot;name&quot;:&quot;Karaganda Region&quot;,&quot;code&quot;:&quot;KAR&quot;},{&quot;name&quot;:&quot;Kostanay Region&quot;,&quot;code&quot;:&quot;KUS&quot;},{&quot;name&quot;:&quot;Kyzylorda Region&quot;,&quot;code&quot;:&quot;KZY&quot;},{&quot;name&quot;:&quot;Mangystau Region&quot;,&quot;code&quot;:&quot;MAN&quot;},{&quot;name&quot;:&quot;North Kazakhstan Region&quot;,&quot;code&quot;:&quot;SEV&quot;},{&quot;name&quot;:&quot;Nur-Sultan&quot;,&quot;code&quot;:&quot;AST&quot;},{&quot;name&quot;:&quot;Pavlodar Region&quot;,&quot;code&quot;:&quot;PAV&quot;},{&quot;name&quot;:&quot;Turkestan Region&quot;,&quot;code&quot;:&quot;YUZ&quot;},{&quot;name&quot;:&quot;West Kazakhstan Province&quot;,&quot;code&quot;:&quot;ZAP&quot;}]</value>
+    </values>
+</CustomMetadata>

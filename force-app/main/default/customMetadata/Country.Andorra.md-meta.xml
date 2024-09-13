@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Andorra</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">AD</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">AND</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Andorra la Vella&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Canillo&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Encamp&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Escaldes-Engordany&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;La Massana&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Ordino&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Sant Julià de Lòria&quot;,&quot;code&quot;:&quot;06&quot;}]</value>
+    </values>
+</CustomMetadata>

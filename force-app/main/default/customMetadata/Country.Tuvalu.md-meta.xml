@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Tuvalu</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">TV</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">TUV</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Funafuti&quot;,&quot;code&quot;:&quot;FUN&quot;},{&quot;name&quot;:&quot;Nanumanga&quot;,&quot;code&quot;:&quot;NMG&quot;},{&quot;name&quot;:&quot;Nanumea&quot;,&quot;code&quot;:&quot;NMA&quot;},{&quot;name&quot;:&quot;Niutao Island Council&quot;,&quot;code&quot;:&quot;NIT&quot;},{&quot;name&quot;:&quot;Nui&quot;,&quot;code&quot;:&quot;NUI&quot;},{&quot;name&quot;:&quot;Nukufetau&quot;,&quot;code&quot;:&quot;NKF&quot;},{&quot;name&quot;:&quot;Nukulaelae&quot;,&quot;code&quot;:&quot;NKL&quot;},{&quot;name&quot;:&quot;Vaitupu&quot;,&quot;code&quot;:&quot;VAI&quot;}]</value>
+    </values>
+</CustomMetadata>

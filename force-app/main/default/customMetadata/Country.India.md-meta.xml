@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>India</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">IN</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">IND</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Andaman and Nicobar Islands&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Andhra Pradesh&quot;,&quot;code&quot;:&quot;AP&quot;},{&quot;name&quot;:&quot;Arunachal Pradesh&quot;,&quot;code&quot;:&quot;AR&quot;},{&quot;name&quot;:&quot;Assam&quot;,&quot;code&quot;:&quot;AS&quot;},{&quot;name&quot;:&quot;Bihar&quot;,&quot;code&quot;:&quot;BR&quot;},{&quot;name&quot;:&quot;Chandigarh&quot;,&quot;code&quot;:&quot;CH&quot;},{&quot;name&quot;:&quot;Chhattisgarh&quot;,&quot;code&quot;:&quot;CT&quot;},{&quot;name&quot;:&quot;Dadra and Nagar Haveli and Daman and Diu&quot;,&quot;code&quot;:&quot;DH&quot;},{&quot;name&quot;:&quot;Delhi&quot;,&quot;code&quot;:&quot;DL&quot;},{&quot;name&quot;:&quot;Goa&quot;,&quot;code&quot;:&quot;GA&quot;},{&quot;name&quot;:&quot;Gujarat&quot;,&quot;code&quot;:&quot;GJ&quot;},{&quot;name&quot;:&quot;Haryana&quot;,&quot;code&quot;:&quot;HR&quot;},{&quot;name&quot;:&quot;Himachal Pradesh&quot;,&quot;code&quot;:&quot;HP&quot;},{&quot;name&quot;:&quot;Jammu and Kashmir&quot;,&quot;code&quot;:&quot;JK&quot;},{&quot;name&quot;:&quot;Jharkhand&quot;,&quot;code&quot;:&quot;JH&quot;},{&quot;name&quot;:&quot;Karnataka&quot;,&quot;code&quot;:&quot;KA&quot;},{&quot;name&quot;:&quot;Kerala&quot;,&quot;code&quot;:&quot;KL&quot;},{&quot;name&quot;:&quot;Ladakh&quot;,&quot;code&quot;:&quot;LA&quot;},{&quot;name&quot;:&quot;Lakshadweep&quot;,&quot;code&quot;:&quot;LD&quot;},{&quot;name&quot;:&quot;Madhya Pradesh&quot;,&quot;code&quot;:&quot;MP&quot;},{&quot;name&quot;:&quot;Maharashtra&quot;,&quot;code&quot;:&quot;MH&quot;},{&quot;name&quot;:&quot;Manipur&quot;,&quot;code&quot;:&quot;MN&quot;},{&quot;name&quot;:&quot;Meghalaya&quot;,&quot;code&quot;:&quot;ML&quot;},{&quot;name&quot;:&quot;Mizoram&quot;,&quot;code&quot;:&quot;MZ&quot;},{&quot;name&quot;:&quot;Nagaland&quot;,&quot;code&quot;:&quot;NL&quot;},{&quot;name&quot;:&quot;Odisha&quot;,&quot;code&quot;:&quot;OR&quot;},{&quot;name&quot;:&quot;Puducherry&quot;,&quot;code&quot;:&quot;PY&quot;},{&quot;name&quot;:&quot;Punjab&quot;,&quot;code&quot;:&quot;PB&quot;},{&quot;name&quot;:&quot;Rajasthan&quot;,&quot;code&quot;:&quot;RJ&quot;},{&quot;name&quot;:&quot;Sikkim&quot;,&quot;code&quot;:&quot;SK&quot;},{&quot;name&quot;:&quot;Tamil Nadu&quot;,&quot;code&quot;:&quot;TN&quot;},{&quot;name&quot;:&quot;Telangana&quot;,&quot;code&quot;:&quot;TG&quot;},{&quot;name&quot;:&quot;Tripura&quot;,&quot;code&quot;:&quot;TR&quot;},{&quot;name&quot;:&quot;Uttar Pradesh&quot;,&quot;code&quot;:&quot;UP&quot;},{&quot;name&quot;:&quot;Uttarakhand&quot;,&quot;code&quot;:&quot;UK&quot;},{&quot;name&quot;:&quot;West Bengal&quot;,&quot;code&quot;:&quot;WB&quot;}]</value>
+    </values>
+</CustomMetadata>

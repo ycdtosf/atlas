@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Laos</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">LA</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">LAO</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Attapeu Province&quot;,&quot;code&quot;:&quot;AT&quot;},{&quot;name&quot;:&quot;Bokeo Province&quot;,&quot;code&quot;:&quot;BK&quot;},{&quot;name&quot;:&quot;Bolikhamsai Province&quot;,&quot;code&quot;:&quot;BL&quot;},{&quot;name&quot;:&quot;Champasak Province&quot;,&quot;code&quot;:&quot;CH&quot;},{&quot;name&quot;:&quot;Houaphanh Province&quot;,&quot;code&quot;:&quot;HO&quot;},{&quot;name&quot;:&quot;Khammouane Province&quot;,&quot;code&quot;:&quot;KH&quot;},{&quot;name&quot;:&quot;Luang Namtha Province&quot;,&quot;code&quot;:&quot;LM&quot;},{&quot;name&quot;:&quot;Luang Prabang Province&quot;,&quot;code&quot;:&quot;LP&quot;},{&quot;name&quot;:&quot;Oudomxay Province&quot;,&quot;code&quot;:&quot;OU&quot;},{&quot;name&quot;:&quot;Phongsaly Province&quot;,&quot;code&quot;:&quot;PH&quot;},{&quot;name&quot;:&quot;Sainyabuli Province&quot;,&quot;code&quot;:&quot;XA&quot;},{&quot;name&quot;:&quot;Salavan Province&quot;,&quot;code&quot;:&quot;SL&quot;},{&quot;name&quot;:&quot;Savannakhet Province&quot;,&quot;code&quot;:&quot;SV&quot;},{&quot;name&quot;:&quot;Sekong Province&quot;,&quot;code&quot;:&quot;XE&quot;},{&quot;name&quot;:&quot;Vientiane Prefecture&quot;,&quot;code&quot;:&quot;VT&quot;},{&quot;name&quot;:&quot;Vientiane Province&quot;,&quot;code&quot;:&quot;VI&quot;},{&quot;name&quot;:&quot;Xaisomboun&quot;,&quot;code&quot;:&quot;XN&quot;},{&quot;name&quot;:&quot;Xaisomboun Province&quot;,&quot;code&quot;:&quot;XS&quot;},{&quot;name&quot;:&quot;Xiangkhouang Province&quot;,&quot;code&quot;:&quot;XI&quot;}]</value>
+    </values>
+</CustomMetadata>

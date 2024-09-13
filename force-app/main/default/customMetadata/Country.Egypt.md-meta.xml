@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Egypt</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">EG</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">EGY</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Alexandria&quot;,&quot;code&quot;:&quot;ALX&quot;},{&quot;name&quot;:&quot;Aswan&quot;,&quot;code&quot;:&quot;ASN&quot;},{&quot;name&quot;:&quot;Asyut&quot;,&quot;code&quot;:&quot;AST&quot;},{&quot;name&quot;:&quot;Beheira&quot;,&quot;code&quot;:&quot;BH&quot;},{&quot;name&quot;:&quot;Beni Suef&quot;,&quot;code&quot;:&quot;BNS&quot;},{&quot;name&quot;:&quot;Cairo&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Dakahlia&quot;,&quot;code&quot;:&quot;DK&quot;},{&quot;name&quot;:&quot;Damietta&quot;,&quot;code&quot;:&quot;DT&quot;},{&quot;name&quot;:&quot;Faiyum&quot;,&quot;code&quot;:&quot;FYM&quot;},{&quot;name&quot;:&quot;Gharbia&quot;,&quot;code&quot;:&quot;GH&quot;},{&quot;name&quot;:&quot;Giza&quot;,&quot;code&quot;:&quot;GZ&quot;},{&quot;name&quot;:&quot;Ismailia&quot;,&quot;code&quot;:&quot;IS&quot;},{&quot;name&quot;:&quot;Kafr el-Sheikh&quot;,&quot;code&quot;:&quot;KFS&quot;},{&quot;name&quot;:&quot;Luxor&quot;,&quot;code&quot;:&quot;LX&quot;},{&quot;name&quot;:&quot;Matrouh&quot;,&quot;code&quot;:&quot;MT&quot;},{&quot;name&quot;:&quot;Minya&quot;,&quot;code&quot;:&quot;MN&quot;},{&quot;name&quot;:&quot;Monufia&quot;,&quot;code&quot;:&quot;MNF&quot;},{&quot;name&quot;:&quot;New Valley&quot;,&quot;code&quot;:&quot;WAD&quot;},{&quot;name&quot;:&quot;North Sinai&quot;,&quot;code&quot;:&quot;SIN&quot;},{&quot;name&quot;:&quot;Port Said&quot;,&quot;code&quot;:&quot;PTS&quot;},{&quot;name&quot;:&quot;Qalyubia&quot;,&quot;code&quot;:&quot;KB&quot;},{&quot;name&quot;:&quot;Qena&quot;,&quot;code&quot;:&quot;KN&quot;},{&quot;name&quot;:&quot;Red Sea&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Sharqia&quot;,&quot;code&quot;:&quot;SHR&quot;},{&quot;name&quot;:&quot;Sohag&quot;,&quot;code&quot;:&quot;SHG&quot;},{&quot;name&quot;:&quot;South Sinai&quot;,&quot;code&quot;:&quot;JS&quot;},{&quot;name&quot;:&quot;Suez&quot;,&quot;code&quot;:&quot;SUZ&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Denmark</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">DK</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">DNK</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Capital Region of Denmark&quot;,&quot;code&quot;:&quot;84&quot;},{&quot;name&quot;:&quot;Central Denmark Region&quot;,&quot;code&quot;:&quot;82&quot;},{&quot;name&quot;:&quot;North Denmark Region&quot;,&quot;code&quot;:&quot;81&quot;},{&quot;name&quot;:&quot;Region of Southern Denmark&quot;,&quot;code&quot;:&quot;83&quot;},{&quot;name&quot;:&quot;Region Zealand&quot;,&quot;code&quot;:&quot;85&quot;}]</value>
+    </values>
+</CustomMetadata>

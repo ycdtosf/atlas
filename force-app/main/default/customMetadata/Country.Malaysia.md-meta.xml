@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Malaysia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MY</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MYS</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Johor&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Kedah&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Kelantan&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Kuala Lumpur&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Labuan&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Malacca&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Negeri Sembilan&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Pahang&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Penang&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Perak&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Perlis&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Putrajaya&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Sabah&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Sarawak&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Selangor&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Terengganu&quot;,&quot;code&quot;:&quot;11&quot;}]</value>
+    </values>
+</CustomMetadata>

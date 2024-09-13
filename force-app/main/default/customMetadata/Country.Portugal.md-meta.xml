@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Portugal</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">PT</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">PRT</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Açores&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;Aveiro&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Beja&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Braga&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Bragança&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Castelo Branco&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Coimbra&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Évora&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Faro&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Guarda&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Leiria&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Lisbon&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Madeira&quot;,&quot;code&quot;:&quot;30&quot;},{&quot;name&quot;:&quot;Portalegre&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Porto&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Santarém&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Setúbal&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Viana do Castelo&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Vila Real&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Viseu&quot;,&quot;code&quot;:&quot;18&quot;}]</value>
+    </values>
+</CustomMetadata>

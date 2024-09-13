@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Qatar</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">QA</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">QAT</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Al Daayen&quot;,&quot;code&quot;:&quot;ZA&quot;},{&quot;name&quot;:&quot;Al Khor&quot;,&quot;code&quot;:&quot;KH&quot;},{&quot;name&quot;:&quot;Al Rayyan Municipality&quot;,&quot;code&quot;:&quot;RA&quot;},{&quot;name&quot;:&quot;Al Wakrah&quot;,&quot;code&quot;:&quot;WA&quot;},{&quot;name&quot;:&quot;Al-Shahaniya&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Doha&quot;,&quot;code&quot;:&quot;DA&quot;},{&quot;name&quot;:&quot;Madinat ash Shamal&quot;,&quot;code&quot;:&quot;MS&quot;},{&quot;name&quot;:&quot;Umm Salal Municipality&quot;,&quot;code&quot;:&quot;US&quot;}]</value>
+    </values>
+</CustomMetadata>

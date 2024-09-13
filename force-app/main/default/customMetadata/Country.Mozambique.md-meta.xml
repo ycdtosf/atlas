@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Mozambique</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MZ</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MOZ</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Cabo Delgado Province&quot;,&quot;code&quot;:&quot;P&quot;},{&quot;name&quot;:&quot;Gaza Province&quot;,&quot;code&quot;:&quot;G&quot;},{&quot;name&quot;:&quot;Inhambane Province&quot;,&quot;code&quot;:&quot;I&quot;},{&quot;name&quot;:&quot;Manica Province&quot;,&quot;code&quot;:&quot;B&quot;},{&quot;name&quot;:&quot;Maputo&quot;,&quot;code&quot;:&quot;MPM&quot;},{&quot;name&quot;:&quot;Maputo Province&quot;,&quot;code&quot;:&quot;L&quot;},{&quot;name&quot;:&quot;Nampula Province&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Niassa Province&quot;,&quot;code&quot;:&quot;A&quot;},{&quot;name&quot;:&quot;Sofala Province&quot;,&quot;code&quot;:&quot;S&quot;},{&quot;name&quot;:&quot;Tete Province&quot;,&quot;code&quot;:&quot;T&quot;},{&quot;name&quot;:&quot;Zambezia Province&quot;,&quot;code&quot;:&quot;Q&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Saint Lucia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">LC</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">LCA</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Anse la Raye Quarter&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Canaries&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Castries Quarter&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Choiseul Quarter&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Dauphin Quarter&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Dennery Quarter&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Gros Islet Quarter&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Laborie Quarter&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Micoud Quarter&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Praslin Quarter&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Soufrière Quarter&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Vieux Fort Quarter&quot;,&quot;code&quot;:&quot;11&quot;}]</value>
+    </values>
+</CustomMetadata>

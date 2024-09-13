@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Papua New Guinea</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">PG</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">PNG</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bougainville&quot;,&quot;code&quot;:&quot;NSB&quot;},{&quot;name&quot;:&quot;Central Province&quot;,&quot;code&quot;:&quot;CPM&quot;},{&quot;name&quot;:&quot;Chimbu Province&quot;,&quot;code&quot;:&quot;CPK&quot;},{&quot;name&quot;:&quot;East New Britain&quot;,&quot;code&quot;:&quot;EBR&quot;},{&quot;name&quot;:&quot;East Sepik&quot;,&quot;code&quot;:&quot;ESW&quot;},{&quot;name&quot;:&quot;Eastern Highlands Province&quot;,&quot;code&quot;:&quot;EHG&quot;},{&quot;name&quot;:&quot;Enga Province&quot;,&quot;code&quot;:&quot;EPW&quot;},{&quot;name&quot;:&quot;Gulf&quot;,&quot;code&quot;:&quot;GPK&quot;},{&quot;name&quot;:&quot;Hela&quot;,&quot;code&quot;:&quot;HLA&quot;},{&quot;name&quot;:&quot;Jiwaka Province&quot;,&quot;code&quot;:&quot;JWK&quot;},{&quot;name&quot;:&quot;Madang Province&quot;,&quot;code&quot;:&quot;MPM&quot;},{&quot;name&quot;:&quot;Manus Province&quot;,&quot;code&quot;:&quot;MRL&quot;},{&quot;name&quot;:&quot;Milne Bay Province&quot;,&quot;code&quot;:&quot;MBA&quot;},{&quot;name&quot;:&quot;Morobe Province&quot;,&quot;code&quot;:&quot;MPL&quot;},{&quot;name&quot;:&quot;New Ireland Province&quot;,&quot;code&quot;:&quot;NIK&quot;},{&quot;name&quot;:&quot;Oro Province&quot;,&quot;code&quot;:&quot;NPP&quot;},{&quot;name&quot;:&quot;Port Moresby&quot;,&quot;code&quot;:&quot;NCD&quot;},{&quot;name&quot;:&quot;Sandaun Province&quot;,&quot;code&quot;:&quot;SAN&quot;},{&quot;name&quot;:&quot;Southern Highlands Province&quot;,&quot;code&quot;:&quot;SHM&quot;},{&quot;name&quot;:&quot;West New Britain Province&quot;,&quot;code&quot;:&quot;WBK&quot;},{&quot;name&quot;:&quot;Western Highlands Province&quot;,&quot;code&quot;:&quot;WHM&quot;},{&quot;name&quot;:&quot;Western Province&quot;,&quot;code&quot;:&quot;WPD&quot;}]</value>
+    </values>
+</CustomMetadata>

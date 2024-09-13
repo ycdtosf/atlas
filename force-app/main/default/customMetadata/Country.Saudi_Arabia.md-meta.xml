@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Saudi Arabia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SA</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SAU</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;&apos;Asir&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Al Bahah&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Al Jawf&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Al Madinah&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Al-Qassim&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Eastern Province&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Ha&apos;il&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Jizan&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Makkah&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Najran&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Northern Borders&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Riyadh&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Tabuk&quot;,&quot;code&quot;:&quot;07&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Angola</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">AO</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">AGO</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bengo Province&quot;,&quot;code&quot;:&quot;BGO&quot;},{&quot;name&quot;:&quot;Benguela Province&quot;,&quot;code&quot;:&quot;BGU&quot;},{&quot;name&quot;:&quot;Bié Province&quot;,&quot;code&quot;:&quot;BIE&quot;},{&quot;name&quot;:&quot;Cabinda Province&quot;,&quot;code&quot;:&quot;CAB&quot;},{&quot;name&quot;:&quot;Cuando Cubango Province&quot;,&quot;code&quot;:&quot;CCU&quot;},{&quot;name&quot;:&quot;Cuanza Norte Province&quot;,&quot;code&quot;:&quot;CNO&quot;},{&quot;name&quot;:&quot;Cuanza Sul&quot;,&quot;code&quot;:&quot;CUS&quot;},{&quot;name&quot;:&quot;Cunene Province&quot;,&quot;code&quot;:&quot;CNN&quot;},{&quot;name&quot;:&quot;Huambo Province&quot;,&quot;code&quot;:&quot;HUA&quot;},{&quot;name&quot;:&quot;Huíla Province&quot;,&quot;code&quot;:&quot;HUI&quot;},{&quot;name&quot;:&quot;Luanda Province&quot;,&quot;code&quot;:&quot;LUA&quot;},{&quot;name&quot;:&quot;Lunda Norte Province&quot;,&quot;code&quot;:&quot;LNO&quot;},{&quot;name&quot;:&quot;Lunda Sul Province&quot;,&quot;code&quot;:&quot;LSU&quot;},{&quot;name&quot;:&quot;Malanje Province&quot;,&quot;code&quot;:&quot;MAL&quot;},{&quot;name&quot;:&quot;Moxico Province&quot;,&quot;code&quot;:&quot;MOX&quot;},{&quot;name&quot;:&quot;Uíge Province&quot;,&quot;code&quot;:&quot;UIG&quot;},{&quot;name&quot;:&quot;Zaire Province&quot;,&quot;code&quot;:&quot;ZAI&quot;}]</value>
+    </values>
+</CustomMetadata>

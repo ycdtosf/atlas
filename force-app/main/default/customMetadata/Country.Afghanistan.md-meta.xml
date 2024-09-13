@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Afghanistan</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">AF</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">AFG</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Badakhshan&quot;,&quot;code&quot;:&quot;BDS&quot;},{&quot;name&quot;:&quot;Badghis&quot;,&quot;code&quot;:&quot;BDG&quot;},{&quot;name&quot;:&quot;Baghlan&quot;,&quot;code&quot;:&quot;BGL&quot;},{&quot;name&quot;:&quot;Balkh&quot;,&quot;code&quot;:&quot;BAL&quot;},{&quot;name&quot;:&quot;Bamyan&quot;,&quot;code&quot;:&quot;BAM&quot;},{&quot;name&quot;:&quot;Daykundi&quot;,&quot;code&quot;:&quot;DAY&quot;},{&quot;name&quot;:&quot;Farah&quot;,&quot;code&quot;:&quot;FRA&quot;},{&quot;name&quot;:&quot;Faryab&quot;,&quot;code&quot;:&quot;FYB&quot;},{&quot;name&quot;:&quot;Ghazni&quot;,&quot;code&quot;:&quot;GHA&quot;},{&quot;name&quot;:&quot;Ghōr&quot;,&quot;code&quot;:&quot;GHO&quot;},{&quot;name&quot;:&quot;Helmand&quot;,&quot;code&quot;:&quot;HEL&quot;},{&quot;name&quot;:&quot;Herat&quot;,&quot;code&quot;:&quot;HER&quot;},{&quot;name&quot;:&quot;Jowzjan&quot;,&quot;code&quot;:&quot;JOW&quot;},{&quot;name&quot;:&quot;Kabul&quot;,&quot;code&quot;:&quot;KAB&quot;},{&quot;name&quot;:&quot;Kandahar&quot;,&quot;code&quot;:&quot;KAN&quot;},{&quot;name&quot;:&quot;Kapisa&quot;,&quot;code&quot;:&quot;KAP&quot;},{&quot;name&quot;:&quot;Khost&quot;,&quot;code&quot;:&quot;KHO&quot;},{&quot;name&quot;:&quot;Kunar&quot;,&quot;code&quot;:&quot;KNR&quot;},{&quot;name&quot;:&quot;Kunduz Province&quot;,&quot;code&quot;:&quot;KDZ&quot;},{&quot;name&quot;:&quot;Laghman&quot;,&quot;code&quot;:&quot;LAG&quot;},{&quot;name&quot;:&quot;Logar&quot;,&quot;code&quot;:&quot;LOG&quot;},{&quot;name&quot;:&quot;Nangarhar&quot;,&quot;code&quot;:&quot;NAN&quot;},{&quot;name&quot;:&quot;Nimruz&quot;,&quot;code&quot;:&quot;NIM&quot;},{&quot;name&quot;:&quot;Nuristan&quot;,&quot;code&quot;:&quot;NUR&quot;},{&quot;name&quot;:&quot;Paktia&quot;,&quot;code&quot;:&quot;PIA&quot;},{&quot;name&quot;:&quot;Paktika&quot;,&quot;code&quot;:&quot;PKA&quot;},{&quot;name&quot;:&quot;Panjshir&quot;,&quot;code&quot;:&quot;PAN&quot;},{&quot;name&quot;:&quot;Parwan&quot;,&quot;code&quot;:&quot;PAR&quot;},{&quot;name&quot;:&quot;Samangan&quot;,&quot;code&quot;:&quot;SAM&quot;},{&quot;name&quot;:&quot;Sar-e Pol&quot;,&quot;code&quot;:&quot;SAR&quot;},{&quot;name&quot;:&quot;Takhar&quot;,&quot;code&quot;:&quot;TAK&quot;},{&quot;name&quot;:&quot;Urozgan&quot;,&quot;code&quot;:&quot;URU&quot;},{&quot;name&quot;:&quot;Zabul&quot;,&quot;code&quot;:&quot;ZAB&quot;}]</value>
+    </values>
+</CustomMetadata>

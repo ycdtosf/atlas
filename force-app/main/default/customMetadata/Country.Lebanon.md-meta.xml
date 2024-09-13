@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Lebanon</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">LB</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">LBN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Akkar&quot;,&quot;code&quot;:&quot;AK&quot;},{&quot;name&quot;:&quot;Baalbek-Hermel&quot;,&quot;code&quot;:&quot;BH&quot;},{&quot;name&quot;:&quot;Beirut&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Beqaa&quot;,&quot;code&quot;:&quot;BI&quot;},{&quot;name&quot;:&quot;Mount Lebanon&quot;,&quot;code&quot;:&quot;JL&quot;},{&quot;name&quot;:&quot;Nabatieh&quot;,&quot;code&quot;:&quot;NA&quot;},{&quot;name&quot;:&quot;North&quot;,&quot;code&quot;:&quot;AS&quot;},{&quot;name&quot;:&quot;South&quot;,&quot;code&quot;:&quot;JA&quot;}]</value>
+    </values>
+</CustomMetadata>

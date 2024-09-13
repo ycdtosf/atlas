@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Bolivia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BO</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BOL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Beni Department&quot;,&quot;code&quot;:&quot;B&quot;},{&quot;name&quot;:&quot;Chuquisaca Department&quot;,&quot;code&quot;:&quot;H&quot;},{&quot;name&quot;:&quot;Cochabamba Department&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;La Paz Department&quot;,&quot;code&quot;:&quot;L&quot;},{&quot;name&quot;:&quot;Oruro Department&quot;,&quot;code&quot;:&quot;O&quot;},{&quot;name&quot;:&quot;Pando Department&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Potosí Department&quot;,&quot;code&quot;:&quot;P&quot;},{&quot;name&quot;:&quot;Santa Cruz Department&quot;,&quot;code&quot;:&quot;S&quot;},{&quot;name&quot;:&quot;Tarija Department&quot;,&quot;code&quot;:&quot;T&quot;}]</value>
+    </values>
+</CustomMetadata>

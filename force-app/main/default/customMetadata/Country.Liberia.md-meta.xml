@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Liberia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">LR</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">LBR</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bomi County&quot;,&quot;code&quot;:&quot;BM&quot;},{&quot;name&quot;:&quot;Bong County&quot;,&quot;code&quot;:&quot;BG&quot;},{&quot;name&quot;:&quot;Gbarpolu County&quot;,&quot;code&quot;:&quot;GP&quot;},{&quot;name&quot;:&quot;Grand Bassa County&quot;,&quot;code&quot;:&quot;GB&quot;},{&quot;name&quot;:&quot;Grand Cape Mount County&quot;,&quot;code&quot;:&quot;CM&quot;},{&quot;name&quot;:&quot;Grand Gedeh County&quot;,&quot;code&quot;:&quot;GG&quot;},{&quot;name&quot;:&quot;Grand Kru County&quot;,&quot;code&quot;:&quot;GK&quot;},{&quot;name&quot;:&quot;Lofa County&quot;,&quot;code&quot;:&quot;LO&quot;},{&quot;name&quot;:&quot;Margibi County&quot;,&quot;code&quot;:&quot;MG&quot;},{&quot;name&quot;:&quot;Maryland County&quot;,&quot;code&quot;:&quot;MY&quot;},{&quot;name&quot;:&quot;Montserrado County&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Nimba&quot;,&quot;code&quot;:&quot;NI&quot;},{&quot;name&quot;:&quot;River Cess County&quot;,&quot;code&quot;:&quot;RI&quot;},{&quot;name&quot;:&quot;River Gee County&quot;,&quot;code&quot;:&quot;RG&quot;},{&quot;name&quot;:&quot;Sinoe County&quot;,&quot;code&quot;:&quot;SI&quot;}]</value>
+    </values>
+</CustomMetadata>

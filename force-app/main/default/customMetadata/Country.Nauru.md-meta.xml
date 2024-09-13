@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Nauru</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">NR</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">NRU</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Aiwo District&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Anabar District&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Anetan District&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Anibare District&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Baiti District&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Boe District&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Buada District&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Denigomodu District&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Ewa District&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Ijuw District&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Meneng District&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Nibok District&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Uaboe District&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Yaren District&quot;,&quot;code&quot;:&quot;14&quot;}]</value>
+    </values>
+</CustomMetadata>

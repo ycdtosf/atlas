@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Uzbekistan</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">UZ</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">UZB</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Andijan Region&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Bukhara Region&quot;,&quot;code&quot;:&quot;BU&quot;},{&quot;name&quot;:&quot;Fergana Region&quot;,&quot;code&quot;:&quot;FA&quot;},{&quot;name&quot;:&quot;Jizzakh Region&quot;,&quot;code&quot;:&quot;JI&quot;},{&quot;name&quot;:&quot;Karakalpakstan&quot;,&quot;code&quot;:&quot;QR&quot;},{&quot;name&quot;:&quot;Namangan Region&quot;,&quot;code&quot;:&quot;NG&quot;},{&quot;name&quot;:&quot;Navoiy Region&quot;,&quot;code&quot;:&quot;NW&quot;},{&quot;name&quot;:&quot;Qashqadaryo Region&quot;,&quot;code&quot;:&quot;QA&quot;},{&quot;name&quot;:&quot;Samarqand Region&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Sirdaryo Region&quot;,&quot;code&quot;:&quot;SI&quot;},{&quot;name&quot;:&quot;Surxondaryo Region&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Tashkent&quot;,&quot;code&quot;:&quot;TK&quot;},{&quot;name&quot;:&quot;Tashkent Region&quot;,&quot;code&quot;:&quot;TO&quot;},{&quot;name&quot;:&quot;Xorazm Region&quot;,&quot;code&quot;:&quot;XO&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Samoa</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">WS</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">WSM</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;A&apos;ana&quot;,&quot;code&quot;:&quot;AA&quot;},{&quot;name&quot;:&quot;Aiga-i-le-Tai&quot;,&quot;code&quot;:&quot;AL&quot;},{&quot;name&quot;:&quot;Atua&quot;,&quot;code&quot;:&quot;AT&quot;},{&quot;name&quot;:&quot;Fa&apos;asaleleaga&quot;,&quot;code&quot;:&quot;FA&quot;},{&quot;name&quot;:&quot;Gaga&apos;emauga&quot;,&quot;code&quot;:&quot;GE&quot;},{&quot;name&quot;:&quot;Gaga&apos;ifomauga&quot;,&quot;code&quot;:&quot;GI&quot;},{&quot;name&quot;:&quot;Palauli&quot;,&quot;code&quot;:&quot;PA&quot;},{&quot;name&quot;:&quot;Satupa&apos;itea&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Tuamasaga&quot;,&quot;code&quot;:&quot;TU&quot;},{&quot;name&quot;:&quot;Va&apos;a-o-Fonoti&quot;,&quot;code&quot;:&quot;VF&quot;},{&quot;name&quot;:&quot;Vaisigano&quot;,&quot;code&quot;:&quot;VS&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,11 @@
+<template>
+    <template lwc:if={records}>
+        <lightning-card title="The Junctioner">
+            <div class="card-body">
+                <template for:each={records} for:item="record">
+                    <c-junctioner-record key={record.Id} record={record} labels={returnedFieldLabels} fields={returnedFields}></c-junctioner-record>
+                </template>
+            </div>
+        </lightning-card>
+    </template>
+</template>

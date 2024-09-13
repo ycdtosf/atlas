@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Senegal</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SN</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SEN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Dakar&quot;,&quot;code&quot;:&quot;DK&quot;},{&quot;name&quot;:&quot;Diourbel Region&quot;,&quot;code&quot;:&quot;DB&quot;},{&quot;name&quot;:&quot;Fatick&quot;,&quot;code&quot;:&quot;FK&quot;},{&quot;name&quot;:&quot;Kaffrine&quot;,&quot;code&quot;:&quot;KA&quot;},{&quot;name&quot;:&quot;Kaolack&quot;,&quot;code&quot;:&quot;KL&quot;},{&quot;name&quot;:&quot;Kédougou&quot;,&quot;code&quot;:&quot;KE&quot;},{&quot;name&quot;:&quot;Kolda&quot;,&quot;code&quot;:&quot;KD&quot;},{&quot;name&quot;:&quot;Louga&quot;,&quot;code&quot;:&quot;LG&quot;},{&quot;name&quot;:&quot;Matam&quot;,&quot;code&quot;:&quot;MT&quot;},{&quot;name&quot;:&quot;Saint-Louis&quot;,&quot;code&quot;:&quot;SL&quot;},{&quot;name&quot;:&quot;Sédhiou&quot;,&quot;code&quot;:&quot;SE&quot;},{&quot;name&quot;:&quot;Tambacounda Region&quot;,&quot;code&quot;:&quot;TC&quot;},{&quot;name&quot;:&quot;Thiès Region&quot;,&quot;code&quot;:&quot;TH&quot;},{&quot;name&quot;:&quot;Ziguinchor&quot;,&quot;code&quot;:&quot;ZG&quot;}]</value>
+    </values>
+</CustomMetadata>

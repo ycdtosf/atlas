@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Serbia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">RS</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SRB</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Belgrade&quot;,&quot;code&quot;:&quot;00&quot;},{&quot;name&quot;:&quot;Bor District&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Braničevo District&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Central Banat District&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Jablanica District&quot;,&quot;code&quot;:&quot;23&quot;},{&quot;name&quot;:&quot;Kolubara District&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Mačva District&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Moravica District&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Nišava District&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;North Bačka District&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;North Banat District&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Pčinja District&quot;,&quot;code&quot;:&quot;24&quot;},{&quot;name&quot;:&quot;Pirot District&quot;,&quot;code&quot;:&quot;22&quot;},{&quot;name&quot;:&quot;Podunavlje District&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Pomoravlje District&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Rasina District&quot;,&quot;code&quot;:&quot;19&quot;},{&quot;name&quot;:&quot;Raška District&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;South Bačka District&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;South Banat District&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Srem District&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Šumadija District&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Toplica District&quot;,&quot;code&quot;:&quot;21&quot;},{&quot;name&quot;:&quot;Vojvodina&quot;,&quot;code&quot;:&quot;VO&quot;},{&quot;name&quot;:&quot;West Bačka District&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Zaječar District&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Zlatibor District&quot;,&quot;code&quot;:&quot;16&quot;}]</value>
+    </values>
+</CustomMetadata>

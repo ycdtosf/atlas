@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Ukraine</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">UA</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">UKR</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Autonomous Republic of Crimea&quot;,&quot;code&quot;:&quot;43&quot;},{&quot;name&quot;:&quot;Cherkaska oblast&quot;,&quot;code&quot;:&quot;71&quot;},{&quot;name&quot;:&quot;Chernihivska oblast&quot;,&quot;code&quot;:&quot;74&quot;},{&quot;name&quot;:&quot;Chernivetska oblast&quot;,&quot;code&quot;:&quot;77&quot;},{&quot;name&quot;:&quot;Dnipropetrovska oblast&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Donetska oblast&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Ivano-Frankivska oblast&quot;,&quot;code&quot;:&quot;26&quot;},{&quot;name&quot;:&quot;Kharkivska oblast&quot;,&quot;code&quot;:&quot;63&quot;},{&quot;name&quot;:&quot;Khersonska oblast&quot;,&quot;code&quot;:&quot;65&quot;},{&quot;name&quot;:&quot;Khmelnytska oblast&quot;,&quot;code&quot;:&quot;68&quot;},{&quot;name&quot;:&quot;Kirovohradska oblast&quot;,&quot;code&quot;:&quot;35&quot;},{&quot;name&quot;:&quot;Kyiv&quot;,&quot;code&quot;:&quot;30&quot;},{&quot;name&quot;:&quot;Kyivska oblast&quot;,&quot;code&quot;:&quot;32&quot;},{&quot;name&quot;:&quot;Luhanska oblast&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Lvivska oblast&quot;,&quot;code&quot;:&quot;46&quot;},{&quot;name&quot;:&quot;Mykolaivska oblast&quot;,&quot;code&quot;:&quot;48&quot;},{&quot;name&quot;:&quot;Odeska oblast&quot;,&quot;code&quot;:&quot;51&quot;},{&quot;name&quot;:&quot;Poltavska oblast&quot;,&quot;code&quot;:&quot;53&quot;},{&quot;name&quot;:&quot;Rivnenska oblast&quot;,&quot;code&quot;:&quot;56&quot;},{&quot;name&quot;:&quot;Sevastopol&quot;,&quot;code&quot;:&quot;40&quot;},{&quot;name&quot;:&quot;Sumska oblast&quot;,&quot;code&quot;:&quot;59&quot;},{&quot;name&quot;:&quot;Ternopilska oblast&quot;,&quot;code&quot;:&quot;61&quot;},{&quot;name&quot;:&quot;Vinnytska oblast&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Volynska oblast&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Zakarpatska Oblast&quot;,&quot;code&quot;:&quot;21&quot;},{&quot;name&quot;:&quot;Zaporizka oblast&quot;,&quot;code&quot;:&quot;23&quot;},{&quot;name&quot;:&quot;Zhytomyrska oblast&quot;,&quot;code&quot;:&quot;18&quot;}]</value>
+    </values>
+</CustomMetadata>

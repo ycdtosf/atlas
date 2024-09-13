@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Belarus</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BY</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BLR</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Brest Region&quot;,&quot;code&quot;:&quot;BR&quot;},{&quot;name&quot;:&quot;Gomel Region&quot;,&quot;code&quot;:&quot;HO&quot;},{&quot;name&quot;:&quot;Grodno Region&quot;,&quot;code&quot;:&quot;HR&quot;},{&quot;name&quot;:&quot;Minsk&quot;,&quot;code&quot;:&quot;HM&quot;},{&quot;name&quot;:&quot;Minsk Region&quot;,&quot;code&quot;:&quot;MI&quot;},{&quot;name&quot;:&quot;Mogilev Region&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Vitebsk Region&quot;,&quot;code&quot;:&quot;VI&quot;}]</value>
+    </values>
+</CustomMetadata>

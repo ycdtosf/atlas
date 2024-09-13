@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>South Sudan</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SS</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SSD</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Central Equatoria&quot;,&quot;code&quot;:&quot;EC&quot;},{&quot;name&quot;:&quot;Eastern Equatoria&quot;,&quot;code&quot;:&quot;EE&quot;},{&quot;name&quot;:&quot;Jonglei State&quot;,&quot;code&quot;:&quot;JG&quot;},{&quot;name&quot;:&quot;Lakes&quot;,&quot;code&quot;:&quot;LK&quot;},{&quot;name&quot;:&quot;Northern Bahr el Ghazal&quot;,&quot;code&quot;:&quot;BN&quot;},{&quot;name&quot;:&quot;Unity&quot;,&quot;code&quot;:&quot;UY&quot;},{&quot;name&quot;:&quot;Upper Nile&quot;,&quot;code&quot;:&quot;NU&quot;},{&quot;name&quot;:&quot;Warrap&quot;,&quot;code&quot;:&quot;WR&quot;},{&quot;name&quot;:&quot;Western Bahr el Ghazal&quot;,&quot;code&quot;:&quot;BW&quot;},{&quot;name&quot;:&quot;Western Equatoria&quot;,&quot;code&quot;:&quot;EW&quot;}]</value>
+    </values>
+</CustomMetadata>

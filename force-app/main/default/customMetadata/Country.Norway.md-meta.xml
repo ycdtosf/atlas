@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Norway</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">NO</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">NOR</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Agder&quot;,&quot;code&quot;:&quot;42&quot;},{&quot;name&quot;:&quot;Innlandet&quot;,&quot;code&quot;:&quot;34&quot;},{&quot;name&quot;:&quot;Jan Mayen&quot;,&quot;code&quot;:&quot;22&quot;},{&quot;name&quot;:&quot;Møre og Romsdal&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Nordland&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Oslo&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Rogaland&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Svalbard&quot;,&quot;code&quot;:&quot;21&quot;},{&quot;name&quot;:&quot;Troms og Finnmark&quot;,&quot;code&quot;:&quot;54&quot;},{&quot;name&quot;:&quot;Trøndelag&quot;,&quot;code&quot;:&quot;50&quot;},{&quot;name&quot;:&quot;Vestfold og Telemark&quot;,&quot;code&quot;:&quot;38&quot;},{&quot;name&quot;:&quot;Vestland&quot;,&quot;code&quot;:&quot;46&quot;},{&quot;name&quot;:&quot;Viken&quot;,&quot;code&quot;:&quot;30&quot;}]</value>
+    </values>
+</CustomMetadata>

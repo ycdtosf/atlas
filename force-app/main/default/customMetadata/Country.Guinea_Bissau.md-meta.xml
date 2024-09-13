@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Guinea-Bissau</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">GW</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">GNB</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bafatá&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Biombo Region&quot;,&quot;code&quot;:&quot;BM&quot;},{&quot;name&quot;:&quot;Bolama Region&quot;,&quot;code&quot;:&quot;BL&quot;},{&quot;name&quot;:&quot;Cacheu Region&quot;,&quot;code&quot;:&quot;CA&quot;},{&quot;name&quot;:&quot;Gabú Region&quot;,&quot;code&quot;:&quot;GA&quot;},{&quot;name&quot;:&quot;Leste Province&quot;,&quot;code&quot;:&quot;L&quot;},{&quot;name&quot;:&quot;Norte Province&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Oio Region&quot;,&quot;code&quot;:&quot;OI&quot;},{&quot;name&quot;:&quot;Quinara Region&quot;,&quot;code&quot;:&quot;QU&quot;},{&quot;name&quot;:&quot;Sul Province&quot;,&quot;code&quot;:&quot;S&quot;},{&quot;name&quot;:&quot;Tombali Region&quot;,&quot;code&quot;:&quot;TO&quot;}]</value>
+    </values>
+</CustomMetadata>

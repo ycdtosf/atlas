@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>China</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CN</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CHN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Anhui&quot;,&quot;code&quot;:&quot;AH&quot;},{&quot;name&quot;:&quot;Beijing&quot;,&quot;code&quot;:&quot;BJ&quot;},{&quot;name&quot;:&quot;Chongqing&quot;,&quot;code&quot;:&quot;CQ&quot;},{&quot;name&quot;:&quot;Fujian&quot;,&quot;code&quot;:&quot;FJ&quot;},{&quot;name&quot;:&quot;Gansu&quot;,&quot;code&quot;:&quot;GS&quot;},{&quot;name&quot;:&quot;Guangdong&quot;,&quot;code&quot;:&quot;GD&quot;},{&quot;name&quot;:&quot;Guangxi Zhuang&quot;,&quot;code&quot;:&quot;GX&quot;},{&quot;name&quot;:&quot;Guizhou&quot;,&quot;code&quot;:&quot;GZ&quot;},{&quot;name&quot;:&quot;Hainan&quot;,&quot;code&quot;:&quot;HI&quot;},{&quot;name&quot;:&quot;Hebei&quot;,&quot;code&quot;:&quot;HE&quot;},{&quot;name&quot;:&quot;Heilongjiang&quot;,&quot;code&quot;:&quot;HL&quot;},{&quot;name&quot;:&quot;Henan&quot;,&quot;code&quot;:&quot;HA&quot;},{&quot;name&quot;:&quot;Hong Kong SAR&quot;,&quot;code&quot;:&quot;HK&quot;},{&quot;name&quot;:&quot;Hubei&quot;,&quot;code&quot;:&quot;HB&quot;},{&quot;name&quot;:&quot;Hunan&quot;,&quot;code&quot;:&quot;HN&quot;},{&quot;name&quot;:&quot;Inner Mongolia&quot;,&quot;code&quot;:&quot;NM&quot;},{&quot;name&quot;:&quot;Jiangsu&quot;,&quot;code&quot;:&quot;JS&quot;},{&quot;name&quot;:&quot;Jiangxi&quot;,&quot;code&quot;:&quot;JX&quot;},{&quot;name&quot;:&quot;Jilin&quot;,&quot;code&quot;:&quot;JL&quot;},{&quot;name&quot;:&quot;Liaoning&quot;,&quot;code&quot;:&quot;LN&quot;},{&quot;name&quot;:&quot;Macau SAR&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Ningxia Huizu&quot;,&quot;code&quot;:&quot;NX&quot;},{&quot;name&quot;:&quot;Qinghai&quot;,&quot;code&quot;:&quot;QH&quot;},{&quot;name&quot;:&quot;Shaanxi&quot;,&quot;code&quot;:&quot;SN&quot;},{&quot;name&quot;:&quot;Shandong&quot;,&quot;code&quot;:&quot;SD&quot;},{&quot;name&quot;:&quot;Shanghai&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Shanxi&quot;,&quot;code&quot;:&quot;SX&quot;},{&quot;name&quot;:&quot;Sichuan&quot;,&quot;code&quot;:&quot;SC&quot;},{&quot;name&quot;:&quot;Taiwan&quot;,&quot;code&quot;:&quot;TW&quot;},{&quot;name&quot;:&quot;Tianjin&quot;,&quot;code&quot;:&quot;TJ&quot;},{&quot;name&quot;:&quot;Xinjiang&quot;,&quot;code&quot;:&quot;XJ&quot;},{&quot;name&quot;:&quot;Xizang&quot;,&quot;code&quot;:&quot;XZ&quot;},{&quot;name&quot;:&quot;Yunnan&quot;,&quot;code&quot;:&quot;YN&quot;},{&quot;name&quot;:&quot;Zhejiang&quot;,&quot;code&quot;:&quot;ZJ&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>South Korea</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">KR</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">KOR</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Busan&quot;,&quot;code&quot;:&quot;26&quot;},{&quot;name&quot;:&quot;Daegu&quot;,&quot;code&quot;:&quot;27&quot;},{&quot;name&quot;:&quot;Daejeon&quot;,&quot;code&quot;:&quot;30&quot;},{&quot;name&quot;:&quot;Gangwon Province&quot;,&quot;code&quot;:&quot;42&quot;},{&quot;name&quot;:&quot;Gwangju&quot;,&quot;code&quot;:&quot;29&quot;},{&quot;name&quot;:&quot;Gyeonggi Province&quot;,&quot;code&quot;:&quot;41&quot;},{&quot;name&quot;:&quot;Incheon&quot;,&quot;code&quot;:&quot;28&quot;},{&quot;name&quot;:&quot;Jeju&quot;,&quot;code&quot;:&quot;49&quot;},{&quot;name&quot;:&quot;North Chungcheong Province&quot;,&quot;code&quot;:&quot;43&quot;},{&quot;name&quot;:&quot;North Gyeongsang Province&quot;,&quot;code&quot;:&quot;47&quot;},{&quot;name&quot;:&quot;North Jeolla Province&quot;,&quot;code&quot;:&quot;45&quot;},{&quot;name&quot;:&quot;Sejong City&quot;,&quot;code&quot;:&quot;50&quot;},{&quot;name&quot;:&quot;Seoul&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;South Chungcheong Province&quot;,&quot;code&quot;:&quot;44&quot;},{&quot;name&quot;:&quot;South Gyeongsang Province&quot;,&quot;code&quot;:&quot;48&quot;},{&quot;name&quot;:&quot;South Jeolla Province&quot;,&quot;code&quot;:&quot;46&quot;},{&quot;name&quot;:&quot;Ulsan&quot;,&quot;code&quot;:&quot;31&quot;}]</value>
+    </values>
+</CustomMetadata>

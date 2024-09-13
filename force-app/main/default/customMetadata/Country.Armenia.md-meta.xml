@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Armenia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">AM</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">ARM</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Aragatsotn Region&quot;,&quot;code&quot;:&quot;AG&quot;},{&quot;name&quot;:&quot;Ararat Province&quot;,&quot;code&quot;:&quot;AR&quot;},{&quot;name&quot;:&quot;Armavir Region&quot;,&quot;code&quot;:&quot;AV&quot;},{&quot;name&quot;:&quot;Gegharkunik Province&quot;,&quot;code&quot;:&quot;GR&quot;},{&quot;name&quot;:&quot;Kotayk Region&quot;,&quot;code&quot;:&quot;KT&quot;},{&quot;name&quot;:&quot;Lori Region&quot;,&quot;code&quot;:&quot;LO&quot;},{&quot;name&quot;:&quot;Shirak Region&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Syunik Province&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Tavush Region&quot;,&quot;code&quot;:&quot;TV&quot;},{&quot;name&quot;:&quot;Vayots Dzor Region&quot;,&quot;code&quot;:&quot;VD&quot;},{&quot;name&quot;:&quot;Yerevan&quot;,&quot;code&quot;:&quot;ER&quot;}]</value>
+    </values>
+</CustomMetadata>

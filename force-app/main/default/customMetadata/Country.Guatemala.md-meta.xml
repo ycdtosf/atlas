@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Guatemala</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">GT</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">GTM</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Alta Verapaz Department&quot;,&quot;code&quot;:&quot;AV&quot;},{&quot;name&quot;:&quot;Baja Verapaz Department&quot;,&quot;code&quot;:&quot;BV&quot;},{&quot;name&quot;:&quot;Chimaltenango Department&quot;,&quot;code&quot;:&quot;CM&quot;},{&quot;name&quot;:&quot;Chiquimula Department&quot;,&quot;code&quot;:&quot;CQ&quot;},{&quot;name&quot;:&quot;El Progreso Department&quot;,&quot;code&quot;:&quot;PR&quot;},{&quot;name&quot;:&quot;Escuintla Department&quot;,&quot;code&quot;:&quot;ES&quot;},{&quot;name&quot;:&quot;Guatemala Department&quot;,&quot;code&quot;:&quot;GU&quot;},{&quot;name&quot;:&quot;Huehuetenango Department&quot;,&quot;code&quot;:&quot;HU&quot;},{&quot;name&quot;:&quot;Izabal Department&quot;,&quot;code&quot;:&quot;IZ&quot;},{&quot;name&quot;:&quot;Jalapa Department&quot;,&quot;code&quot;:&quot;JA&quot;},{&quot;name&quot;:&quot;Jutiapa Department&quot;,&quot;code&quot;:&quot;JU&quot;},{&quot;name&quot;:&quot;Petén Department&quot;,&quot;code&quot;:&quot;PE&quot;},{&quot;name&quot;:&quot;Quetzaltenango Department&quot;,&quot;code&quot;:&quot;QZ&quot;},{&quot;name&quot;:&quot;Quiché Department&quot;,&quot;code&quot;:&quot;QC&quot;},{&quot;name&quot;:&quot;Retalhuleu Department&quot;,&quot;code&quot;:&quot;RE&quot;},{&quot;name&quot;:&quot;Sacatepéquez Department&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;San Marcos Department&quot;,&quot;code&quot;:&quot;SM&quot;},{&quot;name&quot;:&quot;Santa Rosa Department&quot;,&quot;code&quot;:&quot;SR&quot;},{&quot;name&quot;:&quot;Sololá Department&quot;,&quot;code&quot;:&quot;SO&quot;},{&quot;name&quot;:&quot;Suchitepéquez Department&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Totonicapán Department&quot;,&quot;code&quot;:&quot;TO&quot;}]</value>
+    </values>
+</CustomMetadata>

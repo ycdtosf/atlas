@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Iraq</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">IQ</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">IRQ</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Al Anbar&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Al Muthanna&quot;,&quot;code&quot;:&quot;MU&quot;},{&quot;name&quot;:&quot;Al-Qādisiyyah&quot;,&quot;code&quot;:&quot;QA&quot;},{&quot;name&quot;:&quot;Babylon&quot;,&quot;code&quot;:&quot;BB&quot;},{&quot;name&quot;:&quot;Baghdad&quot;,&quot;code&quot;:&quot;BG&quot;},{&quot;name&quot;:&quot;Basra&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Dhi Qar&quot;,&quot;code&quot;:&quot;DQ&quot;},{&quot;name&quot;:&quot;Diyala&quot;,&quot;code&quot;:&quot;DI&quot;},{&quot;name&quot;:&quot;Dohuk&quot;,&quot;code&quot;:&quot;DA&quot;},{&quot;name&quot;:&quot;Erbil&quot;,&quot;code&quot;:&quot;AR&quot;},{&quot;name&quot;:&quot;Karbala&quot;,&quot;code&quot;:&quot;KA&quot;},{&quot;name&quot;:&quot;Kirkuk&quot;,&quot;code&quot;:&quot;KI&quot;},{&quot;name&quot;:&quot;Maysan&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Najaf&quot;,&quot;code&quot;:&quot;NA&quot;},{&quot;name&quot;:&quot;Nineveh&quot;,&quot;code&quot;:&quot;NI&quot;},{&quot;name&quot;:&quot;Saladin&quot;,&quot;code&quot;:&quot;SD&quot;},{&quot;name&quot;:&quot;Sulaymaniyah&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Wasit&quot;,&quot;code&quot;:&quot;WA&quot;}]</value>
+    </values>
+</CustomMetadata>

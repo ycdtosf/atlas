@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Equatorial Guinea</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">GQ</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">GNQ</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Annobón Province&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Bioko Norte Province&quot;,&quot;code&quot;:&quot;BN&quot;},{&quot;name&quot;:&quot;Bioko Sur Province&quot;,&quot;code&quot;:&quot;BS&quot;},{&quot;name&quot;:&quot;Centro Sur Province&quot;,&quot;code&quot;:&quot;CS&quot;},{&quot;name&quot;:&quot;Insular Region&quot;,&quot;code&quot;:&quot;I&quot;},{&quot;name&quot;:&quot;Kié-Ntem Province&quot;,&quot;code&quot;:&quot;KN&quot;},{&quot;name&quot;:&quot;Litoral Province&quot;,&quot;code&quot;:&quot;LI&quot;},{&quot;name&quot;:&quot;Río Muni&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Wele-Nzas Province&quot;,&quot;code&quot;:&quot;WN&quot;}]</value>
+    </values>
+</CustomMetadata>

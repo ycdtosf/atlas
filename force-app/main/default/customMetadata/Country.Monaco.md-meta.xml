@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Monaco</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MC</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MCO</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;La Colle&quot;,&quot;code&quot;:&quot;CL&quot;},{&quot;name&quot;:&quot;La Condamine&quot;,&quot;code&quot;:&quot;CO&quot;},{&quot;name&quot;:&quot;Moneghetti&quot;,&quot;code&quot;:&quot;MG&quot;}]</value>
+    </values>
+</CustomMetadata>

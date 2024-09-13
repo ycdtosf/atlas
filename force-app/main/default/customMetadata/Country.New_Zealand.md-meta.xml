@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>New Zealand</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">NZ</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">NZL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Auckland Region&quot;,&quot;code&quot;:&quot;AUK&quot;},{&quot;name&quot;:&quot;Bay of Plenty Region&quot;,&quot;code&quot;:&quot;BOP&quot;},{&quot;name&quot;:&quot;Canterbury Region&quot;,&quot;code&quot;:&quot;CAN&quot;},{&quot;name&quot;:&quot;Chatham Islands&quot;,&quot;code&quot;:&quot;CIT&quot;},{&quot;name&quot;:&quot;Gisborne District&quot;,&quot;code&quot;:&quot;GIS&quot;},{&quot;name&quot;:&quot;Hawke&apos;s Bay Region&quot;,&quot;code&quot;:&quot;HKB&quot;},{&quot;name&quot;:&quot;Manawatu-Wanganui Region&quot;,&quot;code&quot;:&quot;MWT&quot;},{&quot;name&quot;:&quot;Marlborough Region&quot;,&quot;code&quot;:&quot;MBH&quot;},{&quot;name&quot;:&quot;Nelson Region&quot;,&quot;code&quot;:&quot;NSN&quot;},{&quot;name&quot;:&quot;Northland Region&quot;,&quot;code&quot;:&quot;NTL&quot;},{&quot;name&quot;:&quot;Otago Region&quot;,&quot;code&quot;:&quot;OTA&quot;},{&quot;name&quot;:&quot;Southland Region&quot;,&quot;code&quot;:&quot;STL&quot;},{&quot;name&quot;:&quot;Taranaki Region&quot;,&quot;code&quot;:&quot;TKI&quot;},{&quot;name&quot;:&quot;Tasman District&quot;,&quot;code&quot;:&quot;TAS&quot;},{&quot;name&quot;:&quot;Waikato Region&quot;,&quot;code&quot;:&quot;WKO&quot;},{&quot;name&quot;:&quot;Wellington Region&quot;,&quot;code&quot;:&quot;WGN&quot;},{&quot;name&quot;:&quot;West Coast Region&quot;,&quot;code&quot;:&quot;WTC&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Australia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">AU</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">AUS</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Australian Capital Territory&quot;,&quot;code&quot;:&quot;ACT&quot;},{&quot;name&quot;:&quot;New South Wales&quot;,&quot;code&quot;:&quot;NSW&quot;},{&quot;name&quot;:&quot;Northern Territory&quot;,&quot;code&quot;:&quot;NT&quot;},{&quot;name&quot;:&quot;Queensland&quot;,&quot;code&quot;:&quot;QLD&quot;},{&quot;name&quot;:&quot;South Australia&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Tasmania&quot;,&quot;code&quot;:&quot;TAS&quot;},{&quot;name&quot;:&quot;Victoria&quot;,&quot;code&quot;:&quot;VIC&quot;},{&quot;name&quot;:&quot;Western Australia&quot;,&quot;code&quot;:&quot;WA&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Democratic Republic of the Congo</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CD</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">COD</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bas-Uélé&quot;,&quot;code&quot;:&quot;BU&quot;},{&quot;name&quot;:&quot;Équateur&quot;,&quot;code&quot;:&quot;EQ&quot;},{&quot;name&quot;:&quot;Haut-Katanga&quot;,&quot;code&quot;:&quot;HK&quot;},{&quot;name&quot;:&quot;Haut-Lomami&quot;,&quot;code&quot;:&quot;HL&quot;},{&quot;name&quot;:&quot;Haut-Uélé&quot;,&quot;code&quot;:&quot;HU&quot;},{&quot;name&quot;:&quot;Ituri&quot;,&quot;code&quot;:&quot;IT&quot;},{&quot;name&quot;:&quot;Kasaï&quot;,&quot;code&quot;:&quot;KS&quot;},{&quot;name&quot;:&quot;Kasaï Central&quot;,&quot;code&quot;:&quot;KC&quot;},{&quot;name&quot;:&quot;Kasaï Oriental&quot;,&quot;code&quot;:&quot;KE&quot;},{&quot;name&quot;:&quot;Kinshasa&quot;,&quot;code&quot;:&quot;KN&quot;},{&quot;name&quot;:&quot;Kongo Central&quot;,&quot;code&quot;:&quot;BC&quot;},{&quot;name&quot;:&quot;Kwango&quot;,&quot;code&quot;:&quot;KG&quot;},{&quot;name&quot;:&quot;Kwilu&quot;,&quot;code&quot;:&quot;KL&quot;},{&quot;name&quot;:&quot;Lomami&quot;,&quot;code&quot;:&quot;LO&quot;},{&quot;name&quot;:&quot;Lualaba&quot;,&quot;code&quot;:&quot;LU&quot;},{&quot;name&quot;:&quot;Mai-Ndombe&quot;,&quot;code&quot;:&quot;MN&quot;},{&quot;name&quot;:&quot;Maniema&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Mongala&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Nord-Kivu&quot;,&quot;code&quot;:&quot;NK&quot;},{&quot;name&quot;:&quot;Nord-Ubangi&quot;,&quot;code&quot;:&quot;NU&quot;},{&quot;name&quot;:&quot;Sankuru&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Sud-Kivu&quot;,&quot;code&quot;:&quot;SK&quot;},{&quot;name&quot;:&quot;Sud-Ubangi&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Tanganyika&quot;,&quot;code&quot;:&quot;TA&quot;},{&quot;name&quot;:&quot;Tshopo&quot;,&quot;code&quot;:&quot;TO&quot;},{&quot;name&quot;:&quot;Tshuapa&quot;,&quot;code&quot;:&quot;TU&quot;}]</value>
+    </values>
+</CustomMetadata>

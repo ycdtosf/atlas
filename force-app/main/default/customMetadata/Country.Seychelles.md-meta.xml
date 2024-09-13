@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Seychelles</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SC</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SYC</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Anse Boileau&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Anse Royale&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Anse-aux-Pins&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Au Cap&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Baie Lazare&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Baie Sainte Anne&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Beau Vallon&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Bel Air&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Bel Ombre&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Cascade&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Glacis&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Grand&apos;Anse Mahé&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Grand&apos;Anse Praslin&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;La Digue&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;La Rivière Anglaise&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Les Mamelles&quot;,&quot;code&quot;:&quot;24&quot;},{&quot;name&quot;:&quot;Mont Buxton&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Mont Fleuri&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Plaisance&quot;,&quot;code&quot;:&quot;19&quot;},{&quot;name&quot;:&quot;Pointe La Rue&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;Port Glaud&quot;,&quot;code&quot;:&quot;21&quot;},{&quot;name&quot;:&quot;Roche Caiman&quot;,&quot;code&quot;:&quot;25&quot;},{&quot;name&quot;:&quot;Saint Louis&quot;,&quot;code&quot;:&quot;22&quot;},{&quot;name&quot;:&quot;Takamaka&quot;,&quot;code&quot;:&quot;23&quot;}]</value>
+    </values>
+</CustomMetadata>

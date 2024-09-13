@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Central African Republic</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CF</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CAF</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bamingui-Bangoran Prefecture&quot;,&quot;code&quot;:&quot;BB&quot;},{&quot;name&quot;:&quot;Bangui&quot;,&quot;code&quot;:&quot;BGF&quot;},{&quot;name&quot;:&quot;Basse-Kotto Prefecture&quot;,&quot;code&quot;:&quot;BK&quot;},{&quot;name&quot;:&quot;Haut-Mbomou Prefecture&quot;,&quot;code&quot;:&quot;HM&quot;},{&quot;name&quot;:&quot;Haute-Kotto Prefecture&quot;,&quot;code&quot;:&quot;HK&quot;},{&quot;name&quot;:&quot;Kémo Prefecture&quot;,&quot;code&quot;:&quot;KG&quot;},{&quot;name&quot;:&quot;Lobaye Prefecture&quot;,&quot;code&quot;:&quot;LB&quot;},{&quot;name&quot;:&quot;Mambéré-Kadéï&quot;,&quot;code&quot;:&quot;HS&quot;},{&quot;name&quot;:&quot;Mbomou Prefecture&quot;,&quot;code&quot;:&quot;MB&quot;},{&quot;name&quot;:&quot;Nana-Grébizi Economic Prefecture&quot;,&quot;code&quot;:&quot;KB&quot;},{&quot;name&quot;:&quot;Nana-Mambéré Prefecture&quot;,&quot;code&quot;:&quot;NM&quot;},{&quot;name&quot;:&quot;Ombella-M&apos;Poko Prefecture&quot;,&quot;code&quot;:&quot;MP&quot;},{&quot;name&quot;:&quot;Ouaka Prefecture&quot;,&quot;code&quot;:&quot;UK&quot;},{&quot;name&quot;:&quot;Ouham Prefecture&quot;,&quot;code&quot;:&quot;AC&quot;},{&quot;name&quot;:&quot;Ouham-Pendé Prefecture&quot;,&quot;code&quot;:&quot;OP&quot;},{&quot;name&quot;:&quot;Sangha-Mbaéré&quot;,&quot;code&quot;:&quot;SE&quot;},{&quot;name&quot;:&quot;Vakaga Prefecture&quot;,&quot;code&quot;:&quot;VK&quot;}]</value>
+    </values>
+</CustomMetadata>

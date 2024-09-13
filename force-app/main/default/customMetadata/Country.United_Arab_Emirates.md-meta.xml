@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>United Arab Emirates</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">AE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">ARE</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Abu Dhabi Emirate&quot;,&quot;code&quot;:&quot;AZ&quot;},{&quot;name&quot;:&quot;Ajman Emirate&quot;,&quot;code&quot;:&quot;AJ&quot;},{&quot;name&quot;:&quot;Dubai&quot;,&quot;code&quot;:&quot;DU&quot;},{&quot;name&quot;:&quot;Fujairah&quot;,&quot;code&quot;:&quot;FU&quot;},{&quot;name&quot;:&quot;Ras al-Khaimah&quot;,&quot;code&quot;:&quot;RK&quot;},{&quot;name&quot;:&quot;Sharjah Emirate&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Umm al-Quwain&quot;,&quot;code&quot;:&quot;UQ&quot;}]</value>
+    </values>
+</CustomMetadata>

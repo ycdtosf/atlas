@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Cuba</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CU</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CUB</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Artemisa Province&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Camagüey Province&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Ciego de Ávila Province&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Cienfuegos Province&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Granma Province&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Guantánamo Province&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Havana Province&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Holguín Province&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Isla de la Juventud&quot;,&quot;code&quot;:&quot;99&quot;},{&quot;name&quot;:&quot;Las Tunas Province&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Matanzas Province&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Mayabeque Province&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Pinar del Río Province&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Sancti Spíritus Province&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Santiago de Cuba Province&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Villa Clara Province&quot;,&quot;code&quot;:&quot;05&quot;}]</value>
+    </values>
+</CustomMetadata>

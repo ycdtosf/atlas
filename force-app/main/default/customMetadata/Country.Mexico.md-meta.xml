@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Mexico</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MX</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MEX</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Aguascalientes&quot;,&quot;code&quot;:&quot;AGU&quot;},{&quot;name&quot;:&quot;Baja California&quot;,&quot;code&quot;:&quot;BCN&quot;},{&quot;name&quot;:&quot;Baja California Sur&quot;,&quot;code&quot;:&quot;BCS&quot;},{&quot;name&quot;:&quot;Campeche&quot;,&quot;code&quot;:&quot;CAM&quot;},{&quot;name&quot;:&quot;Chiapas&quot;,&quot;code&quot;:&quot;CHP&quot;},{&quot;name&quot;:&quot;Chihuahua&quot;,&quot;code&quot;:&quot;CHH&quot;},{&quot;name&quot;:&quot;Ciudad de México&quot;,&quot;code&quot;:&quot;CMX&quot;},{&quot;name&quot;:&quot;Coahuila de Zaragoza&quot;,&quot;code&quot;:&quot;COA&quot;},{&quot;name&quot;:&quot;Colima&quot;,&quot;code&quot;:&quot;COL&quot;},{&quot;name&quot;:&quot;Durango&quot;,&quot;code&quot;:&quot;DUR&quot;},{&quot;name&quot;:&quot;Estado de México&quot;,&quot;code&quot;:&quot;MEX&quot;},{&quot;name&quot;:&quot;Guanajuato&quot;,&quot;code&quot;:&quot;GUA&quot;},{&quot;name&quot;:&quot;Guerrero&quot;,&quot;code&quot;:&quot;GRO&quot;},{&quot;name&quot;:&quot;Hidalgo&quot;,&quot;code&quot;:&quot;HID&quot;},{&quot;name&quot;:&quot;Jalisco&quot;,&quot;code&quot;:&quot;JAL&quot;},{&quot;name&quot;:&quot;Michoacán de Ocampo&quot;,&quot;code&quot;:&quot;MIC&quot;},{&quot;name&quot;:&quot;Morelos&quot;,&quot;code&quot;:&quot;MOR&quot;},{&quot;name&quot;:&quot;Nayarit&quot;,&quot;code&quot;:&quot;NAY&quot;},{&quot;name&quot;:&quot;Nuevo León&quot;,&quot;code&quot;:&quot;NLE&quot;},{&quot;name&quot;:&quot;Oaxaca&quot;,&quot;code&quot;:&quot;OAX&quot;},{&quot;name&quot;:&quot;Puebla&quot;,&quot;code&quot;:&quot;PUE&quot;},{&quot;name&quot;:&quot;Querétaro&quot;,&quot;code&quot;:&quot;QUE&quot;},{&quot;name&quot;:&quot;Quintana Roo&quot;,&quot;code&quot;:&quot;ROO&quot;},{&quot;name&quot;:&quot;San Luis Potosí&quot;,&quot;code&quot;:&quot;SLP&quot;},{&quot;name&quot;:&quot;Sinaloa&quot;,&quot;code&quot;:&quot;SIN&quot;},{&quot;name&quot;:&quot;Sonora&quot;,&quot;code&quot;:&quot;SON&quot;},{&quot;name&quot;:&quot;Tabasco&quot;,&quot;code&quot;:&quot;TAB&quot;},{&quot;name&quot;:&quot;Tamaulipas&quot;,&quot;code&quot;:&quot;TAM&quot;},{&quot;name&quot;:&quot;Tlaxcala&quot;,&quot;code&quot;:&quot;TLA&quot;},{&quot;name&quot;:&quot;Veracruz de Ignacio de la Llave&quot;,&quot;code&quot;:&quot;VER&quot;},{&quot;name&quot;:&quot;Yucatán&quot;,&quot;code&quot;:&quot;YUC&quot;},{&quot;name&quot;:&quot;Zacatecas&quot;,&quot;code&quot;:&quot;ZAC&quot;}]</value>
+    </values>
+</CustomMetadata>

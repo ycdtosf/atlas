@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>North Korea</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">KP</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">PRK</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Chagang Province&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Kangwon Province&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;North Hamgyong Province&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;North Hwanghae Province&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;North Pyongan Province&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Pyongyang&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Rason&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Ryanggang Province&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;South Hamgyong Province&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;South Hwanghae Province&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;South Pyongan Province&quot;,&quot;code&quot;:&quot;02&quot;}]</value>
+    </values>
+</CustomMetadata>

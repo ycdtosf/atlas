@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Vanuatu</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">VU</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">VUT</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Malampa&quot;,&quot;code&quot;:&quot;MAP&quot;},{&quot;name&quot;:&quot;Penama&quot;,&quot;code&quot;:&quot;PAM&quot;},{&quot;name&quot;:&quot;Sanma&quot;,&quot;code&quot;:&quot;SAM&quot;},{&quot;name&quot;:&quot;Shefa&quot;,&quot;code&quot;:&quot;SEE&quot;},{&quot;name&quot;:&quot;Tafea&quot;,&quot;code&quot;:&quot;TAE&quot;},{&quot;name&quot;:&quot;Torba&quot;,&quot;code&quot;:&quot;TOB&quot;}]</value>
+    </values>
+</CustomMetadata>

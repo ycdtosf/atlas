@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Honduras</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">HN</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">HND</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Atlántida Department&quot;,&quot;code&quot;:&quot;AT&quot;},{&quot;name&quot;:&quot;Bay Islands Department&quot;,&quot;code&quot;:&quot;IB&quot;},{&quot;name&quot;:&quot;Choluteca Department&quot;,&quot;code&quot;:&quot;CH&quot;},{&quot;name&quot;:&quot;Colón Department&quot;,&quot;code&quot;:&quot;CL&quot;},{&quot;name&quot;:&quot;Comayagua Department&quot;,&quot;code&quot;:&quot;CM&quot;},{&quot;name&quot;:&quot;Copán Department&quot;,&quot;code&quot;:&quot;CP&quot;},{&quot;name&quot;:&quot;Cortés Department&quot;,&quot;code&quot;:&quot;CR&quot;},{&quot;name&quot;:&quot;El Paraíso Department&quot;,&quot;code&quot;:&quot;EP&quot;},{&quot;name&quot;:&quot;Francisco Morazán Department&quot;,&quot;code&quot;:&quot;FM&quot;},{&quot;name&quot;:&quot;Gracias a Dios Department&quot;,&quot;code&quot;:&quot;GD&quot;},{&quot;name&quot;:&quot;Intibucá Department&quot;,&quot;code&quot;:&quot;IN&quot;},{&quot;name&quot;:&quot;La Paz Department&quot;,&quot;code&quot;:&quot;LP&quot;},{&quot;name&quot;:&quot;Lempira Department&quot;,&quot;code&quot;:&quot;LE&quot;},{&quot;name&quot;:&quot;Ocotepeque Department&quot;,&quot;code&quot;:&quot;OC&quot;},{&quot;name&quot;:&quot;Olancho Department&quot;,&quot;code&quot;:&quot;OL&quot;},{&quot;name&quot;:&quot;Santa Bárbara Department&quot;,&quot;code&quot;:&quot;SB&quot;},{&quot;name&quot;:&quot;Valle Department&quot;,&quot;code&quot;:&quot;VA&quot;},{&quot;name&quot;:&quot;Yoro Department&quot;,&quot;code&quot;:&quot;YO&quot;}]</value>
+    </values>
+</CustomMetadata>

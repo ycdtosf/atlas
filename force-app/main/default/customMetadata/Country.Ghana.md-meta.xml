@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Ghana</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">GH</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">GHA</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Ahafo&quot;,&quot;code&quot;:&quot;AF&quot;},{&quot;name&quot;:&quot;Ashanti&quot;,&quot;code&quot;:&quot;AH&quot;},{&quot;name&quot;:&quot;Bono&quot;,&quot;code&quot;:&quot;BO&quot;},{&quot;name&quot;:&quot;Bono East&quot;,&quot;code&quot;:&quot;BE&quot;},{&quot;name&quot;:&quot;Central&quot;,&quot;code&quot;:&quot;CP&quot;},{&quot;name&quot;:&quot;Eastern&quot;,&quot;code&quot;:&quot;EP&quot;},{&quot;name&quot;:&quot;Greater Accra&quot;,&quot;code&quot;:&quot;AA&quot;},{&quot;name&quot;:&quot;North East&quot;,&quot;code&quot;:&quot;NE&quot;},{&quot;name&quot;:&quot;Northern&quot;,&quot;code&quot;:&quot;NP&quot;},{&quot;name&quot;:&quot;Oti&quot;,&quot;code&quot;:&quot;OT&quot;},{&quot;name&quot;:&quot;Savannah&quot;,&quot;code&quot;:&quot;SV&quot;},{&quot;name&quot;:&quot;Upper East&quot;,&quot;code&quot;:&quot;UE&quot;},{&quot;name&quot;:&quot;Upper West&quot;,&quot;code&quot;:&quot;UW&quot;},{&quot;name&quot;:&quot;Volta&quot;,&quot;code&quot;:&quot;TV&quot;},{&quot;name&quot;:&quot;Western&quot;,&quot;code&quot;:&quot;WP&quot;},{&quot;name&quot;:&quot;Western North&quot;,&quot;code&quot;:&quot;WN&quot;}]</value>
+    </values>
+</CustomMetadata>

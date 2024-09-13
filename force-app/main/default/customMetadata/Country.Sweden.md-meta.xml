@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Sweden</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SWE</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Blekinge County&quot;,&quot;code&quot;:&quot;K&quot;},{&quot;name&quot;:&quot;Dalarna County&quot;,&quot;code&quot;:&quot;W&quot;},{&quot;name&quot;:&quot;Gävleborg County&quot;,&quot;code&quot;:&quot;X&quot;},{&quot;name&quot;:&quot;Gotland County&quot;,&quot;code&quot;:&quot;I&quot;},{&quot;name&quot;:&quot;Halland County&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Jämtland County&quot;,&quot;code&quot;:&quot;0&quot;},{&quot;name&quot;:&quot;Jönköping County&quot;,&quot;code&quot;:&quot;F&quot;},{&quot;name&quot;:&quot;Kalmar County&quot;,&quot;code&quot;:&quot;H&quot;},{&quot;name&quot;:&quot;Kronoberg County&quot;,&quot;code&quot;:&quot;G&quot;},{&quot;name&quot;:&quot;Norrbotten County&quot;,&quot;code&quot;:&quot;BD&quot;},{&quot;name&quot;:&quot;Örebro County&quot;,&quot;code&quot;:&quot;T&quot;},{&quot;name&quot;:&quot;Östergötland County&quot;,&quot;code&quot;:&quot;E&quot;},{&quot;name&quot;:&quot;Skåne County&quot;,&quot;code&quot;:&quot;M&quot;},{&quot;name&quot;:&quot;Södermanland County&quot;,&quot;code&quot;:&quot;D&quot;},{&quot;name&quot;:&quot;Stockholm County&quot;,&quot;code&quot;:&quot;AB&quot;},{&quot;name&quot;:&quot;Uppsala County&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Värmland County&quot;,&quot;code&quot;:&quot;S&quot;},{&quot;name&quot;:&quot;Västerbotten County&quot;,&quot;code&quot;:&quot;AC&quot;},{&quot;name&quot;:&quot;Västernorrland County&quot;,&quot;code&quot;:&quot;Y&quot;},{&quot;name&quot;:&quot;Västmanland County&quot;,&quot;code&quot;:&quot;U&quot;},{&quot;name&quot;:&quot;Västra Götaland County&quot;,&quot;code&quot;:&quot;O&quot;}]</value>
+    </values>
+</CustomMetadata>

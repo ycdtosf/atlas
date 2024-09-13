@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Timor-Leste</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">TL</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">TLS</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Aileu municipality&quot;,&quot;code&quot;:&quot;AL&quot;},{&quot;name&quot;:&quot;Ainaro Municipality&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Baucau Municipality&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Bobonaro Municipality&quot;,&quot;code&quot;:&quot;BO&quot;},{&quot;name&quot;:&quot;Cova Lima Municipality&quot;,&quot;code&quot;:&quot;CO&quot;},{&quot;name&quot;:&quot;Dili municipality&quot;,&quot;code&quot;:&quot;DI&quot;},{&quot;name&quot;:&quot;Ermera District&quot;,&quot;code&quot;:&quot;ER&quot;},{&quot;name&quot;:&quot;Lautém Municipality&quot;,&quot;code&quot;:&quot;LA&quot;},{&quot;name&quot;:&quot;Liquiçá Municipality&quot;,&quot;code&quot;:&quot;LI&quot;},{&quot;name&quot;:&quot;Manatuto District&quot;,&quot;code&quot;:&quot;MT&quot;},{&quot;name&quot;:&quot;Manufahi Municipality&quot;,&quot;code&quot;:&quot;MF&quot;},{&quot;name&quot;:&quot;Viqueque Municipality&quot;,&quot;code&quot;:&quot;VI&quot;}]</value>
+    </values>
+</CustomMetadata>

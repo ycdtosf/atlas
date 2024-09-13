@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Syria</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SY</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SYR</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Al-Hasakah&quot;,&quot;code&quot;:&quot;HA&quot;},{&quot;name&quot;:&quot;Al-Raqqah&quot;,&quot;code&quot;:&quot;RA&quot;},{&quot;name&quot;:&quot;Aleppo&quot;,&quot;code&quot;:&quot;HL&quot;},{&quot;name&quot;:&quot;As-Suwayda&quot;,&quot;code&quot;:&quot;SU&quot;},{&quot;name&quot;:&quot;Damascus&quot;,&quot;code&quot;:&quot;DI&quot;},{&quot;name&quot;:&quot;Daraa&quot;,&quot;code&quot;:&quot;DR&quot;},{&quot;name&quot;:&quot;Deir ez-Zor&quot;,&quot;code&quot;:&quot;DY&quot;},{&quot;name&quot;:&quot;Hama&quot;,&quot;code&quot;:&quot;HM&quot;},{&quot;name&quot;:&quot;Homs&quot;,&quot;code&quot;:&quot;HI&quot;},{&quot;name&quot;:&quot;Idlib&quot;,&quot;code&quot;:&quot;ID&quot;},{&quot;name&quot;:&quot;Latakia&quot;,&quot;code&quot;:&quot;LA&quot;},{&quot;name&quot;:&quot;Quneitra&quot;,&quot;code&quot;:&quot;QU&quot;},{&quot;name&quot;:&quot;Rif Dimashq&quot;,&quot;code&quot;:&quot;RD&quot;},{&quot;name&quot;:&quot;Tartus&quot;,&quot;code&quot;:&quot;TA&quot;}]</value>
+    </values>
+</CustomMetadata>

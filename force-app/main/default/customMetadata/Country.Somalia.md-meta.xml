@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Somalia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SO</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SOM</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Awdal Region&quot;,&quot;code&quot;:&quot;AW&quot;},{&quot;name&quot;:&quot;Bakool&quot;,&quot;code&quot;:&quot;BK&quot;},{&quot;name&quot;:&quot;Banaadir&quot;,&quot;code&quot;:&quot;BN&quot;},{&quot;name&quot;:&quot;Bari&quot;,&quot;code&quot;:&quot;BR&quot;},{&quot;name&quot;:&quot;Bay&quot;,&quot;code&quot;:&quot;BY&quot;},{&quot;name&quot;:&quot;Galguduud&quot;,&quot;code&quot;:&quot;GA&quot;},{&quot;name&quot;:&quot;Gedo&quot;,&quot;code&quot;:&quot;GE&quot;},{&quot;name&quot;:&quot;Hiran&quot;,&quot;code&quot;:&quot;HI&quot;},{&quot;name&quot;:&quot;Lower Juba&quot;,&quot;code&quot;:&quot;JH&quot;},{&quot;name&quot;:&quot;Lower Shebelle&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Middle Juba&quot;,&quot;code&quot;:&quot;JD&quot;},{&quot;name&quot;:&quot;Middle Shebelle&quot;,&quot;code&quot;:&quot;SD&quot;},{&quot;name&quot;:&quot;Mudug&quot;,&quot;code&quot;:&quot;MU&quot;},{&quot;name&quot;:&quot;Nugal&quot;,&quot;code&quot;:&quot;NU&quot;},{&quot;name&quot;:&quot;Sanaag Region&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Togdheer Region&quot;,&quot;code&quot;:&quot;TO&quot;}]</value>
+    </values>
+</CustomMetadata>

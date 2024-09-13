@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Brazil</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BR</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BRA</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Acre&quot;,&quot;code&quot;:&quot;AC&quot;},{&quot;name&quot;:&quot;Alagoas&quot;,&quot;code&quot;:&quot;AL&quot;},{&quot;name&quot;:&quot;Amapá&quot;,&quot;code&quot;:&quot;AP&quot;},{&quot;name&quot;:&quot;Amazonas&quot;,&quot;code&quot;:&quot;AM&quot;},{&quot;name&quot;:&quot;Bahia&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Ceará&quot;,&quot;code&quot;:&quot;CE&quot;},{&quot;name&quot;:&quot;Distrito Federal&quot;,&quot;code&quot;:&quot;DF&quot;},{&quot;name&quot;:&quot;Espírito Santo&quot;,&quot;code&quot;:&quot;ES&quot;},{&quot;name&quot;:&quot;Goiás&quot;,&quot;code&quot;:&quot;GO&quot;},{&quot;name&quot;:&quot;Maranhão&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Mato Grosso&quot;,&quot;code&quot;:&quot;MT&quot;},{&quot;name&quot;:&quot;Mato Grosso do Sul&quot;,&quot;code&quot;:&quot;MS&quot;},{&quot;name&quot;:&quot;Minas Gerais&quot;,&quot;code&quot;:&quot;MG&quot;},{&quot;name&quot;:&quot;Pará&quot;,&quot;code&quot;:&quot;PA&quot;},{&quot;name&quot;:&quot;Paraíba&quot;,&quot;code&quot;:&quot;PB&quot;},{&quot;name&quot;:&quot;Paraná&quot;,&quot;code&quot;:&quot;PR&quot;},{&quot;name&quot;:&quot;Pernambuco&quot;,&quot;code&quot;:&quot;PE&quot;},{&quot;name&quot;:&quot;Piauí&quot;,&quot;code&quot;:&quot;PI&quot;},{&quot;name&quot;:&quot;Rio de Janeiro&quot;,&quot;code&quot;:&quot;RJ&quot;},{&quot;name&quot;:&quot;Rio Grande do Norte&quot;,&quot;code&quot;:&quot;RN&quot;},{&quot;name&quot;:&quot;Rio Grande do Sul&quot;,&quot;code&quot;:&quot;RS&quot;},{&quot;name&quot;:&quot;Rondônia&quot;,&quot;code&quot;:&quot;RO&quot;},{&quot;name&quot;:&quot;Roraima&quot;,&quot;code&quot;:&quot;RR&quot;},{&quot;name&quot;:&quot;Santa Catarina&quot;,&quot;code&quot;:&quot;SC&quot;},{&quot;name&quot;:&quot;São Paulo&quot;,&quot;code&quot;:&quot;SP&quot;},{&quot;name&quot;:&quot;Sergipe&quot;,&quot;code&quot;:&quot;SE&quot;},{&quot;name&quot;:&quot;Tocantins&quot;,&quot;code&quot;:&quot;TO&quot;}]</value>
+    </values>
+</CustomMetadata>

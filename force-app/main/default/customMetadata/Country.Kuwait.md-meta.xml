@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Kuwait</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">KW</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">KWT</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Al Ahmadi&quot;,&quot;code&quot;:&quot;AH&quot;},{&quot;name&quot;:&quot;Al Farwaniyah&quot;,&quot;code&quot;:&quot;FA&quot;},{&quot;name&quot;:&quot;Al Jahra&quot;,&quot;code&quot;:&quot;JA&quot;},{&quot;name&quot;:&quot;Capital&quot;,&quot;code&quot;:&quot;KU&quot;},{&quot;name&quot;:&quot;Hawalli&quot;,&quot;code&quot;:&quot;HA&quot;},{&quot;name&quot;:&quot;Mubarak Al-Kabeer&quot;,&quot;code&quot;:&quot;MU&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Switzerland</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CH</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">CHE</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Aargau&quot;,&quot;code&quot;:&quot;AG&quot;},{&quot;name&quot;:&quot;Appenzell Ausserrhoden&quot;,&quot;code&quot;:&quot;AR&quot;},{&quot;name&quot;:&quot;Appenzell Innerrhoden&quot;,&quot;code&quot;:&quot;AI&quot;},{&quot;name&quot;:&quot;Basel-Land&quot;,&quot;code&quot;:&quot;BL&quot;},{&quot;name&quot;:&quot;Basel-Stadt&quot;,&quot;code&quot;:&quot;BS&quot;},{&quot;name&quot;:&quot;Bern&quot;,&quot;code&quot;:&quot;BE&quot;},{&quot;name&quot;:&quot;Fribourg&quot;,&quot;code&quot;:&quot;FR&quot;},{&quot;name&quot;:&quot;Geneva&quot;,&quot;code&quot;:&quot;GE&quot;},{&quot;name&quot;:&quot;Glarus&quot;,&quot;code&quot;:&quot;GL&quot;},{&quot;name&quot;:&quot;Graubünden&quot;,&quot;code&quot;:&quot;GR&quot;},{&quot;name&quot;:&quot;Jura&quot;,&quot;code&quot;:&quot;JU&quot;},{&quot;name&quot;:&quot;Lucerne&quot;,&quot;code&quot;:&quot;LU&quot;},{&quot;name&quot;:&quot;Neuchâtel&quot;,&quot;code&quot;:&quot;NE&quot;},{&quot;name&quot;:&quot;Nidwalden&quot;,&quot;code&quot;:&quot;NW&quot;},{&quot;name&quot;:&quot;Obwalden&quot;,&quot;code&quot;:&quot;OW&quot;},{&quot;name&quot;:&quot;Schaffhausen&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Schwyz&quot;,&quot;code&quot;:&quot;SZ&quot;},{&quot;name&quot;:&quot;Solothurn&quot;,&quot;code&quot;:&quot;SO&quot;},{&quot;name&quot;:&quot;St. Gallen&quot;,&quot;code&quot;:&quot;SG&quot;},{&quot;name&quot;:&quot;Thurgau&quot;,&quot;code&quot;:&quot;TG&quot;},{&quot;name&quot;:&quot;Ticino&quot;,&quot;code&quot;:&quot;TI&quot;},{&quot;name&quot;:&quot;Uri&quot;,&quot;code&quot;:&quot;UR&quot;},{&quot;name&quot;:&quot;Valais&quot;,&quot;code&quot;:&quot;VS&quot;},{&quot;name&quot;:&quot;Vaud&quot;,&quot;code&quot;:&quot;VD&quot;},{&quot;name&quot;:&quot;Zug&quot;,&quot;code&quot;:&quot;ZG&quot;},{&quot;name&quot;:&quot;Zürich&quot;,&quot;code&quot;:&quot;ZH&quot;}]</value>
+    </values>
+</CustomMetadata>

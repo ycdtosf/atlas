@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Poland</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">PL</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">POL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Greater Poland&quot;,&quot;code&quot;:&quot;30&quot;},{&quot;name&quot;:&quot;Holy Cross&quot;,&quot;code&quot;:&quot;26&quot;},{&quot;name&quot;:&quot;Kuyavia-Pomerania&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Lesser Poland&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Lower Silesia&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Lublin&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Lubusz&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Łódź&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Mazovia&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Podlaskie&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;Pomerania&quot;,&quot;code&quot;:&quot;22&quot;},{&quot;name&quot;:&quot;Silesia&quot;,&quot;code&quot;:&quot;24&quot;},{&quot;name&quot;:&quot;Subcarpathia&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Upper Silesia&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Warmia-Masuria&quot;,&quot;code&quot;:&quot;28&quot;},{&quot;name&quot;:&quot;West Pomerania&quot;,&quot;code&quot;:&quot;32&quot;}]</value>
+    </values>
+</CustomMetadata>

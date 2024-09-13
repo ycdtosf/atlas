@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Nicaragua</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">NI</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">NIC</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Boaco&quot;,&quot;code&quot;:&quot;BO&quot;},{&quot;name&quot;:&quot;Carazo&quot;,&quot;code&quot;:&quot;CA&quot;},{&quot;name&quot;:&quot;Chinandega&quot;,&quot;code&quot;:&quot;CI&quot;},{&quot;name&quot;:&quot;Chontales&quot;,&quot;code&quot;:&quot;CO&quot;},{&quot;name&quot;:&quot;Estelí&quot;,&quot;code&quot;:&quot;ES&quot;},{&quot;name&quot;:&quot;Granada&quot;,&quot;code&quot;:&quot;GR&quot;},{&quot;name&quot;:&quot;Jinotega&quot;,&quot;code&quot;:&quot;JI&quot;},{&quot;name&quot;:&quot;León&quot;,&quot;code&quot;:&quot;LE&quot;},{&quot;name&quot;:&quot;Madriz&quot;,&quot;code&quot;:&quot;MD&quot;},{&quot;name&quot;:&quot;Managua&quot;,&quot;code&quot;:&quot;MN&quot;},{&quot;name&quot;:&quot;Masaya&quot;,&quot;code&quot;:&quot;MS&quot;},{&quot;name&quot;:&quot;Matagalpa&quot;,&quot;code&quot;:&quot;MT&quot;},{&quot;name&quot;:&quot;North Caribbean Coast&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Nueva Segovia&quot;,&quot;code&quot;:&quot;NS&quot;},{&quot;name&quot;:&quot;Río San Juan&quot;,&quot;code&quot;:&quot;SJ&quot;},{&quot;name&quot;:&quot;Rivas&quot;,&quot;code&quot;:&quot;RI&quot;},{&quot;name&quot;:&quot;South Caribbean Coast&quot;,&quot;code&quot;:&quot;AS&quot;}]</value>
+    </values>
+</CustomMetadata>

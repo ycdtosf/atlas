@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Namibia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">NA</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">NAM</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Erongo Region&quot;,&quot;code&quot;:&quot;ER&quot;},{&quot;name&quot;:&quot;Hardap Region&quot;,&quot;code&quot;:&quot;HA&quot;},{&quot;name&quot;:&quot;Karas Region&quot;,&quot;code&quot;:&quot;KA&quot;},{&quot;name&quot;:&quot;Kavango East Region&quot;,&quot;code&quot;:&quot;KE&quot;},{&quot;name&quot;:&quot;Kavango West Region&quot;,&quot;code&quot;:&quot;KW&quot;},{&quot;name&quot;:&quot;Khomas Region&quot;,&quot;code&quot;:&quot;KH&quot;},{&quot;name&quot;:&quot;Kunene Region&quot;,&quot;code&quot;:&quot;KU&quot;},{&quot;name&quot;:&quot;Ohangwena Region&quot;,&quot;code&quot;:&quot;OW&quot;},{&quot;name&quot;:&quot;Omaheke Region&quot;,&quot;code&quot;:&quot;OH&quot;},{&quot;name&quot;:&quot;Omusati Region&quot;,&quot;code&quot;:&quot;OS&quot;},{&quot;name&quot;:&quot;Oshana Region&quot;,&quot;code&quot;:&quot;ON&quot;},{&quot;name&quot;:&quot;Oshikoto Region&quot;,&quot;code&quot;:&quot;OT&quot;},{&quot;name&quot;:&quot;Otjozondjupa Region&quot;,&quot;code&quot;:&quot;OD&quot;},{&quot;name&quot;:&quot;Zambezi Region&quot;,&quot;code&quot;:&quot;CA&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Chad</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">TD</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">TCD</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bahr el Gazel&quot;,&quot;code&quot;:&quot;BG&quot;},{&quot;name&quot;:&quot;Batha&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Borkou&quot;,&quot;code&quot;:&quot;BO&quot;},{&quot;name&quot;:&quot;Chari-Baguirmi&quot;,&quot;code&quot;:&quot;CB&quot;},{&quot;name&quot;:&quot;Ennedi-Est&quot;,&quot;code&quot;:&quot;EE&quot;},{&quot;name&quot;:&quot;Ennedi-Ouest&quot;,&quot;code&quot;:&quot;EO&quot;},{&quot;name&quot;:&quot;Guéra&quot;,&quot;code&quot;:&quot;GR&quot;},{&quot;name&quot;:&quot;Hadjer-Lamis&quot;,&quot;code&quot;:&quot;HL&quot;},{&quot;name&quot;:&quot;Kanem&quot;,&quot;code&quot;:&quot;KA&quot;},{&quot;name&quot;:&quot;Lac&quot;,&quot;code&quot;:&quot;LC&quot;},{&quot;name&quot;:&quot;Logone Occidental&quot;,&quot;code&quot;:&quot;LO&quot;},{&quot;name&quot;:&quot;Logone Oriental&quot;,&quot;code&quot;:&quot;LR&quot;},{&quot;name&quot;:&quot;Mandoul&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Mayo-Kebbi Est&quot;,&quot;code&quot;:&quot;ME&quot;},{&quot;name&quot;:&quot;Mayo-Kebbi Ouest&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Moyen-Chari&quot;,&quot;code&quot;:&quot;MC&quot;},{&quot;name&quot;:&quot;N&apos;Djamena&quot;,&quot;code&quot;:&quot;ND&quot;},{&quot;name&quot;:&quot;Ouaddaï&quot;,&quot;code&quot;:&quot;OD&quot;},{&quot;name&quot;:&quot;Salamat&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Sila&quot;,&quot;code&quot;:&quot;SI&quot;},{&quot;name&quot;:&quot;Tandjilé&quot;,&quot;code&quot;:&quot;TA&quot;},{&quot;name&quot;:&quot;Tibesti&quot;,&quot;code&quot;:&quot;TI&quot;},{&quot;name&quot;:&quot;Wadi Fira&quot;,&quot;code&quot;:&quot;WF&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Palau</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">PW</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">PLW</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Aimeliik&quot;,&quot;code&quot;:&quot;002&quot;},{&quot;name&quot;:&quot;Airai&quot;,&quot;code&quot;:&quot;004&quot;},{&quot;name&quot;:&quot;Angaur&quot;,&quot;code&quot;:&quot;010&quot;},{&quot;name&quot;:&quot;Hatohobei&quot;,&quot;code&quot;:&quot;050&quot;},{&quot;name&quot;:&quot;Kayangel&quot;,&quot;code&quot;:&quot;100&quot;},{&quot;name&quot;:&quot;Koror&quot;,&quot;code&quot;:&quot;150&quot;},{&quot;name&quot;:&quot;Melekeok&quot;,&quot;code&quot;:&quot;212&quot;},{&quot;name&quot;:&quot;Ngaraard&quot;,&quot;code&quot;:&quot;214&quot;},{&quot;name&quot;:&quot;Ngarchelong&quot;,&quot;code&quot;:&quot;218&quot;},{&quot;name&quot;:&quot;Ngardmau&quot;,&quot;code&quot;:&quot;222&quot;},{&quot;name&quot;:&quot;Ngatpang&quot;,&quot;code&quot;:&quot;224&quot;},{&quot;name&quot;:&quot;Ngchesar&quot;,&quot;code&quot;:&quot;226&quot;},{&quot;name&quot;:&quot;Ngeremlengui&quot;,&quot;code&quot;:&quot;227&quot;},{&quot;name&quot;:&quot;Ngiwal&quot;,&quot;code&quot;:&quot;228&quot;},{&quot;name&quot;:&quot;Peleliu&quot;,&quot;code&quot;:&quot;350&quot;},{&quot;name&quot;:&quot;Sonsorol&quot;,&quot;code&quot;:&quot;370&quot;}]</value>
+    </values>
+</CustomMetadata>

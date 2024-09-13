@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Sudan</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SD</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SDN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Al Jazirah&quot;,&quot;code&quot;:&quot;GZ&quot;},{&quot;name&quot;:&quot;Al Qadarif&quot;,&quot;code&quot;:&quot;GD&quot;},{&quot;name&quot;:&quot;Blue Nile&quot;,&quot;code&quot;:&quot;NB&quot;},{&quot;name&quot;:&quot;Central Darfur&quot;,&quot;code&quot;:&quot;DC&quot;},{&quot;name&quot;:&quot;East Darfur&quot;,&quot;code&quot;:&quot;DE&quot;},{&quot;name&quot;:&quot;Kassala&quot;,&quot;code&quot;:&quot;KA&quot;},{&quot;name&quot;:&quot;Khartoum&quot;,&quot;code&quot;:&quot;KH&quot;},{&quot;name&quot;:&quot;North Darfur&quot;,&quot;code&quot;:&quot;DN&quot;},{&quot;name&quot;:&quot;North Kordofan&quot;,&quot;code&quot;:&quot;KN&quot;},{&quot;name&quot;:&quot;Northern&quot;,&quot;code&quot;:&quot;NO&quot;},{&quot;name&quot;:&quot;Red Sea&quot;,&quot;code&quot;:&quot;RS&quot;},{&quot;name&quot;:&quot;River Nile&quot;,&quot;code&quot;:&quot;NR&quot;},{&quot;name&quot;:&quot;Sennar&quot;,&quot;code&quot;:&quot;SI&quot;},{&quot;name&quot;:&quot;South Darfur&quot;,&quot;code&quot;:&quot;DS&quot;},{&quot;name&quot;:&quot;South Kordofan&quot;,&quot;code&quot;:&quot;KS&quot;},{&quot;name&quot;:&quot;West Darfur&quot;,&quot;code&quot;:&quot;DW&quot;},{&quot;name&quot;:&quot;West Kordofan&quot;,&quot;code&quot;:&quot;GK&quot;},{&quot;name&quot;:&quot;White Nile&quot;,&quot;code&quot;:&quot;NW&quot;}]</value>
+    </values>
+</CustomMetadata>

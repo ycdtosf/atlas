@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Oman</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">OM</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">OMN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Ad Dakhiliyah&quot;,&quot;code&quot;:&quot;DA&quot;},{&quot;name&quot;:&quot;Ad Dhahirah&quot;,&quot;code&quot;:&quot;ZA&quot;},{&quot;name&quot;:&quot;Al Batinah North&quot;,&quot;code&quot;:&quot;BS&quot;},{&quot;name&quot;:&quot;Al Batinah Region&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Al Batinah South&quot;,&quot;code&quot;:&quot;BJ&quot;},{&quot;name&quot;:&quot;Al Buraimi&quot;,&quot;code&quot;:&quot;BU&quot;},{&quot;name&quot;:&quot;Al Wusta&quot;,&quot;code&quot;:&quot;WU&quot;},{&quot;name&quot;:&quot;Ash Sharqiyah North&quot;,&quot;code&quot;:&quot;SS&quot;},{&quot;name&quot;:&quot;Ash Sharqiyah Region&quot;,&quot;code&quot;:&quot;SH&quot;},{&quot;name&quot;:&quot;Ash Sharqiyah South&quot;,&quot;code&quot;:&quot;SJ&quot;},{&quot;name&quot;:&quot;Dhofar&quot;,&quot;code&quot;:&quot;ZU&quot;},{&quot;name&quot;:&quot;Musandam&quot;,&quot;code&quot;:&quot;MU&quot;},{&quot;name&quot;:&quot;Muscat&quot;,&quot;code&quot;:&quot;MA&quot;}]</value>
+    </values>
+</CustomMetadata>

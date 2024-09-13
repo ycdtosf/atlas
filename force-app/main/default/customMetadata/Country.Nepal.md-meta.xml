@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Nepal</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">NP</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">NPL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bagmati Zone&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Bheri Zone&quot;,&quot;code&quot;:&quot;BH&quot;},{&quot;name&quot;:&quot;Central Region&quot;,&quot;code&quot;:&quot;1&quot;},{&quot;name&quot;:&quot;Dhaulagiri Zone&quot;,&quot;code&quot;:&quot;DH&quot;},{&quot;name&quot;:&quot;Eastern Development Region&quot;,&quot;code&quot;:&quot;4&quot;},{&quot;name&quot;:&quot;Far-Western Development Region&quot;,&quot;code&quot;:&quot;5&quot;},{&quot;name&quot;:&quot;Gandaki Zone&quot;,&quot;code&quot;:&quot;GA&quot;},{&quot;name&quot;:&quot;Janakpur Zone&quot;,&quot;code&quot;:&quot;JA&quot;},{&quot;name&quot;:&quot;Karnali Zone&quot;,&quot;code&quot;:&quot;KA&quot;},{&quot;name&quot;:&quot;Kosi Zone&quot;,&quot;code&quot;:&quot;KO&quot;},{&quot;name&quot;:&quot;Lumbini Zone&quot;,&quot;code&quot;:&quot;LU&quot;},{&quot;name&quot;:&quot;Mahakali Zone&quot;,&quot;code&quot;:&quot;MA&quot;},{&quot;name&quot;:&quot;Mechi Zone&quot;,&quot;code&quot;:&quot;ME&quot;},{&quot;name&quot;:&quot;Mid-Western Region&quot;,&quot;code&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;Narayani Zone&quot;,&quot;code&quot;:&quot;NA&quot;},{&quot;name&quot;:&quot;Rapti Zone&quot;,&quot;code&quot;:&quot;RA&quot;},{&quot;name&quot;:&quot;Sagarmatha Zone&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Seti Zone&quot;,&quot;code&quot;:&quot;SE&quot;},{&quot;name&quot;:&quot;Western Region&quot;,&quot;code&quot;:&quot;3&quot;}]</value>
+    </values>
+</CustomMetadata>

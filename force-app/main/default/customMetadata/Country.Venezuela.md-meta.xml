@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Venezuela</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">VE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">VEN</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Amazonas&quot;,&quot;code&quot;:&quot;Z&quot;},{&quot;name&quot;:&quot;Anzoátegui&quot;,&quot;code&quot;:&quot;B&quot;},{&quot;name&quot;:&quot;Apure&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Aragua&quot;,&quot;code&quot;:&quot;D&quot;},{&quot;name&quot;:&quot;Barinas&quot;,&quot;code&quot;:&quot;E&quot;},{&quot;name&quot;:&quot;Bolívar&quot;,&quot;code&quot;:&quot;F&quot;},{&quot;name&quot;:&quot;Carabobo&quot;,&quot;code&quot;:&quot;G&quot;},{&quot;name&quot;:&quot;Cojedes&quot;,&quot;code&quot;:&quot;H&quot;},{&quot;name&quot;:&quot;Delta Amacuro&quot;,&quot;code&quot;:&quot;Y&quot;},{&quot;name&quot;:&quot;Distrito Capital&quot;,&quot;code&quot;:&quot;A&quot;},{&quot;name&quot;:&quot;Falcón&quot;,&quot;code&quot;:&quot;I&quot;},{&quot;name&quot;:&quot;Federal Dependencies of Venezuela&quot;,&quot;code&quot;:&quot;W&quot;},{&quot;name&quot;:&quot;Guárico&quot;,&quot;code&quot;:&quot;J&quot;},{&quot;name&quot;:&quot;La Guaira&quot;,&quot;code&quot;:&quot;X&quot;},{&quot;name&quot;:&quot;Lara&quot;,&quot;code&quot;:&quot;K&quot;},{&quot;name&quot;:&quot;Mérida&quot;,&quot;code&quot;:&quot;L&quot;},{&quot;name&quot;:&quot;Miranda&quot;,&quot;code&quot;:&quot;M&quot;},{&quot;name&quot;:&quot;Monagas&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Nueva Esparta&quot;,&quot;code&quot;:&quot;O&quot;},{&quot;name&quot;:&quot;Portuguesa&quot;,&quot;code&quot;:&quot;P&quot;},{&quot;name&quot;:&quot;Sucre&quot;,&quot;code&quot;:&quot;R&quot;},{&quot;name&quot;:&quot;Táchira&quot;,&quot;code&quot;:&quot;S&quot;},{&quot;name&quot;:&quot;Trujillo&quot;,&quot;code&quot;:&quot;T&quot;},{&quot;name&quot;:&quot;Yaracuy&quot;,&quot;code&quot;:&quot;U&quot;},{&quot;name&quot;:&quot;Zulia&quot;,&quot;code&quot;:&quot;V&quot;}]</value>
+    </values>
+</CustomMetadata>

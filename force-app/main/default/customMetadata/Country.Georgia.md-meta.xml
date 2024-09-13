@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Georgia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">GE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">GEO</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Abkhazia&quot;,&quot;code&quot;:&quot;AB&quot;},{&quot;name&quot;:&quot;Adjara&quot;,&quot;code&quot;:&quot;AJ&quot;},{&quot;name&quot;:&quot;Guria&quot;,&quot;code&quot;:&quot;GU&quot;},{&quot;name&quot;:&quot;Imereti&quot;,&quot;code&quot;:&quot;IM&quot;},{&quot;name&quot;:&quot;Kakheti&quot;,&quot;code&quot;:&quot;KA&quot;},{&quot;name&quot;:&quot;Khelvachauri Municipality&quot;,&quot;code&quot;:&quot;29&quot;},{&quot;name&quot;:&quot;Kvemo Kartli&quot;,&quot;code&quot;:&quot;KK&quot;},{&quot;name&quot;:&quot;Mtskheta-Mtianeti&quot;,&quot;code&quot;:&quot;MM&quot;},{&quot;name&quot;:&quot;Racha-Lechkhumi and Kvemo Svaneti&quot;,&quot;code&quot;:&quot;RL&quot;},{&quot;name&quot;:&quot;Samegrelo-Zemo Svaneti&quot;,&quot;code&quot;:&quot;SZ&quot;},{&quot;name&quot;:&quot;Samtskhe-Javakheti&quot;,&quot;code&quot;:&quot;SJ&quot;},{&quot;name&quot;:&quot;Senaki Municipality&quot;,&quot;code&quot;:&quot;50&quot;},{&quot;name&quot;:&quot;Shida Kartli&quot;,&quot;code&quot;:&quot;SK&quot;},{&quot;name&quot;:&quot;Tbilisi&quot;,&quot;code&quot;:&quot;TB&quot;}]</value>
+    </values>
+</CustomMetadata>

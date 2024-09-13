@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Croatia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">HR</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">HRV</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Bjelovar-Bilogora&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Brod-Posavina&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Dubrovnik-Neretva&quot;,&quot;code&quot;:&quot;19&quot;},{&quot;name&quot;:&quot;Istria&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Karlovac&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Koprivnica-Križevci&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Krapina-Zagorje&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Lika-Senj&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Međimurje&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;Osijek-Baranja&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Požega-Slavonia&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Primorje-Gorski Kotar&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Šibenik-Knin&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Sisak-Moslavina&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Split-Dalmatia&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Varaždin&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Virovitica-Podravina&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Vukovar-Syrmia&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Zadar&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Zagreb&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Zagreb&quot;,&quot;code&quot;:&quot;21&quot;}]</value>
+    </values>
+</CustomMetadata>

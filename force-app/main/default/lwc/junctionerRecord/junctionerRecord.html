@@ -1,0 +1,17 @@
+<template>
+    <template lwc:if={record}>
+        {recordTitleField}
+        <div class="data-container">
+            <template for:each={displayData} for:item="dd">
+                <lightning-layout key={dd.label}>
+                    <lightning-layout-item size="3">
+                        <div class="label" style="text-wrap: nowrap;">{dd.label}</div>
+                    </lightning-layout-item>
+                    <lightning-layout-item size="9">
+                        <div class="value">{dd.value}</div>
+                    </lightning-layout-item>
+                </lightning-layout>
+            </template>
+        </div>
+    </template>
+</template>

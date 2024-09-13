@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Colombia</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">CO</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">COL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Amazonas&quot;,&quot;code&quot;:&quot;AMA&quot;},{&quot;name&quot;:&quot;Antioquia&quot;,&quot;code&quot;:&quot;ANT&quot;},{&quot;name&quot;:&quot;Arauca&quot;,&quot;code&quot;:&quot;ARA&quot;},{&quot;name&quot;:&quot;Archipiélago de San Andrés, Providencia y Santa Catalina&quot;,&quot;code&quot;:&quot;SAP&quot;},{&quot;name&quot;:&quot;Atlántico&quot;,&quot;code&quot;:&quot;ATL&quot;},{&quot;name&quot;:&quot;Bogotá D.C.&quot;,&quot;code&quot;:&quot;DC&quot;},{&quot;name&quot;:&quot;Bolívar&quot;,&quot;code&quot;:&quot;BOL&quot;},{&quot;name&quot;:&quot;Boyacá&quot;,&quot;code&quot;:&quot;BOY&quot;},{&quot;name&quot;:&quot;Caldas&quot;,&quot;code&quot;:&quot;CAL&quot;},{&quot;name&quot;:&quot;Caquetá&quot;,&quot;code&quot;:&quot;CAQ&quot;},{&quot;name&quot;:&quot;Casanare&quot;,&quot;code&quot;:&quot;CAS&quot;},{&quot;name&quot;:&quot;Cauca&quot;,&quot;code&quot;:&quot;CAU&quot;},{&quot;name&quot;:&quot;Cesar&quot;,&quot;code&quot;:&quot;CES&quot;},{&quot;name&quot;:&quot;Chocó&quot;,&quot;code&quot;:&quot;CHO&quot;},{&quot;name&quot;:&quot;Córdoba&quot;,&quot;code&quot;:&quot;COR&quot;},{&quot;name&quot;:&quot;Cundinamarca&quot;,&quot;code&quot;:&quot;CUN&quot;},{&quot;name&quot;:&quot;Guainía&quot;,&quot;code&quot;:&quot;GUA&quot;},{&quot;name&quot;:&quot;Guaviare&quot;,&quot;code&quot;:&quot;GUV&quot;},{&quot;name&quot;:&quot;Huila&quot;,&quot;code&quot;:&quot;HUI&quot;},{&quot;name&quot;:&quot;La Guajira&quot;,&quot;code&quot;:&quot;LAG&quot;},{&quot;name&quot;:&quot;Magdalena&quot;,&quot;code&quot;:&quot;MAG&quot;},{&quot;name&quot;:&quot;Meta&quot;,&quot;code&quot;:&quot;MET&quot;},{&quot;name&quot;:&quot;Nariño&quot;,&quot;code&quot;:&quot;NAR&quot;},{&quot;name&quot;:&quot;Norte de Santander&quot;,&quot;code&quot;:&quot;NSA&quot;},{&quot;name&quot;:&quot;Putumayo&quot;,&quot;code&quot;:&quot;PUT&quot;},{&quot;name&quot;:&quot;Quindío&quot;,&quot;code&quot;:&quot;QUI&quot;},{&quot;name&quot;:&quot;Risaralda&quot;,&quot;code&quot;:&quot;RIS&quot;},{&quot;name&quot;:&quot;Santander&quot;,&quot;code&quot;:&quot;SAN&quot;},{&quot;name&quot;:&quot;Sucre&quot;,&quot;code&quot;:&quot;SUC&quot;},{&quot;name&quot;:&quot;Tolima&quot;,&quot;code&quot;:&quot;TOL&quot;},{&quot;name&quot;:&quot;Valle del Cauca&quot;,&quot;code&quot;:&quot;VAC&quot;},{&quot;name&quot;:&quot;Vaupés&quot;,&quot;code&quot;:&quot;VAU&quot;},{&quot;name&quot;:&quot;Vichada&quot;,&quot;code&quot;:&quot;VID&quot;}]</value>
+    </values>
+</CustomMetadata>

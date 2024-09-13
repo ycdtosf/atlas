@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Bermuda</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">BM</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">BMU</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Devonshire&quot;,&quot;code&quot;:&quot;DEV&quot;},{&quot;name&quot;:&quot;Hamilton&quot;,&quot;code&quot;:&quot;HA&quot;},{&quot;name&quot;:&quot;Paget&quot;,&quot;code&quot;:&quot;PAG&quot;},{&quot;name&quot;:&quot;Pembroke&quot;,&quot;code&quot;:&quot;PEM&quot;},{&quot;name&quot;:&quot;Saint George&apos;s&quot;,&quot;code&quot;:&quot;SGE&quot;},{&quot;name&quot;:&quot;Sandys&quot;,&quot;code&quot;:&quot;SAN&quot;},{&quot;name&quot;:&quot;Smith&apos;s&quot;,&quot;code&quot;:&quot;SMI&quot;},{&quot;name&quot;:&quot;Southampton&quot;,&quot;code&quot;:&quot;SOU&quot;},{&quot;name&quot;:&quot;Warwick&quot;,&quot;code&quot;:&quot;WAR&quot;}]</value>
+    </values>
+</CustomMetadata>

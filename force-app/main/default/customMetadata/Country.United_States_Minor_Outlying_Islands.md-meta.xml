@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>United States Minor Outlying Islands</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">UM</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">UMI</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Baker Island&quot;,&quot;code&quot;:&quot;81&quot;},{&quot;name&quot;:&quot;Howland Island&quot;,&quot;code&quot;:&quot;84&quot;},{&quot;name&quot;:&quot;Jarvis Island&quot;,&quot;code&quot;:&quot;86&quot;},{&quot;name&quot;:&quot;Johnston Atoll&quot;,&quot;code&quot;:&quot;67&quot;},{&quot;name&quot;:&quot;Kingman Reef&quot;,&quot;code&quot;:&quot;89&quot;},{&quot;name&quot;:&quot;Midway Islands&quot;,&quot;code&quot;:&quot;71&quot;},{&quot;name&quot;:&quot;Navassa Island&quot;,&quot;code&quot;:&quot;76&quot;},{&quot;name&quot;:&quot;Palmyra Atoll&quot;,&quot;code&quot;:&quot;95&quot;},{&quot;name&quot;:&quot;Wake Island&quot;,&quot;code&quot;:&quot;79&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Tajikistan</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">TJ</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">TJK</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;districts of Republican Subordination&quot;,&quot;code&quot;:&quot;RA&quot;},{&quot;name&quot;:&quot;Gorno-Badakhshan Autonomous Province&quot;,&quot;code&quot;:&quot;GB&quot;},{&quot;name&quot;:&quot;Khatlon Province&quot;,&quot;code&quot;:&quot;KT&quot;},{&quot;name&quot;:&quot;Sughd Province&quot;,&quot;code&quot;:&quot;SU&quot;}]</value>
+    </values>
+</CustomMetadata>

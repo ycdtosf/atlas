@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Malawi</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">MW</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MWI</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Balaka District&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Blantyre District&quot;,&quot;code&quot;:&quot;BL&quot;},{&quot;name&quot;:&quot;Central Region&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Chikwawa District&quot;,&quot;code&quot;:&quot;CK&quot;},{&quot;name&quot;:&quot;Chiradzulu District&quot;,&quot;code&quot;:&quot;CR&quot;},{&quot;name&quot;:&quot;Chitipa district&quot;,&quot;code&quot;:&quot;CT&quot;},{&quot;name&quot;:&quot;Dedza District&quot;,&quot;code&quot;:&quot;DE&quot;},{&quot;name&quot;:&quot;Dowa District&quot;,&quot;code&quot;:&quot;DO&quot;},{&quot;name&quot;:&quot;Karonga District&quot;,&quot;code&quot;:&quot;KR&quot;},{&quot;name&quot;:&quot;Kasungu District&quot;,&quot;code&quot;:&quot;KS&quot;},{&quot;name&quot;:&quot;Likoma District&quot;,&quot;code&quot;:&quot;LK&quot;},{&quot;name&quot;:&quot;Lilongwe District&quot;,&quot;code&quot;:&quot;LI&quot;},{&quot;name&quot;:&quot;Machinga District&quot;,&quot;code&quot;:&quot;MH&quot;},{&quot;name&quot;:&quot;Mangochi District&quot;,&quot;code&quot;:&quot;MG&quot;},{&quot;name&quot;:&quot;Mchinji District&quot;,&quot;code&quot;:&quot;MC&quot;},{&quot;name&quot;:&quot;Mulanje District&quot;,&quot;code&quot;:&quot;MU&quot;},{&quot;name&quot;:&quot;Mwanza District&quot;,&quot;code&quot;:&quot;MW&quot;},{&quot;name&quot;:&quot;Mzimba District&quot;,&quot;code&quot;:&quot;MZ&quot;},{&quot;name&quot;:&quot;Nkhata Bay District&quot;,&quot;code&quot;:&quot;NB&quot;},{&quot;name&quot;:&quot;Nkhotakota District&quot;,&quot;code&quot;:&quot;NK&quot;},{&quot;name&quot;:&quot;Northern Region&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Nsanje District&quot;,&quot;code&quot;:&quot;NS&quot;},{&quot;name&quot;:&quot;Ntcheu District&quot;,&quot;code&quot;:&quot;NU&quot;},{&quot;name&quot;:&quot;Ntchisi District&quot;,&quot;code&quot;:&quot;NI&quot;},{&quot;name&quot;:&quot;Phalombe District&quot;,&quot;code&quot;:&quot;PH&quot;},{&quot;name&quot;:&quot;Rumphi District&quot;,&quot;code&quot;:&quot;RU&quot;},{&quot;name&quot;:&quot;Salima District&quot;,&quot;code&quot;:&quot;SA&quot;},{&quot;name&quot;:&quot;Southern Region&quot;,&quot;code&quot;:&quot;S&quot;},{&quot;name&quot;:&quot;Thyolo District&quot;,&quot;code&quot;:&quot;TH&quot;},{&quot;name&quot;:&quot;Zomba District&quot;,&quot;code&quot;:&quot;ZO&quot;}]</value>
+    </values>
+</CustomMetadata>

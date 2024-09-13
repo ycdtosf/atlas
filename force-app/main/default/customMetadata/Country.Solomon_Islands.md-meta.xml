@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Solomon Islands</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SB</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SLB</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Central Province&quot;,&quot;code&quot;:&quot;CE&quot;},{&quot;name&quot;:&quot;Choiseul Province&quot;,&quot;code&quot;:&quot;CH&quot;},{&quot;name&quot;:&quot;Guadalcanal Province&quot;,&quot;code&quot;:&quot;GU&quot;},{&quot;name&quot;:&quot;Honiara&quot;,&quot;code&quot;:&quot;CT&quot;},{&quot;name&quot;:&quot;Isabel Province&quot;,&quot;code&quot;:&quot;IS&quot;},{&quot;name&quot;:&quot;Makira-Ulawa Province&quot;,&quot;code&quot;:&quot;MK&quot;},{&quot;name&quot;:&quot;Malaita Province&quot;,&quot;code&quot;:&quot;ML&quot;},{&quot;name&quot;:&quot;Rennell and Bellona Province&quot;,&quot;code&quot;:&quot;RB&quot;},{&quot;name&quot;:&quot;Temotu Province&quot;,&quot;code&quot;:&quot;TE&quot;},{&quot;name&quot;:&quot;Western Province&quot;,&quot;code&quot;:&quot;WE&quot;}]</value>
+    </values>
+</CustomMetadata>

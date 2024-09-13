@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Ireland</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">IE</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">IRL</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Carlow&quot;,&quot;code&quot;:&quot;CW&quot;},{&quot;name&quot;:&quot;Cavan&quot;,&quot;code&quot;:&quot;CN&quot;},{&quot;name&quot;:&quot;Clare&quot;,&quot;code&quot;:&quot;CE&quot;},{&quot;name&quot;:&quot;Connacht&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Cork&quot;,&quot;code&quot;:&quot;CO&quot;},{&quot;name&quot;:&quot;Donegal&quot;,&quot;code&quot;:&quot;DL&quot;},{&quot;name&quot;:&quot;Dublin&quot;,&quot;code&quot;:&quot;D&quot;},{&quot;name&quot;:&quot;Galway&quot;,&quot;code&quot;:&quot;G&quot;},{&quot;name&quot;:&quot;Kerry&quot;,&quot;code&quot;:&quot;KY&quot;},{&quot;name&quot;:&quot;Kildare&quot;,&quot;code&quot;:&quot;KE&quot;},{&quot;name&quot;:&quot;Kilkenny&quot;,&quot;code&quot;:&quot;KK&quot;},{&quot;name&quot;:&quot;Laois&quot;,&quot;code&quot;:&quot;LS&quot;},{&quot;name&quot;:&quot;Leinster&quot;,&quot;code&quot;:&quot;L&quot;},{&quot;name&quot;:&quot;Limerick&quot;,&quot;code&quot;:&quot;LK&quot;},{&quot;name&quot;:&quot;Longford&quot;,&quot;code&quot;:&quot;LD&quot;},{&quot;name&quot;:&quot;Louth&quot;,&quot;code&quot;:&quot;LH&quot;},{&quot;name&quot;:&quot;Mayo&quot;,&quot;code&quot;:&quot;MO&quot;},{&quot;name&quot;:&quot;Meath&quot;,&quot;code&quot;:&quot;MH&quot;},{&quot;name&quot;:&quot;Monaghan&quot;,&quot;code&quot;:&quot;MN&quot;},{&quot;name&quot;:&quot;Munster&quot;,&quot;code&quot;:&quot;M&quot;},{&quot;name&quot;:&quot;Offaly&quot;,&quot;code&quot;:&quot;OY&quot;},{&quot;name&quot;:&quot;Roscommon&quot;,&quot;code&quot;:&quot;RN&quot;},{&quot;name&quot;:&quot;Sligo&quot;,&quot;code&quot;:&quot;SO&quot;},{&quot;name&quot;:&quot;Tipperary&quot;,&quot;code&quot;:&quot;TA&quot;},{&quot;name&quot;:&quot;Ulster&quot;,&quot;code&quot;:&quot;U&quot;},{&quot;name&quot;:&quot;Waterford&quot;,&quot;code&quot;:&quot;WD&quot;},{&quot;name&quot;:&quot;Westmeath&quot;,&quot;code&quot;:&quot;WH&quot;},{&quot;name&quot;:&quot;Wexford&quot;,&quot;code&quot;:&quot;WX&quot;},{&quot;name&quot;:&quot;Wicklow&quot;,&quot;code&quot;:&quot;WW&quot;}]</value>
+    </values>
+</CustomMetadata>

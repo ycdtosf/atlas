@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Nigeria</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">NG</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">NGA</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Abia&quot;,&quot;code&quot;:&quot;AB&quot;},{&quot;name&quot;:&quot;Abuja Federal Capital Territory&quot;,&quot;code&quot;:&quot;FC&quot;},{&quot;name&quot;:&quot;Adamawa&quot;,&quot;code&quot;:&quot;AD&quot;},{&quot;name&quot;:&quot;Akwa Ibom&quot;,&quot;code&quot;:&quot;AK&quot;},{&quot;name&quot;:&quot;Anambra&quot;,&quot;code&quot;:&quot;AN&quot;},{&quot;name&quot;:&quot;Bauchi&quot;,&quot;code&quot;:&quot;BA&quot;},{&quot;name&quot;:&quot;Bayelsa&quot;,&quot;code&quot;:&quot;BY&quot;},{&quot;name&quot;:&quot;Benue&quot;,&quot;code&quot;:&quot;BE&quot;},{&quot;name&quot;:&quot;Borno&quot;,&quot;code&quot;:&quot;BO&quot;},{&quot;name&quot;:&quot;Cross River&quot;,&quot;code&quot;:&quot;CR&quot;},{&quot;name&quot;:&quot;Delta&quot;,&quot;code&quot;:&quot;DE&quot;},{&quot;name&quot;:&quot;Ebonyi&quot;,&quot;code&quot;:&quot;EB&quot;},{&quot;name&quot;:&quot;Edo&quot;,&quot;code&quot;:&quot;ED&quot;},{&quot;name&quot;:&quot;Ekiti&quot;,&quot;code&quot;:&quot;EK&quot;},{&quot;name&quot;:&quot;Enugu&quot;,&quot;code&quot;:&quot;EN&quot;},{&quot;name&quot;:&quot;Gombe&quot;,&quot;code&quot;:&quot;GO&quot;},{&quot;name&quot;:&quot;Imo&quot;,&quot;code&quot;:&quot;IM&quot;},{&quot;name&quot;:&quot;Jigawa&quot;,&quot;code&quot;:&quot;JI&quot;},{&quot;name&quot;:&quot;Kaduna&quot;,&quot;code&quot;:&quot;KD&quot;},{&quot;name&quot;:&quot;Kano&quot;,&quot;code&quot;:&quot;KN&quot;},{&quot;name&quot;:&quot;Katsina&quot;,&quot;code&quot;:&quot;KT&quot;},{&quot;name&quot;:&quot;Kebbi&quot;,&quot;code&quot;:&quot;KE&quot;},{&quot;name&quot;:&quot;Kogi&quot;,&quot;code&quot;:&quot;KO&quot;},{&quot;name&quot;:&quot;Kwara&quot;,&quot;code&quot;:&quot;KW&quot;},{&quot;name&quot;:&quot;Lagos&quot;,&quot;code&quot;:&quot;LA&quot;},{&quot;name&quot;:&quot;Nasarawa&quot;,&quot;code&quot;:&quot;NA&quot;},{&quot;name&quot;:&quot;Niger&quot;,&quot;code&quot;:&quot;NI&quot;},{&quot;name&quot;:&quot;Ogun&quot;,&quot;code&quot;:&quot;OG&quot;},{&quot;name&quot;:&quot;Ondo&quot;,&quot;code&quot;:&quot;ON&quot;},{&quot;name&quot;:&quot;Osun&quot;,&quot;code&quot;:&quot;OS&quot;},{&quot;name&quot;:&quot;Oyo&quot;,&quot;code&quot;:&quot;OY&quot;},{&quot;name&quot;:&quot;Plateau&quot;,&quot;code&quot;:&quot;PL&quot;},{&quot;name&quot;:&quot;Rivers&quot;,&quot;code&quot;:&quot;RI&quot;},{&quot;name&quot;:&quot;Sokoto&quot;,&quot;code&quot;:&quot;SO&quot;},{&quot;name&quot;:&quot;Taraba&quot;,&quot;code&quot;:&quot;TA&quot;},{&quot;name&quot;:&quot;Yobe&quot;,&quot;code&quot;:&quot;YO&quot;},{&quot;name&quot;:&quot;Zamfara&quot;,&quot;code&quot;:&quot;ZA&quot;}]</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Montenegro</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">ME</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">MNE</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Andrijevica Municipality&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Bar Municipality&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Berane Municipality&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Bijelo Polje Municipality&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Budva Municipality&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Danilovgrad Municipality&quot;,&quot;code&quot;:&quot;07&quot;},{&quot;name&quot;:&quot;Gusinje Municipality&quot;,&quot;code&quot;:&quot;22&quot;},{&quot;name&quot;:&quot;Kolašin Municipality&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Kotor Municipality&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;Mojkovac Municipality&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;Nikšić Municipality&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;Old Royal Capital Cetinje&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;Petnjica Municipality&quot;,&quot;code&quot;:&quot;23&quot;},{&quot;name&quot;:&quot;Plav Municipality&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;Pljevlja Municipality&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Plužine Municipality&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Podgorica Municipality&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Rožaje Municipality&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Šavnik Municipality&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Tivat Municipality&quot;,&quot;code&quot;:&quot;19&quot;},{&quot;name&quot;:&quot;Ulcinj Municipality&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;Žabljak Municipality&quot;,&quot;code&quot;:&quot;21&quot;}]</value>
+    </values>
+</CustomMetadata>

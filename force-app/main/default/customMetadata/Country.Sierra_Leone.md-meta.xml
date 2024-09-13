@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Sierra Leone</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">SL</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">SLE</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Eastern Province&quot;,&quot;code&quot;:&quot;E&quot;},{&quot;name&quot;:&quot;Northern Province&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Southern Province&quot;,&quot;code&quot;:&quot;S&quot;},{&quot;name&quot;:&quot;Western Area&quot;,&quot;code&quot;:&quot;W&quot;}]</value>
+    </values>
+</CustomMetadata>

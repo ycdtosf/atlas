@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Kyrgyzstan</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">KG</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">KGZ</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Batken Region&quot;,&quot;code&quot;:&quot;B&quot;},{&quot;name&quot;:&quot;Bishkek&quot;,&quot;code&quot;:&quot;GB&quot;},{&quot;name&quot;:&quot;Chuy Region&quot;,&quot;code&quot;:&quot;C&quot;},{&quot;name&quot;:&quot;Issyk-Kul Region&quot;,&quot;code&quot;:&quot;Y&quot;},{&quot;name&quot;:&quot;Jalal-Abad Region&quot;,&quot;code&quot;:&quot;J&quot;},{&quot;name&quot;:&quot;Naryn Region&quot;,&quot;code&quot;:&quot;N&quot;},{&quot;name&quot;:&quot;Osh&quot;,&quot;code&quot;:&quot;GO&quot;},{&quot;name&quot;:&quot;Osh Region&quot;,&quot;code&quot;:&quot;O&quot;},{&quot;name&quot;:&quot;Talas Region&quot;,&quot;code&quot;:&quot;T&quot;}]</value>
+    </values>
+</CustomMetadata>

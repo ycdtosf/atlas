@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Dominican Republic</label>
+    <protected>false</protected>
+    <values>
+        <field>ISO2__c</field>
+        <value xsi:type="xsd:string">DO</value>
+    </values>
+    <values>
+        <field>ISO3__c</field>
+        <value xsi:type="xsd:string">DOM</value>
+    </values>
+    <values>
+        <field>StatesJSON__c</field>
+        <value xsi:type="xsd:string">[{ &quot;name&quot;:&quot;Azua Province&quot;,&quot;code&quot;:&quot;02&quot;},{&quot;name&quot;:&quot;Baoruco Province&quot;,&quot;code&quot;:&quot;03&quot;},{&quot;name&quot;:&quot;Barahona Province&quot;,&quot;code&quot;:&quot;04&quot;},{&quot;name&quot;:&quot;Dajabón Province&quot;,&quot;code&quot;:&quot;05&quot;},{&quot;name&quot;:&quot;Distrito Nacional&quot;,&quot;code&quot;:&quot;01&quot;},{&quot;name&quot;:&quot;Duarte Province&quot;,&quot;code&quot;:&quot;06&quot;},{&quot;name&quot;:&quot;El Seibo Province&quot;,&quot;code&quot;:&quot;08&quot;},{&quot;name&quot;:&quot;Espaillat Province&quot;,&quot;code&quot;:&quot;09&quot;},{&quot;name&quot;:&quot;Hato Mayor Province&quot;,&quot;code&quot;:&quot;30&quot;},{&quot;name&quot;:&quot;Hermanas Mirabal Province&quot;,&quot;code&quot;:&quot;19&quot;},{&quot;name&quot;:&quot;Independencia&quot;,&quot;code&quot;:&quot;10&quot;},{&quot;name&quot;:&quot;La Altagracia Province&quot;,&quot;code&quot;:&quot;11&quot;},{&quot;name&quot;:&quot;La Romana Province&quot;,&quot;code&quot;:&quot;12&quot;},{&quot;name&quot;:&quot;La Vega Province&quot;,&quot;code&quot;:&quot;13&quot;},{&quot;name&quot;:&quot;María Trinidad Sánchez Province&quot;,&quot;code&quot;:&quot;14&quot;},{&quot;name&quot;:&quot;Monseñor Nouel Province&quot;,&quot;code&quot;:&quot;28&quot;},{&quot;name&quot;:&quot;Monte Cristi Province&quot;,&quot;code&quot;:&quot;15&quot;},{&quot;name&quot;:&quot;Monte Plata Province&quot;,&quot;code&quot;:&quot;29&quot;},{&quot;name&quot;:&quot;Pedernales Province&quot;,&quot;code&quot;:&quot;16&quot;},{&quot;name&quot;:&quot;Peravia Province&quot;,&quot;code&quot;:&quot;17&quot;},{&quot;name&quot;:&quot;Puerto Plata Province&quot;,&quot;code&quot;:&quot;18&quot;},{&quot;name&quot;:&quot;Samaná Province&quot;,&quot;code&quot;:&quot;20&quot;},{&quot;name&quot;:&quot;San Cristóbal Province&quot;,&quot;code&quot;:&quot;21&quot;},{&quot;name&quot;:&quot;San José de Ocoa Province&quot;,&quot;code&quot;:&quot;31&quot;},{&quot;name&quot;:&quot;San Juan Province&quot;,&quot;code&quot;:&quot;22&quot;},{&quot;name&quot;:&quot;San Pedro de Macorís&quot;,&quot;code&quot;:&quot;23&quot;},{&quot;name&quot;:&quot;Sánchez Ramírez Province&quot;,&quot;code&quot;:&quot;24&quot;},{&quot;name&quot;:&quot;Santiago Province&quot;,&quot;code&quot;:&quot;25&quot;},{&quot;name&quot;:&quot;Santiago Rodríguez Province&quot;,&quot;code&quot;:&quot;26&quot;},{&quot;name&quot;:&quot;Santo Domingo Province&quot;,&quot;code&quot;:&quot;32&quot;},{&quot;name&quot;:&quot;Valverde Province&quot;,&quot;code&quot;:&quot;27&quot;}]</value>
+    </values>
+</CustomMetadata>
