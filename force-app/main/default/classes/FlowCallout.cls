@@ -3,6 +3,10 @@ public with sharing class FlowCallout {
     public static Map<String, Object> callout(String namespace, String flowName, Map<String, Object> inputVariables, List<String> outputVariableNames) {
         
         Flow.Interview theFlow;
+        Map<String, Object> outputVariableValues = new Map<String, Object> {
+            'flow_callout_success' => true,
+            'flow_callout_error' => null
+        };
 
         if(inputVariables == null) inputVariables = new Map<String, Object>();
 
@@ -12,19 +16,19 @@ public with sharing class FlowCallout {
             else theFlow = Flow.Interview.createInterview(flowName, inputVariables);
             theFlow.start();
 
-            Map<String, Object> outputVariables = new Map<String, Object>();
 
             if(outputVariableNames != null) {
                 for(String outputVariableName : outputVariableNames) {
-                    outputVariables.put(outputVariableName, theFlow.getVariableValue(outputVariableName));
+                    outputVariableValues.put(outputVariableName, theFlow.getVariableValue(outputVariableName));
                 }
             }
     
-            return outputVariables;
-
         } catch (Exception e) {
-            throw new AuraHandledException(e.getMessage());
+            outputVariableValues.put('flow_callout_success', false);
+            outputVariableValues.put('flow_callout_error', e.getMessage());
         }
+        
+        return outputVariableValues;
 
     }
 
